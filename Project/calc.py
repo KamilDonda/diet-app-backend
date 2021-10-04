@@ -9,9 +9,4 @@ def load_data_pandas():
     return data
 
 df = load_data_pandas()
-# df = df[df['Serving Size'].str.contains(' g')]
-# df['Serving Size'] = df['Serving Size'].str.replace(')','').str.replace(' g','').str.split('(').str[1]
-
 print(df)
-
-# df.to_csv('data.csv', index=False)
