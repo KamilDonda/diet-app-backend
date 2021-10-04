@@ -1,0 +1,119 @@
+Name,Serving Size,Calories,Fat,Carbohydrates,Protein
+Egg McMuffin,136,300,13.0,31,17
+Egg White Delight,135,250,8.0,30,18
+Sausage McMuffin,111,370,23.0,29,14
+Sausage McMuffin with Egg,161,450,28.0,30,21
+Sausage McMuffin with Egg Whites,161,400,23.0,30,21
+Steak & Egg McMuffin,185,430,23.0,31,26
+"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",150,460,26.0,38,19
+"Bacon, Egg & Cheese Biscuit (Large Biscuit)",164,520,30.0,43,19
+"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",153,410,20.0,36,20
+"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",167,470,25.0,42,20
+Sausage Biscuit (Regular Biscuit),117,430,27.0,34,11
+Sausage Biscuit (Large Biscuit),131,480,31.0,39,11
+Sausage Biscuit with Egg (Regular Biscuit),163,510,33.0,36,18
+Sausage Biscuit with Egg (Large Biscuit),177,570,37.0,42,18
+Sausage Biscuit with Egg Whites (Regular Biscuit),167,460,27.0,34,18
+Sausage Biscuit with Egg Whites (Large Biscuit),181,520,32.0,40,18
+Southern Style Chicken Biscuit (Regular Biscuit),143,410,20.0,41,17
+Southern Style Chicken Biscuit (Large Biscuit),157,470,24.0,46,17
+Steak & Egg Biscuit (Regular Biscuit),201,540,32.0,38,25
+"Bacon, Egg & Cheese McGriddles",174,460,21.0,48,19
+"Bacon, Egg & Cheese McGriddles with Egg Whites",178,400,15.0,47,20
+Sausage McGriddles,141,420,22.0,44,11
+"Sausage, Egg & Cheese McGriddles",201,550,31.0,48,20
+"Sausage, Egg & Cheese McGriddles with Egg Whites",205,500,26.0,46,21
+"Bacon, Egg & Cheese Bagel",197,620,31.0,57,30
+"Bacon, Egg & Cheese Bagel with Egg Whites",201,570,25.0,55,30
+"Steak, Egg & Cheese Bagel",241,670,35.0,56,33
+Big Breakfast (Regular Biscuit),269,740,48.0,51,28
+Big Breakfast (Large Biscuit),283,800,52.0,56,28
+Big Breakfast with Egg Whites (Regular Biscuit),272,640,37.0,50,26
+Big Breakfast with Egg Whites (Large Biscuit),286,690,41.0,55,26
+Big Breakfast with Hotcakes (Regular Biscuit),420,1090,56.0,111,36
+Big Breakfast with Hotcakes (Large Biscuit),434,1150,60.0,116,36
+Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),423,990,46.0,110,35
+Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),437,1050,50.0,115,35
+Hotcakes,151,350,9.0,60,8
+Hotcakes and Sausage,192,520,24.0,61,15
+Sausage Burrito,111,300,16.0,26,12
+Hash Brown,56,150,9.0,15,1
+Cinnamon Melts,114,460,19.0,66,6
+Fruit & Maple Oatmeal,251,290,4.0,58,5
+Fruit & Maple Oatmeal without Brown Sugar,251,260,4.0,49,5
+Big Mac,211,530,27.0,47,24
+Quarter Pounder with Cheese,202,520,26.0,41,30
+Quarter Pounder with Bacon & Cheese,227,600,29.0,48,37
+Quarter Pounder with Bacon Habanero Ranch,235,610,31.0,46,37
+Quarter Pounder Deluxe,244,540,27.0,45,29
+Double Quarter Pounder with Cheese,283,750,43.0,42,48
+Hamburger,98,240,8.0,32,12
+Cheeseburger,113,290,11.0,33,15
+Double Cheeseburger,161,430,21.0,35,24
+Bacon Clubhouse Burger,270,720,40.0,51,39
+McDouble,147,380,17.0,34,22
+Bacon McDouble,161,440,22.0,35,27
+Daily Double,190,430,22.0,34,22
+JalapeĂ±o Double,159,430,23.0,35,22
+McRib,208,500,26.0,44,22
+Premium Crispy Chicken Classic Sandwich,213,510,22.0,55,24
+Premium Grilled Chicken Classic Sandwich,200,350,9.0,42,28
+Premium Crispy Chicken Club Sandwich,249,670,33.0,58,36
+Premium Grilled Chicken Club Sandwich,235,510,20.0,44,40
+Premium Crispy Chicken Ranch BLT Sandwich,230,610,28.0,57,32
+Premium Grilled Chicken Ranch BLT Sandwich,217,450,15.0,43,36
+Bacon Clubhouse Crispy Chicken Sandwich,284,750,38.0,65,36
+Bacon Clubhouse Grilled Chicken Sandwich,270,590,25.0,51,40
+Southern Style Crispy Chicken Sandwich,160,430,19.0,43,21
+McChicken,143,360,16.0,40,14
+Bacon Cheddar McChicken,171,480,24.0,43,22
+Bacon Buffalo Ranch McChicken,161,430,21.0,41,20
+Buffalo Ranch McChicken,148,360,16.0,40,14
+Premium McWrap Chicken & Bacon (Crispy Chicken),316,630,32.0,56,32
+Premium McWrap Chicken & Bacon (Grilled Chicken),302,480,19.0,42,36
+Premium McWrap Chicken & Ranch (Crispy Chicken),310,610,31.0,56,27
+Premium McWrap Chicken & Ranch (Grilled Chicken),297,450,18.0,42,30
+Premium McWrap Southwest Chicken (Crispy Chicken),314,670,33.0,68,27
+Premium McWrap Southwest Chicken (Grilled Chicken),318,520,20.0,55,31
+Premium McWrap Chicken Sweet Chili (Crispy Chicken),304,540,23.0,61,23
+Premium McWrap Chicken Sweet Chili (Grilled Chicken),291,380,10.0,47,27
+Chicken McNuggets (4 piece),65,190,12.0,12,9
+Chicken McNuggets (6 piece),97,280,18.0,18,13
+Chicken McNuggets (10 piece),162,470,30.0,30,22
+Chicken McNuggets (20 piece),323,940,59.0,59,44
+Chicken McNuggets (40 piece),646,1880,118.0,118,87
+Filet-O-Fish,142,390,19.0,39,15
+Premium Bacon Ranch Salad (without Chicken),223,140,7.0,10,9
+Premium Bacon Ranch Salad with Crispy Chicken,255,380,21.0,22,25
+Premium Bacon Ranch Salad with Grilled Chicken,241,220,8.0,8,29
+Premium Southwest Salad (without Chicken),230,140,4.5,20,6
+Premium Southwest Salad with Crispy Chicken,348,450,22.0,42,23
+Premium Southwest Salad with Grilled Chicken,335,290,8.0,28,27
+Chipotle BBQ Snack Wrap (Crispy Chicken),130,340,15.0,37,14
+Chipotle BBQ Snack Wrap (Grilled Chicken),123,260,8.0,30,16
+Honey Mustard Snack Wrap (Crispy Chicken),123,330,15.0,34,14
+Honey Mustard Snack Wrap (Grilled Chicken),116,250,8.0,27,16
+Ranch Snack Wrap (Crispy Chicken),128,360,20.0,32,15
+Ranch Snack Wrap (Grilled Chicken),121,280,13.0,25,16
+Small French Fries,75,230,11.0,30,2
+Medium French Fries,111,340,16.0,44,4
+Large French Fries,168,510,24.0,67,6
+Kids French Fries,38,110,5.0,15,1
+Side Salad,87,20,0.0,4,1
+Apple Slices,34,15,0.0,4,0
+Fruit 'n Yogurt Parfait,149,150,2.0,30,4
+Baked Apple Pie,77,250,13.0,32,2
+Chocolate Chip Cookie,33,160,8.0,21,2
+Oatmeal Raisin Cookie,33,150,6.0,22,2
+Kids Ice Cream Cone,29,45,1.5,7,1
+Hot Fudge Sundae,179,330,9.0,53,8
+Hot Caramel Sundae,182,340,8.0,60,7
+Strawberry Sundae,178,280,6.0,49,6
+McFlurry with M&Mâ€™s Candies (Small),310,650,23.0,96,13
+McFlurry with M&Mâ€™s Candies (Medium),460,930,33.0,139,20
+McFlurry with M&Mâ€™s Candies (Snack),207,430,15.0,64,9
+McFlurry with Oreo Cookies (Small),285,510,17.0,80,12
+McFlurry with Oreo Cookies (Medium),381,690,23.0,106,15
+McFlurry with Oreo Cookies (Snack),190,340,11.0,53,8
+McFlurry with Reese's Peanut Butter Cups (Medium),403,810,32.0,114,21
+McFlurry with Reese's Peanut Butter Cups (Snack),202,410,16.0,57,10
