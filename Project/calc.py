@@ -8,5 +8,3 @@ def load_data_pandas():
     data = data.drop(columns=[])
     return data
 
-df = load_data_pandas()
-print(df)
