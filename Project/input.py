@@ -28,7 +28,7 @@ def calcInput(gender, age, weight, height, activity, goal, preference):
     carbs = calcCarbs(totalCalories, proteins, fats)
 
     # temporary function, only for display input and output
-    printResults(gender, age, weight, height, activity, goal, preference, BMR, AMR, totalCalories, proteins, fats, carbs)
+    # printResults(gender, age, weight, height, activity, goal, preference, BMR, AMR, totalCalories, proteins, fats, carbs)
     return totalCalories, proteins, fats, carbs
 
 def calcBMR(gender, age, weight, height):
