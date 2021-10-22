@@ -1,21 +1,21 @@
-Name;Serving Size;Calories;Fat;Carbohydrates;Protein;Calories (per 1g);Fat (per 1g);Carbohydrates (per 1g);Protein (per 1g);Dieta
-Sausage McMuffin with Egg Whites;161;400;23;30;21;2,48;0,14;0,19;0,13;0
-Sausage Biscuit with Egg (Regular Biscuit);163;510;33;36;18;3,13;0,2;0,22;0,11;0
-Sausage, Egg & Cheese McGriddles with Egg Whites;205;500;26;46;21;2,44;0,13;0,22;0,1;0
-Big Breakfast with Hotcakes (Regular Biscuit);420;1090;56;111;36;2,6;0,13;0,26;0,09;1
-Hash Brown;56;150;9;15;1;2,68;0,16;0,27;0,02;-1
-Quarter Pounder Deluxe;244;540;27;45;29;2,21;0,11;0,18;0,12;0
-Bacon McDouble;161;440;22;35;27;2,73;0,14;0,22;0,17;0
-Premium Crispy Chicken Ranch BLT Sandwich;230;610;28;57;32;2,65;0,12;0,25;0,14;0
-Premium McWrap Chicken & Ranch (Crispy Chicken);310;610;31;56;27;1,97;0,1;0,18;0,09;0
-Chicken McNuggets (6 piece);97;280;18;18;13;2,89;0,19;0,19;0,13;-1
-Premium Bacon Ranch Salad with Grilled Chicken;241;220;8;8;29;0,91;0,03;0,03;0,12;-1
-Chipotle BBQ Snack Wrap (Crispy Chicken);130;340;15;37;14;2,62;0,12;0,28;0,11;-1
-Small French Fries;75;230;11;30;2;3,07;0,15;0,4;0,03;-1
-Chocolate Chip Cookie;33;160;8;21;2;4,85;0,24;0,64;0,06;-1
-McFlurry with M&M’s Candies (Medium);460;930;33;139;20;2,02;0,07;0,3;0,04;1
-McFlurry with Oreo Cookies (Snack);190;340;11;53;8;1,79;0,06;0,28;0,04;-1
-Sausage, Egg & Cheese McGriddles;201;550;31;48;20;2,74;0,15;0,24;0,1;0
-McChicken;143;360;16;40;14;2,52;0,11;0,28;0,1;-1
-Fruit 'n Yogurt Parfait;149;150;2;30;4;1,01;0,01;0,2;0,03;-1
-Big Breakfast (Large Biscuit);283;800;52;56;28;2,83;0,18;0,2;0,1;1
+Serving Size	Calories	Fat	Carbohydrates	Protein	Dieta
+161	400	23	30	21	0
+163	510	33	36	18	0
+205	500	26	46	21	0
+420	1090	56	111	36	1
+56	150	9	15	1	-1
+244	540	27	45	29	0
+161	440	22	35	27	0
+230	610	28	57	32	0
+310	610	31	56	27	0
+97	280	18	18	13	-1
+241	220	8	8	29	-1
+130	340	15	37	14	-1
+75	230	11	30	2	-1
+33	160	8	21	2	-1
+460	930	33	139	20	1
+190	340	11	53	8	-1
+201	550	31	48	20	0
+143	360	16	40	14	-1
+149	150	2	30	4	-1
+283	800	52	56	28	1

@@ -1,95 +1,95 @@
-Name;Serving Size;Calories;Fat;Carbohydrates;Protein;Column1;Calories (per 1g);Fat (per 1g);Carbohydrates (per 1g);Protein (per 1g)
-Egg McMuffin;136;300;13;31;17;;2,21;0,1;0,23;0,13
-Egg White Delight;135;250;8;30;18;;1,85;0,06;0,22;0,13
-Sausage McMuffin;111;370;23;29;14;;3,33;0,21;0,26;0,13
-Sausage McMuffin with Egg;161;450;28;30;21;;2,8;0,17;0,19;0,13
-Steak & Egg McMuffin;185;430;23;31;26;;2,32;0,12;0,17;0,14
-Bacon, Egg & Cheese Biscuit (Regular Biscuit);150;460;26;38;19;;3,07;0,17;0,25;0,13
-Bacon, Egg & Cheese Biscuit (Large Biscuit);164;520;30;43;19;;3,17;0,18;0,26;0,12
-Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit);153;410;20;36;20;;2,68;0,13;0,24;0,13
-Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit);167;470;25;42;20;;2,81;0,15;0,25;0,12
-Sausage Biscuit (Regular Biscuit);117;430;27;34;11;;3,68;0,23;0,29;0,09
-Sausage Biscuit (Large Biscuit);131;480;31;39;11;;3,66;0,24;0,3;0,08
-Sausage Biscuit with Egg (Large Biscuit);177;570;37;42;18;;3,22;0,21;0,24;0,1
-Sausage Biscuit with Egg Whites (Regular Biscuit);167;460;27;34;18;;2,75;0,16;0,2;0,11
-Sausage Biscuit with Egg Whites (Large Biscuit);181;520;32;40;18;;2,87;0,18;0,22;0,1
-Southern Style Chicken Biscuit (Regular Biscuit);143;410;20;41;17;;2,87;0,14;0,29;0,12
-Southern Style Chicken Biscuit (Large Biscuit);157;470;24;46;17;;2,99;0,15;0,29;0,11
-Steak & Egg Biscuit (Regular Biscuit);201;540;32;38;25;;2,69;0,16;0,19;0,12
-Bacon, Egg & Cheese McGriddles;174;460;21;48;19;;2,64;0,12;0,28;0,11
-Bacon, Egg & Cheese McGriddles with Egg Whites;178;400;15;47;20;;2,25;0,08;0,26;0,11
-Sausage McGriddles;141;420;22;44;11;;2,98;0,16;0,31;0,08
-Bacon, Egg & Cheese Bagel;197;620;31;57;30;;3,15;0,16;0,29;0,15
-Bacon, Egg & Cheese Bagel with Egg Whites;201;570;25;55;30;;2,84;0,12;0,27;0,15
-Steak, Egg & Cheese Bagel;241;670;35;56;33;;2,78;0,15;0,23;0,14
-Big Breakfast (Regular Biscuit);269;740;48;51;28;;2,75;0,18;0,19;0,1
-Big Breakfast with Egg Whites (Regular Biscuit);272;640;37;50;26;;2,35;0,14;0,18;0,1
-Big Breakfast with Egg Whites (Large Biscuit);286;690;41;55;26;;2,41;0,14;0,19;0,09
-Big Breakfast with Hotcakes (Large Biscuit);434;1150;60;116;36;;2,65;0,14;0,27;0,08
-Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit);423;990;46;110;35;;2,34;0,11;0,26;0,08
-Big Breakfast with Hotcakes and Egg Whites (Large Biscuit);437;1050;50;115;35;;2,4;0,11;0,26;0,08
-Hotcakes;151;350;9;60;8;;2,32;0,06;0,4;0,05
-Hotcakes and Sausage;192;520;24;61;15;;2,71;0,13;0,32;0,08
-Sausage Burrito;111;300;16;26;12;;2,7;0,14;0,23;0,11
-Cinnamon Melts;114;460;19;66;6;;4,04;0,17;0,58;0,05
-Fruit & Maple Oatmeal;251;290;4;58;5;;1,16;0,02;0,23;0,02
-Fruit & Maple Oatmeal without Brown Sugar;251;260;4;49;5;;1,04;0,02;0,2;0,02
-Big Mac;211;530;27;47;24;;2,51;0,13;0,22;0,11
-Quarter Pounder with Cheese;202;520;26;41;30;;2,57;0,13;0,2;0,15
-Quarter Pounder with Bacon & Cheese;227;600;29;48;37;;2,64;0,13;0,21;0,16
-Quarter Pounder with Bacon Habanero Ranch;235;610;31;46;37;;2,6;0,13;0,2;0,16
-Double Quarter Pounder with Cheese;283;750;43;42;48;;2,65;0,15;0,15;0,17
-Hamburger;98;240;8;32;12;;2,45;0,08;0,33;0,12
-Cheeseburger;113;290;11;33;15;;2,57;0,1;0,29;0,13
-Double Cheeseburger;161;430;21;35;24;;2,67;0,13;0,22;0,15
-Bacon Clubhouse Burger;270;720;40;51;39;;2,67;0,15;0,19;0,14
-McDouble;147;380;17;34;22;;2,59;0,12;0,23;0,15
-Daily Double;190;430;22;34;22;;2,26;0,12;0,18;0,12
-Jalapeño Double;159;430;23;35;22;;2,7;0,14;0,22;0,14
-McRib;208;500;26;44;22;;2,4;0,13;0,21;0,11
-Premium Crispy Chicken Classic Sandwich;213;510;22;55;24;;2,39;0,1;0,26;0,11
-Premium Grilled Chicken Classic Sandwich;200;350;9;42;28;;1,75;0,05;0,21;0,14
-Premium Crispy Chicken Club Sandwich;249;670;33;58;36;;2,69;0,13;0,23;0,14
-Premium Grilled Chicken Club Sandwich;235;510;20;44;40;;2,17;0,09;0,19;0,17
-Premium Grilled Chicken Ranch BLT Sandwich;217;450;15;43;36;;2,07;0,07;0,2;0,17
-Bacon Clubhouse Crispy Chicken Sandwich;284;750;38;65;36;;2,64;0,13;0,23;0,13
-Bacon Clubhouse Grilled Chicken Sandwich;270;590;25;51;40;;2,19;0,09;0,19;0,15
-Southern Style Crispy Chicken Sandwich;160;430;19;43;21;;2,69;0,12;0,27;0,13
-Bacon Cheddar McChicken;171;480;24;43;22;;2,81;0,14;0,25;0,13
-Bacon Buffalo Ranch McChicken;161;430;21;41;20;;2,67;0,13;0,25;0,12
-Buffalo Ranch McChicken;148;360;16;40;14;;2,43;0,11;0,27;0,09
-Premium McWrap Chicken & Bacon (Crispy Chicken);316;630;32;56;32;;1,99;0,1;0,18;0,1
-Premium McWrap Chicken & Bacon (Grilled Chicken);302;480;19;42;36;;1,59;0,06;0,14;0,12
-Premium McWrap Chicken & Ranch (Grilled Chicken);297;450;18;42;30;;1,52;0,06;0,14;0,1
-Premium McWrap Southwest Chicken (Crispy Chicken);314;670;33;68;27;;2,13;0,11;0,22;0,09
-Premium McWrap Southwest Chicken (Grilled Chicken);318;520;20;55;31;;1,64;0,06;0,17;0,1
-Premium McWrap Chicken Sweet Chili (Crispy Chicken);304;540;23;61;23;;1,78;0,08;0,2;0,08
-Premium McWrap Chicken Sweet Chili (Grilled Chicken);291;380;10;47;27;;1,31;0,03;0,16;0,09
-Chicken McNuggets (4 piece);65;190;12;12;9;;2,92;0,18;0,18;0,14
-Chicken McNuggets (10 piece);162;470;30;30;22;;2,9;0,19;0,19;0,14
-Chicken McNuggets (20 piece);323;940;59;59;44;;2,91;0,18;0,18;0,14
-Filet-O-Fish;142;390;19;39;15;;2,75;0,13;0,27;0,11
-Premium Bacon Ranch Salad (without Chicken);223;140;7;10;9;;0,63;0,03;0,04;0,04
-Premium Bacon Ranch Salad with Crispy Chicken;255;380;21;22;25;;1,49;0,08;0,09;0,1
-Premium Southwest Salad (without Chicken);230;140;4;20;6;;0,61;0,02;0,09;0,03
-Premium Southwest Salad with Crispy Chicken;348;450;22;42;23;;1,29;0,06;0,12;0,07
-Premium Southwest Salad with Grilled Chicken;335;290;8;28;27;;0,87;0,02;0,08;0,08
-Chipotle BBQ Snack Wrap (Grilled Chicken);123;260;8;30;16;;2,11;0,07;0,24;0,13
-Honey Mustard Snack Wrap (Crispy Chicken);123;330;15;34;14;;2,68;0,12;0,28;0,11
-Honey Mustard Snack Wrap (Grilled Chicken);116;250;8;27;16;;2,16;0,07;0,23;0,14
-Ranch Snack Wrap (Crispy Chicken);128;360;20;32;15;;2,81;0,16;0,25;0,12
-Ranch Snack Wrap (Grilled Chicken);121;280;13;25;16;;2,31;0,11;0,21;0,13
-Medium French Fries;111;340;16;44;4;;3,06;0,14;0,4;0,04
-Large French Fries;168;510;24;67;6;;3,04;0,14;0,4;0,04
-Kids French Fries;38;110;5;15;1;;2,89;0,13;0,39;0,03
-Baked Apple Pie;77;250;13;32;2;;3,25;0,17;0,42;0,03
-Oatmeal Raisin Cookie;33;150;6;22;2;;4,55;0,18;0,67;0,06
-Hot Fudge Sundae;179;330;9;53;8;;1,84;0,05;0,3;0,04
-Hot Caramel Sundae;182;340;8;60;7;;1,87;0,04;0,33;0,04
-Strawberry Sundae;178;280;6;49;6;;1,57;0,03;0,28;0,03
-McFlurry with M&M’s Candies (Small);310;650;23;96;13;;2,1;0,07;0,31;0,04
-McFlurry with M&M’s Candies (Snack);207;430;15;64;9;;2,08;0,07;0,31;0,04
-McFlurry with Oreo Cookies (Small);285;510;17;80;12;;1,79;0,06;0,28;0,04
-McFlurry with Oreo Cookies (Medium);381;690;23;106;15;;1,81;0,06;0,28;0,04
-McFlurry with Reese's Peanut Butter Cups (Medium);403;810;32;114;21;;2,01;0,08;0,28;0,05
-McFlurry with Reese's Peanut Butter Cups (Snack);202;410;16;57;10;;2,03;0,08;0,28;0,05
+Serving Size	Calories	Fat	Carbohydrates	Protein
+136	300	13	31	17
+135	250	8	30	18
+111	370	23	29	14
+161	450	28	30	21
+185	430	23	31	26
+150	460	26	38	19
+164	520	30	43	19
+153	410	20	36	20
+167	470	25	42	20
+117	430	27	34	11
+131	480	31	39	11
+177	570	37	42	18
+167	460	27	34	18
+181	520	32	40	18
+143	410	20	41	17
+157	470	24	46	17
+201	540	32	38	25
+174	460	21	48	19
+178	400	15	47	20
+141	420	22	44	11
+197	620	31	57	30
+201	570	25	55	30
+241	670	35	56	33
+269	740	48	51	28
+272	640	37	50	26
+286	690	41	55	26
+434	1150	60	116	36
+423	990	46	110	35
+437	1050	50	115	35
+151	350	9	60	8
+192	520	24	61	15
+111	300	16	26	12
+114	460	19	66	6
+251	290	4	58	5
+251	260	4	49	5
+211	530	27	47	24
+202	520	26	41	30
+227	600	29	48	37
+235	610	31	46	37
+283	750	43	42	48
+98	240	8	32	12
+113	290	11	33	15
+161	430	21	35	24
+270	720	40	51	39
+147	380	17	34	22
+190	430	22	34	22
+159	430	23	35	22
+208	500	26	44	22
+213	510	22	55	24
+200	350	9	42	28
+249	670	33	58	36
+235	510	20	44	40
+217	450	15	43	36
+284	750	38	65	36
+270	590	25	51	40
+160	430	19	43	21
+171	480	24	43	22
+161	430	21	41	20
+148	360	16	40	14
+316	630	32	56	32
+302	480	19	42	36
+297	450	18	42	30
+314	670	33	68	27
+318	520	20	55	31
+304	540	23	61	23
+291	380	10	47	27
+65	190	12	12	9
+162	470	30	30	22
+323	940	59	59	44
+142	390	19	39	15
+223	140	7	10	9
+255	380	21	22	25
+230	140	4	20	6
+348	450	22	42	23
+335	290	8	28	27
+123	260	8	30	16
+123	330	15	34	14
+116	250	8	27	16
+128	360	20	32	15
+121	280	13	25	16
+111	340	16	44	4
+168	510	24	67	6
+38	110	5	15	1
+77	250	13	32	2
+33	150	6	22	2
+179	330	9	53	8
+182	340	8	60	7
+178	280	6	49	6
+310	650	23	96	13
+207	430	15	64	9
+285	510	17	80	12
+381	690	23	106	15
+403	810	32	114	21
+202	410	16	57	10
