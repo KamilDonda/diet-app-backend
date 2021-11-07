@@ -1,0 +1,5 @@
+#virtual environment for flask
+venv
+
+#python cache
+__pycache__
