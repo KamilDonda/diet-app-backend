@@ -27,6 +27,6 @@ def init_db():
             db.cursor().executescript(f.read())
         db.commit()
 
-@app.route("/")
+@app.route('/')
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return '<p>Hello, World!</p>'

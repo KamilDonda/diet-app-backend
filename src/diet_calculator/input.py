@@ -27,7 +27,9 @@ def calcInput(gender, age, weight, height, activity, goal, preference):
     fats = calcFatsNeeded(totalCalories)
     carbs = calcCarbs(totalCalories, proteins, fats)
 
-    printResults(gender, age, weight, height, activity, goal, preference, BMR, AMR, totalCalories, proteins, fats, carbs)
+    # temporary function, only for display input and output
+    # printResults(gender, age, weight, height, activity, goal, preference, BMR, AMR, totalCalories, proteins, fats, carbs)
+    return totalCalories, proteins, fats, carbs
 
 def calcBMR(gender, age, weight, height):
     # Mifflin-St Jeor Equation:
@@ -115,4 +117,4 @@ def printResults(gender, age, weight, height, activity, goal, preference, BMR, A
 
 
 # Gender, Age, Weight, Height, Activity, Goal, Preferences
-calcInput(True, 22, 70, 175, 2, 2, 'Preferences')
+# calcInput(True, 22, 70, 175, 2, 2, 'Preferences')
