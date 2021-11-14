@@ -6,3 +6,6 @@ user_calories, user_proteins, user_fats, user_carbs = input.calcInput(
 
 
 print(calc)
+
+result = calc.get_user_classification(user_calories)
+print("User classification:", result)

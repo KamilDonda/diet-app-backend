@@ -15,8 +15,12 @@ def load_rules():
     data = pd.read_csv('./src/diet_calculator/test_data/rules.csv')
     return data
 
-df = load_data_pandas('./src/diet_calculator/test_data/train.csv')
-df_test = load_data_pandas('./src/diet_calculator/test_data/test.csv')
+def load_user_rules():
+    data = pd.read_csv('./src/diet_calculator/test_data/rules-user.csv') #Zmienic sciezke
+    return data
+
+df = load_data_pandas('./src/diet_calculator/test_data/train.csv') #Zmienic sciezke
+df_test = load_data_pandas('./src/diet_calculator/test_data/test.csv') #Zmienic sciezke
 rules = load_rules()
 
 def histogram():
@@ -133,6 +137,16 @@ def get_classification(rules, calories, fat, carbo, protein):
 
     print(rule['Dieta'].values[0])
     return rule['Dieta'].values[0]
+
+def get_user_classification(calories):
+    small = 2200
+    large = 2800
+
+    if(calories <= small):
+        return -1
+    if(calories >= large):
+        return 1
+    return 0
 
 y_preds_series = df_test.apply(lambda row: get_classification(rules,
                                                    row['Calories'],
