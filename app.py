@@ -28,18 +28,23 @@ def init_db():
         db.commit()
 
 
-def create_request(query, params):
+def create_request(query, params=''):
     db = get_db()
     cur = db.cursor()
     cur.execute(query, params)
     db.commit()
-    return cur.lastrowid
+    return cur
 
 
 def insert_or_replace_meal_request(params):
     query = ''' INSERT OR REPLACE INTO meal(id,name,description,category)
         VALUES(?,?,?,?) '''
-    create_request(query, params)
+    return create_request(query, params)
+
+
+def select_all_meals():
+    query = ''' SELECT * FROM MEAL '''
+    return create_request(query)
 
 
 @app.route('/')
@@ -48,7 +53,7 @@ def hello_world():
 
 
 @app.route('/insert_meal')
-def insert():
+def insert_meal():
     try:
         id = request.args.get('id')
         name = request.args.get('name')
@@ -60,12 +65,18 @@ def insert():
 
         if not category in ('breakfast', 'dinner', 'supper'):
             return 'Not in category'
-    
+
         params = (id, name, description, category)
         insert_or_replace_meal_request(params)
         return 'Ok'
     except:
         return 'Exception'
+
+
+@app.route('/meals')
+def get_meals():
+    output = select_all_meals().fetchall()
+    return str(output)
 
 
 if __name__ == '__main__':
