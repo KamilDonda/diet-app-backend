@@ -61,6 +61,11 @@ def select_all_from_table(table):
     return create_request(query)
 
 
+def select_by_id(table, id):
+    query = f''' SELECT * FROM {table} WHERE ID = {id}'''
+    return create_request(query)
+
+
 @app.route('/')
 def hello_world():
     return '<p>Hello, World!</p>'
@@ -87,19 +92,39 @@ def insert_meal():
         return 'Exception'
 
 
-@app.route('/meals')
+@app.route('/meals/')
 def get_meals():
     output = select_all_from_table('meal').fetchall()
     return str(output)
 
-@app.route('/ingredients')
+
+@app.route('/meals/<id>')
+def get_meal_by_id(id):
+    output = select_by_id('meal', id).fetchall()
+    return str(output)
+
+
+@app.route('/ingredients/')
 def get_ingredients():
     output = select_all_from_table('ingredient').fetchall()
     return str(output)
 
-@app.route('/meals_ingredients')
+
+@app.route('/ingredients/<id>')
+def get_ingredient_by_id(id):
+    output = select_by_id('ingredient', id).fetchall()
+    return str(output)
+
+
+@app.route('/meals_ingredients/')
 def get_meals_ingredients():
     output = select_all_from_table('meal_indredient').fetchall()
+    return str(output)
+
+
+@app.route('/meals_ingredients/<id>')
+def get_meals_ingredients_by_id(id):
+    output = select_by_id('meal_indredient', id).fetchall()
     return str(output)
 
 
