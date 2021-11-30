@@ -7,3 +7,14 @@ class IngredientEntity:
         self.fats = fats
         self.proteins = proteins
         self.tags = tags
+
+    def serialize(self):
+        return {
+            'id': self.id,
+            'name': self.name,
+            'kcal': self.kcal,
+            'carbohydrates': self.carbohydrates,
+            'fats': self.fats,
+            'proteins': self.proteins,
+            'tags': self.tags,
+        }

@@ -1,6 +1,9 @@
-from flask import Flask, g, request
+from flask import Flask, g, request, jsonify
 import sqlite3
 import os.path
+from src.database.entities.MealIngredientEntity import MealIngredientEntity
+from src.database.entities.IngredientEntity import IngredientEntity
+from src.database.entities.MealEntity import MealEntity
 
 app = Flask(__name__)
 
@@ -94,40 +97,55 @@ def insert_meal():
 
 @app.route('/meals/')
 def get_meals():
-    output = select_all_from_table('meal').fetchall()
-    return str(output)
+    meals = select_all_from_table('meal').fetchall()
+
+    mealsJSON = []
+    for meal in meals:
+        id, name, desc, cat = meal
+        mealsJSON.append(MealEntity(id, name, desc, cat).serialize())
+
+    return jsonify(mealsJSON)
 
 
 @app.route('/meals/<id>')
 def get_meal_by_id(id):
-    output = select_by_id('meal', id).fetchall()
-    return str(output)
+    id, name, desc, cat = select_by_id('meal', id).fetchone()
+    return MealEntity(id, name, desc, cat).serialize()
 
 
 @app.route('/ingredients/')
 def get_ingredients():
-    output = select_all_from_table('ingredient').fetchall()
-    return str(output)
+    ingredients = select_all_from_table('ingredient').fetchall()
+    ingredientsJSON = []
+    for ingredient in ingredients:
+        id, name, kcal, carbs, fats, prots, tags = ingredient
+        ingredientsJSON.append(IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize())
+    return jsonify(ingredientsJSON)
 
 
 @app.route('/ingredients/<id>')
 def get_ingredient_by_id(id):
-    output = select_by_id('ingredient', id).fetchall()
-    return str(output)
+    id, name, kcal, carbs, fats, prots, tags = select_by_id('ingredient', id).fetchone()
+    return IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize()
 
 
 @app.route('/meals_ingredients/')
 def get_meals_ingredients():
-    output = select_all_from_table('meal_indredient').fetchall()
-    return str(output)
+    meals_ingredients = select_all_from_table('meal_indredient').fetchall()
+    meals_ingredientsJSON = []
+    for mi in meals_ingredients:
+        id, meal_id, ing_name, desc, amount = mi
+        meals_ingredientsJSON.append(MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize())
+    return jsonify(meals_ingredientsJSON)
 
 
 @app.route('/meals_ingredients/<id>')
 def get_meals_ingredients_by_id(id):
-    output = select_by_id('meal_indredient', id).fetchall()
-    return str(output)
+    id, meal_id, ing_name, desc, amount = select_by_id('meal_indredient', id).fetchone()
+    return MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize()
 
 
 if __name__ == '__main__':
     init_db()
+    app.config['JSON_AS_ASCII'] = False
     app.run(host='localhost', port=5000, debug=True)
