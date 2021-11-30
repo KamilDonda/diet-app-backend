@@ -31,10 +31,11 @@ DROP TABLE IF EXISTS meal_ingredient;
 
 CREATE TABLE meal_indredient (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    ingredient_id INTEGER NOT NULL,
+    ingredient_name TEXT NOT NULL,
     meal_id INTEGER NOT NULL,
+    description TEXT,
     amount REAL,
-    FOREIGN KEY (ingredient_id) REFERENCES indredient (id),
+    FOREIGN KEY (ingredient_name) REFERENCES indredient (name),
     FOREIGN KEY (meal_id) REFERENCES meal (id)
 );
 
