@@ -1,0 +1,326 @@
+1	ananas	0,55	0,124	0,002	0,004
+2	awokado	1,69	0,041	0,153	0,02
+3	bagietka	2,65	0,528	0,007	0,079
+4	bakłażan	0,26	0,038	0,001	0,011
+5	banan	0,97	0,218	0,003	0,01
+6	batat	0,86	0,201	0,001	0,016
+7	bazylia	0,23	0,027	0,006	0,032
+8	białe wino	0,67	0,006	0	0,001
+9	białko jajka	0,48	0,007	0,002	0,109
+10	bita śmietana	2,31	0,17	0,17	0,025
+11	boczek	5,17	0	0,53	0,09
+12	boczek parzony	3,19	0,01	0,29	0,13
+13	boczek surowy	3,51	0,005	0,31	0,175
+14	boczek surowy wedzony	3.88	0.007	0.37	0.11
+15	boczek wędzony	4,77	0	0,473	0,127
+16	borówka	0,57	0,14	0	0,01
+17	brokuł	0,31	0,027	0,004	0,03
+18	bulion	2.67	0.18	0.14	0.17
+19	bulion drobiowy	0,46	0,01	0,03	0,05
+20	bulion jarzynowy	0,06	0,01	0	0
+21	bulion wołowy	0,13	0,012	0,0009	0,0197
+22	bułka	3,1	0,52	0,06	0,11
+23	bułka tarta	3.95	0.72	0.05	0.13
+24	burak	0,43	0,1	0,002	0,016
+25	camembert	2,93	0,002	0,23	0,21
+26	cebula	0.39	0.09	0.001	0.01
+27	cebula czerwona	0.37	0.06	0.004	0.01
+28	cebula dymka	0,3	0,069	0,004	0,014
+29	cheddar	3,34	0	0,26	0,25
+30	chili	0,4	0,088	0,004	0,019
+31	chleb	2,45	0,527	0,003	0,08
+32	chleb razowy	2,13	0,412	0,017	0,059
+33	chleb tostowy	3,06	0,567	0,047	0,089
+34	chorizo	3,14	0,005	0,24	0,24
+35	chrzan	1,06	0,16	0,053	0,023
+36	ciabatta	2,56	0,516	0,01	0,091
+37	ciecierzyca	3,08	0,1	0,06	0,155
+38	cielęcina	1.72	0	0.08	0.24
+39	cienka kiełbasa	2,3	0,01	0,18	0,16
+40	corn flakes	3,88	0,77	0,036	0,09
+41	cukier	3.87	1	0	0
+42	cukier kokosowy	3,76	0,93	0,004	0
+43	cukier puder	4	1	0	0
+44	cukier trzcinowy	3,7	0,925	0	0
+45	cukier wanilinowy	3,94	0,98	0	0
+46	cukinia	0,17	0,022	0,001	0,012
+47	cynamon	2,47	0,28	0,01	0,04
+48	cytryna	0.28	0.09	0.003	0.01
+49	czarna oliwka	1,32	0,017	0,127	0,014
+50	czarne oliwki	1,32	0,017	1,227	0,014
+51	cząber	2,72	0,6873	0,0591	0,0673
+52	czekolada biała	5,78	0,51	0,384	0,077
+53	czekolada gorzka	5,46	0,6117	0,3128	0,0488
+54	czerwona papryka	0.3	0.06	0.003	0.001
+55	czosnek	1,49	0,336	0,005	0,0636
+56	czosnek suszony	3,32	0,727	0,008	0,168
+57	fasola czerwona	3,47	0,6255	0,0123	0,2142
+58	fasola szparagowa	0,27	0,076	0,002	0,024
+59	feta	2,65	0,0388	0,2149	0,1421
+60	filet rybny	1,71	0,037	0,111	0,146
+61	filet śledziowy	2,17	0	0,154	0,198
+62	filet z indyka	0,84	0	0,007	0,192
+63	filet z kurczaka	0,99	0	0,01	0,22
+64	filet z mintaja	0,73	0	0,006	0,166
+65	filet z piersi kurczaka	1,21	0	0,037	0,218
+66	filet z turbota	1,25	0	0,0374	0,2095
+67	gałka muszkatołowa	4,37	0,505	0,3238	0,0671
+68	gałka muszkatołowa	4,37	0,505	0,3238	0,0671
+69	gałka muszkatołowa	4,37	0,505	0,3238	0,0671
+70	gęsta śmietana	1,86	0,036	0,18	0,025
+71	gorczyca	4,98	0,2817	0,3624	0,2629
+72	goździki	2,73	0,66	0,13	0,06
+73	grahamka	2,62	0,494	0,017	0,096
+74	granulowany czosnek	3,31	0,73	0,007	0,17
+75	groch	3,19	0,452	0,014	0,238
+76	groszek	0,86	0,11	0,004	0,067
+77	groszek konserwowy	0,73	0,101	0,002	0,04
+78	grzyby shiitake	0,34	0,068	0,005	0,022
+79	hummus	3,27	0,1	0,28	0,06
+80	imbir	0,8	0,178	0,007	0,018
+81	jabłko	0,5	0,101	0,004	0,005
+82	jagoda	0,51	0,09	0,006	0,008
+83	jajko	1.55	0.01	0.11	0.13
+84	jałowiec	0,01	0	0	0
+85	jarmuż	0,49	0,09	0,009	0,043
+86	jogurt grecki	0,52	0,04	0	0,09
+87	jogurt naturalny	0,6	0,062	0,02	0,043
+88	kacza noga	2,17	0	0,114	0,268
+89	kacze nogi	2,17	0	0,114	0,268
+90	kajzerka	3	0,58	0,058	0,014
+91	kakao	4,59	0,449	0,217	0,182
+92	kalafior	0,27	0,026	0,002	0,024
+93	kapara	0,23	0,049	0,009	0,024
+94	kapusta	0,33	0,049	0,002	0,017
+95	kapusta biała	0.24	0.06	0.001	0.01
+96	kapusta kiszona	0.18	0.04	0.001	0.009
+97	kapusta pekińska	0,16	0,013	0,002	0,012
+98	karkówka wieprzowa	2.68	0	0.19	0.23
+99	karp	1,1	0	0,042	0,18
+100	kasza jaglana	3,48	0,684	0,029	0,113
+101	kasza jęczmienna pęczak	3,43	0,695	0,02	0,09
+102	kasza orkiszowa	3,84	0,7	0,024	0,15
+103	kaszanka	1,95	0,13	0,126	0,085
+104	ketchup	1.11	0.26	0.002	0.01
+105	kiełbasa	3.46	0.007	0.31	0.14
+106	kiełbasa wiejska	2,26	0,039	0,18	0,13
+107	kiełki fasoli	0,17	0,024	0,001	0,01
+108	kiełki rzodkiewki	0,43	0,036	0,025	0,038
+109	kiszona kapusta	0,16	0,013	0,002	0,011
+110	kmin rzymski	3,75	0,44	0,22	0,18
+111	kminek	3,75	0,5	0,15	0,2
+112	kolendra	0,22	0,017	0,006	0,024
+113	kolendra i szczypior	0,27	0,042	0,0085	0,0265
+114	koncentart pomidorowy	0.82	0.19	0.005	0.04
+115	koncentrat pomidorowy	0,97	0,139	0,015	0,056
+116	koper	0,33	0,028	0,004	0,028
+117	korzeń imbiru	0,8	0,18	0,01	0,02
+118	krążki z kalmara	1,74	0,08	0,07	0,18
+119	krewetka	0,85	0	0,0051	0,201
+120	krewetki	0,99	0	0,011	0,209
+121	kukurydza	3,65	0,7426	0,0474	0,0942
+122	kukurydza konserwowa	1,09	0,197	0,012	0,029
+123	kurczak	1,58	0	0,093	0,186
+124	kurka	0,32	0,069	0,005	0,015
+125	kurki	0,32	0,069	0,005	0,015
+126	kurkuma	3,54	0,65	0,1	0,08
+127	kuskus	1,33	0,278	0,011	0,056
+128	limonka	0,3	0,105	0,002	0,007
+129	liście szpinaku	0,22	0,009	0,004	0,026
+130	liść laurowy	3,13	0,75	0,08	0,08
+131	lubczyk	0,42	0,05	0,008	0,035
+132	łopatka wieprzowa	1,6	0	0,086	0,206
+133	łosoś	2,01	0	0,136	0,199
+134	łosoś wędzony	1,62	0	0,084	0,215
+135	majeranek	1,62	0,61	0,07	0,13
+136	majonez	6.79	0.006	0.75	0.01
+137	majonez 	6,79	0,006	0,75	0,01
+138	makaron	1.31	0.25	0.01	0.05
+139	makaron Rigatoni	3,56	0,722	0,015	0,12
+140	makaron risini	3,58	0,73	0,013	0,12
+141	makaron ryżowy	3,65	0,83	0,007	0,068
+142	makaron spaghetti	1,57	0,31	0,009	0,06
+143	makrela	1,81	0	0,119	0,187
+144	malina	0,52	0,12	0,007	0,012
+145	mango	0,59	0,15	0,004	0,008
+146	marchew	0,41	0,1	0,002	0,009
+147	marchewka	0.41	0.01	0.002	0.009
+148	masło	7,35	0,007	0,825	0,007
+149	masło klarowane	8.83	0.01	1	0.01
+150	masło orzechowe	5,88	0,2	0,5	0,25
+151	mąka	3,64	0,76	0,01	0,1
+152	mąka kukurydziana	3,69	0,79	0,018	0,07
+153	mąka orkiszowa	3,2	0,624	0,027	0,116
+154	mąka pszenna	3.64	0.76	0.01	0.1
+155	mąka ziemniaczana	3,56	0,83	0,003	0,07
+156	mielona kolendra	2,98	0,55	0,18	0,12
+157	mielona łopatka wieprzowa	1.75	0	0.12	0.18
+158	mielona wołowina	2,56	0	0,2	0,18
+159	mieszanka chińska	0,3	0,04	0	0,02
+160	mięso gulaszowe wieprzowe	1,35	0	0,07	0,18
+161	mięso gulaszowe wołowe	1,33	0	0,046	0,23
+162	mięta	0,7	0,15	0,009	0,038
+163	miód	3.04	0.82	0	0.003
+164	mix sałat z rukolą	0,21	0,02	0,002	0,013
+165	mleko	0.42	0.05	0.01	0.03
+166	mleko kokosowe	2,29	0,06	0,24	0,023
+167	mozarella	2,8	0,031	0,17	0,28
+168	mrożone warzywa	0,6	0,13	0,002	0,029
+169	musztarda	0.66	0.05	0.04	0.04
+170	musztarda miodowa	4,64	0,23	0,41	0,009
+171	musztarda sarepska	1,41	0,16	0,06	0,05
+172	napój kokosowy	0,2	0,03	0,01	0
+173	napój sojowy	0,54	0,06	0,018	0,033
+174	nasiona chia	4,86	0,42	0,31	0,17
+175	nasiona słonecznika	5,84	0,2	0,51	0,21
+176	natka kolendry	0,227	0,037	0,003	0,021
+177	natka pietruszki	0,49	0,048	0,004	0,044
+178	ogórek	0,15	0,036	0,002	0,007
+179	ogórek gruntowy	0,14	0,024	0,001	0,007
+180	olej	8.84	0	1	0
+181	olej kokosowy	8,62	0	1	0
+182	olej roślinny	8,84	0	1	0
+183	olej sezamowy	8,84	0	1	0
+184	oliwa	8.84	0	1	0
+185	oliwa z oliwek	8,84	0	1	0
+186	oliwa z pierwszego tłoczenia	8,84	0	1	0
+187	oregano	2,65	0,69	0,043	0,09
+188	orzech pekan	6,9	0,14	0,72	0,09
+189	orzech włoski	6,54	0,14	0,65	0,15
+190	orzech ziemny	5,67	0,16	0,49	0,26
+191	orzeszki piniowe	6,73	0,13	0,684	0,167
+192	oscypek	3,72	0,023	0,269	0,295
+193	ośmiornica	1,64	0,044	0,021	0,3
+194	papryka	0,3088	0,1014	0,43	0,219
+195	papryka czerwona	0,3	0,06	0,003	0,01
+196	papryka ostra	0,39	0,09	0,004	0,019
+197	papryka słodka	0,31	0,06	0,003	0,01
+198	papryka wędzona	3,11	0,1656	0,111	0,1653
+199	papryka zielona	0,22	0,026	0,003	0,011
+200	papryka żółta	0,26	0,06	0,002	0,01
+201	parmezan	4.31	0.04	0.29	0.38
+202	passata	0,37	0,09	0,002	0,017
+203	pestki dyni	4,46	0,54	0,19	0,19
+204	pestki słonecznika	5,84	0,2	0,51	0,21
+205	pesto kolendrowe	5,69	0,0616	0,5852	0,0851
+206	pieczarka	0,28	0,05	0,005	0,022
+207	pieczarka marynowana	0,41	0,07	0	0,02
+208	pieczarka portobello	0,26	0,05	0	0,03
+209	pieczarki	0,21	0,026	0,004	0,027
+210	pieprz	2,51	0,64	0,03	0,1
+211	pieprz biały	2,96	0,69	0,02	0,11
+212	pieprz cayenne	3,18	0,57	0,17	0,12
+213	pieprz cytrynowy	2,33	0,45	0,006	0,069
+214	pieprz ziołowy	2,96	0,69	0,02	0,1
+215	pierś z indyka	0,84	0	0,007	0,192
+216	pierś z kurczaka	1.64	0	0.03	0.31
+217	pietruszka	0,49	0,063	0,005	0,026
+218	plastry ananasa	0,55	0,124	0,002	0,004
+219	płatki corn flakes	3.57	0.84	0.004	0.08
+220	płatki owsiane	3,76	0,624	0,072	0,128
+221	pomidor	0.17	0.03	0.002	0.009
+222	pomidor koktajlowy	0,19	0,029	0,002	0,009
+223	pomidor suszony	2,29	0,481	0,002	0,087
+224	pomidor z puszki	0,23	0,04	0,002	0,013
+225	pomidorki koktajlowe	0.18	0.03	0	0
+226	proszek do pieczenia	0,51	0,11	0,002	0,014
+227	przecier pomidorowy	0,82	0,19	0,005	0,043
+228	przyprawa curry	2,16	0	0,1	0,16
+229	przyprawa gyros	2,08	0,18	0,058	0,1
+230	przyprawa włoska	2,13	0,32	0,01	0,1
+231	razowy chleb	2,471	0,41	0,034	0,13
+232	rodzynki	2,29	0,79	0,005	0,031
+233	roszponka	0,21	0,036	0,004	0,02
+234	rozmaryn	1,31	0,207	0,0586	0,0331
+235	rukola	0,25	0,037	0,007	0,026
+236	ryż	3,45	0,765	0,007	0,07
+237	ryż jaśminowy	3,55	0,79	0	0,07
+238	ryż kleisty	0,97	0,21	0,002	0,02
+239	rzeżucha	0,32	0,055	0,007	0,026
+240	sałata	0,14	0,029	0,002	0,014
+241	sałata lodowa	0.13	0.03	0.001	0.009
+242	sałata rucola	0,5088	0,0353	0,031	0,0244
+243	schab	2.42	0	0.14	0.27
+244	seler	0,16	0,03	0,002	0,007
+245	ser brie	3,33	0,005	0,28	0,21
+246	ser camembert	2.99	0.005	0.24	0.2
+247	ser cheddar	4,02	0,013	0,33	0,25
+248	ser feta	2,63	0,041	0,21	0,14
+249	ser mascarpone	4,36	0,0388	0,445	0,046
+250	ser mozzarella	2,8	0,031	0,17	0,28
+251	ser owczy	2,75	0,01	0,23	0,16
+252	ser zółty	3,56	0,022	0,27	0,25
+253	ser żółty	3.56	0.02	0.27	0.25
+254	serce drobiowe	1,53	0	0,093	0,16
+255	serek śmietankowy	3,42	0,04	0,34	0,06
+256	sezam	6,56	0,021	0,599	0,274
+257	skórka z pomarańczy	0,97	0,25	0,0002	0,015
+258	skrobia ziemniaczana	3.56	0.83	0.003	0.07
+259	słodki sos chilli	1,8	0,45	0	0
+260	słonina	8,12	0	0,322	0,0292
+261	soczewica	1,16	0,2	0,004	0,09
+262	soda oczyszczona	0	0	0	0
+263	sok z cytryny	0,21	0,07	0,002	0,004
+264	sok z limonki	0,24	0,08	0,001	0,004
+265	sos paprykowo-ziołowy	4,4	0,06	0,46	0,002
+266	sos rybny	0,34	0,036	0	0,05
+267	sos sojowy	0.53	0.04	0.006	0.08
+268	sos Tabasco	0,12	0,008	0	0,0129
+269	sos włoski	2,4	0,12	0,21	0,004
+270	sos Worcestershire	0,77	0,19	0	0
+271	sól	0	0	0	0
+272	sól morska	0	0	0	0
+273	suszona śliwka	2,4	0,64	0,004	0,022
+274	suszone grzyby	0,22	0,033	0,003	0,031
+275	suszone oregano	0,03	0,0069	0,0004	0,0009
+276	syrop klonowy	2,6	0,67	0,001	0
+277	syrop malinowy	3,24	0,81	0	0
+278	szczypiorek	0.3	0.04	0.007	0.03
+279	szparag	0,2	0,039	0,001	0,022
+280	szpinak	0,23	0,036	0,004	0,029
+281	szynka	1,45	0,015	0,06	0,21
+282	szynka konserwowa	1,09	0,019	0,028	0,191
+283	szynka parmeńska	1,35	0,01	0,03	0,26
+284	szynka szwarcwaldzka	2.39	0.01	0.15	0.25
+285	śledź	1,58	0	0,09	0,18
+286	śledź bałtycki	0,74	0,044	0,02	0,096
+287	śliwka suszona	2,4	0,64	0,004	0,022
+288	śliwki suszone	2,82	0,595	0,012	0,035
+289	śmietana	1,98	0,046	0,1	0,024
+290	śmietana 18%	1,92	0,05	0,18	0,03
+291	śmietana 30%	2,92	0,03	0,3	0,02
+292	śmietana kwaśna 18%	1,86	0,036	0,18	0,024
+293	śmietanka kremowa 30%	2.92	0.03	0.3	0.02
+294	śmietanka kremówka 30%	2,87	0,03	0,3	0,02
+295	świeży imbir	0,8	0,177	0,0074	0,0182
+296	tofu	0,76	0,019	0,048	0,08
+297	tortilla	2,37	0,5	0,01	0,07
+298	truskawka	0,32	0,08	0,003	0,007
+299	tuńczyk	1,1	0	0,009	0,251
+300	tuńczyk w oleju	1,98	0	0,082	0,255
+301	twaróg półtłusty	1,34	0,037	0,047	0,187
+302	twaróg tłusty	1,48	0,035	0,08	0,155
+303	tymianek	2,76	0,63	0,027	0,09
+304	udka z kurczaka	1.77	0	0.08	0.24
+305	udko z kurczaka	1,77	0	0,08	0,24
+306	udziec z indyka	1.03	0	0.02	0.19
+307	Vegeta	3,04	0,4	0,036	0,13
+308	Vegeta Natur	1,51	0,3	0,006	0,03
+309	wątróbka driobiowa	1,64	0,038	0,044	0,26
+310	wątróbka drobiowa	1.64	0.03	0.04	0.02
+311	wieprzowina	2,42	0	0,14	0,27
+312	winogrono	0,66	0,17	0,004	0,006
+313	wiśniówka	3,09	0,33	0	0
+314	woda	0	0	0	0
+315	woda gazowana	0	0	0	0
+316	wołowina	2.5	0	0.15	0.26
+317	zagęszczony sos balsamiczny	1,16	0,23	0	0,01
+318	ząbek czosnku	1.49	0.33	0.005	0.06
+319	ziarna czarnuszki	3,44	0,52	0,15	0,16
+320	ziarna sezamu	6	0	1	0
+321	ziarna słonecznika	6	0	1	0
+322	ziele angielskie	3	1	0	0
+323	zielone szparagi	0.2	0.03	0.001	0.02
+324	ziemniak	0.76	0.17	0.001	0.02
+325	żółtko jajka	3,17	0,003	0,282	0,155
+326	żurawina	3,32	0,77	0,014	0,001

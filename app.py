@@ -44,8 +44,20 @@ def insert_or_replace_meal_request(params):
     return create_request(query, params)
 
 
-def select_all_meals():
-    query = ''' SELECT * FROM MEAL '''
+def insert_or_replace_ingredient_request(params):
+    query = ''' INSERT OR REPLACE INTO ingredient(id,name,kcal,carbohydrates,fats,proteins)
+        VALUES(?,?,?,?,?,?) '''
+    return create_request(query, params)
+
+
+def insert_or_replace_meal_indredient_request(params):
+    query = ''' INSERT OR REPLACE INTO meal_indredient(id,ingredient_name,meal_id,description,amount)
+        VALUES(?,?,?,?,?) '''
+    return create_request(query, params)
+
+
+def select_all_from_table(table):
+    query = f''' SELECT * FROM {table} '''
     return create_request(query)
 
 
@@ -77,7 +89,17 @@ def insert_meal():
 
 @app.route('/meals')
 def get_meals():
-    output = select_all_meals().fetchall()
+    output = select_all_from_table('meal').fetchall()
+    return str(output)
+
+@app.route('/ingredients')
+def get_ingredients():
+    output = select_all_from_table('ingredient').fetchall()
+    return str(output)
+
+@app.route('/meals_ingredients')
+def get_meals_ingredients():
+    output = select_all_from_table('meal_indredient').fetchall()
     return str(output)
 
 
