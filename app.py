@@ -1,5 +1,6 @@
 from flask import Flask, g, request
 import sqlite3
+import os.path
 
 app = Flask(__name__)
 
@@ -21,11 +22,12 @@ def close_connection(exception):
 
 
 def init_db():
-    with app.app_context():
-        db = get_db()
-        with app.open_resource('src\\database\\schema.sql', mode='r') as f:
-            db.cursor().executescript(f.read())
-        db.commit()
+    if not os.path.isfile(DATABASE):
+        with app.app_context():
+            db = get_db()
+            with app.open_resource('src\\database\\schema.sql', mode='r') as f:
+                db.cursor().executescript(f.read())
+            db.commit()
 
 
 def create_request(query, params=''):
@@ -80,4 +82,5 @@ def get_meals():
 
 
 if __name__ == '__main__':
+    init_db()
     app.run(host='localhost', port=5000, debug=True)
