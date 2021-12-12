@@ -31,7 +31,7 @@ def histogram():
         plt.xlabel(column)
         plt.show()
 
-histogram()
+# histogram()
 
 for column in df.columns[1:]:
     fig, axes = plt.subplots(figsize=(9, 5))
@@ -97,7 +97,7 @@ for column in df.columns[1:]:
             
 
 plt.tight_layout(pad=2)
-plt.show()
+# plt.show()
 
 def calc_membership(calories, fat, carbo, protein):
     values = [calories, fat, carbo, protein]
@@ -180,5 +180,5 @@ def plot_cm(y_true,y_pred,labels):
 y_true = df_test['Dieta'].to_numpy()
 y_preds = y_preds_series.to_numpy()
 
-plot_cm(y_true,y_preds,[-1,0, 1])
-print(classification_report(y_true, y_preds))
+# plot_cm(y_true,y_preds,[-1,0, 1])
+# print(classification_report(y_true, y_preds))

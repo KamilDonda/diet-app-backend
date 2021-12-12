@@ -17,7 +17,7 @@
 # 1g fats           = 9 kcal
 # 1g carbohydrates  = 4 kcal
 
-def calcInput(gender, age, weight, height, activity, goal, preference):
+def calcInput(gender, age, weight, height, activity, goal, preferences):
     
     BMR = calcBMR(gender, age, weight, height)
     AMR = calcAMR(activity, BMR)
@@ -28,8 +28,8 @@ def calcInput(gender, age, weight, height, activity, goal, preference):
     carbs = calcCarbs(totalCalories, proteins, fats)
 
     # temporary function, only for display input and output
-    printResults(gender, age, weight, height, activity, goal, preference, BMR, AMR, totalCalories, proteins, fats, carbs)
-    return totalCalories, proteins, fats, carbs
+    printResults(gender, age, weight, height, activity, goal, preferences, BMR, AMR, totalCalories, proteins, fats, carbs)
+    return totalCalories, proteins, fats, carbs, preferences
 
 def calcBMR(gender, age, weight, height):
     # Mifflin-St Jeor Equation:
