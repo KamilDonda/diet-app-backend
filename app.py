@@ -1,6 +1,8 @@
 from flask import Flask, g, request, jsonify
 import sqlite3
 import os.path
+from src.diet_calculator.input import calcInput
+from src.diet.generation import DietGeneration
 from src.database.entities.MealIngredientEntity import MealIngredientEntity
 from src.database.entities.IngredientEntity import IngredientEntity
 from src.database.entities.MealEntity import MealEntity
@@ -119,13 +121,15 @@ def get_ingredients():
     ingredientsJSON = []
     for ingredient in ingredients:
         id, name, kcal, carbs, fats, prots, tags = ingredient
-        ingredientsJSON.append(IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize())
+        ingredientsJSON.append(IngredientEntity(
+            id, name, kcal, carbs, fats, prots, tags).serialize())
     return jsonify(ingredientsJSON)
 
 
 @app.route('/ingredients/<id>')
 def get_ingredient_by_id(id):
-    id, name, kcal, carbs, fats, prots, tags = select_by_id('ingredient', id).fetchone()
+    id, name, kcal, carbs, fats, prots, tags = select_by_id(
+        'ingredient', id).fetchone()
     return IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize()
 
 
@@ -135,14 +139,72 @@ def get_meals_ingredients():
     meals_ingredientsJSON = []
     for mi in meals_ingredients:
         id, meal_id, ing_name, desc, amount = mi
-        meals_ingredientsJSON.append(MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize())
+        meals_ingredientsJSON.append(MealIngredientEntity(
+            id, meal_id, ing_name, desc, amount).serialize())
     return jsonify(meals_ingredientsJSON)
 
 
 @app.route('/meals_ingredients/<id>')
 def get_meals_ingredients_by_id(id):
-    id, meal_id, ing_name, desc, amount = select_by_id('meal_indredient', id).fetchone()
+    id, meal_id, ing_name, desc, amount = select_by_id(
+        'meal_indredient', id).fetchone()
     return MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize()
+
+
+def foo():
+    from random import randint
+    id = 1
+    meals = []
+    for category in ("śniadanie", "obiad", "kolacja"):
+        for _ in range(25):
+            p = randint(10, 100)
+            c = randint(10, 100)
+            f = randint(10, 100)
+            cal = 4 * (p + c) + 8 * f
+            
+            pref = []
+            if randint(1, 3) == 1:
+                pref.append('mięso')
+            if randint(1, 3) == 1:
+                pref.append('laktoza')
+            if randint(1, 3) == 1:
+                pref.append('orzechy')
+
+            result = 0
+            if cal < 700:
+                result = -1
+            if cal > 1100:
+                result = 1
+
+            meal = {
+                'id': id,
+                'name': 'Meal' + str(id),
+                'proteins': p,
+                'carbohydrates': c,
+                'fat': f,
+                'cal': cal,
+                'category': category,
+                'preferences': pref,
+                'result': result
+                }
+            meals.append(meal)
+            id += 1
+    return meals
+
+
+@app.route('/generate_diet')
+def generate_diet():
+    from random import randint
+    pref = []
+    # if randint(1, 3) == 1:
+    #     pref.append('mięso')
+    # if randint(1, 3) == 1:
+    #     pref.append('laktoza')
+    # if randint(1, 3) == 1:
+    #     pref.append('orzechy')
+    input = calcInput(True, 22, 70, 175, 2, 1, pref)
+    diet = DietGeneration(input, foo())
+    return str(diet).replace("'", '"')
 
 
 if __name__ == '__main__':
