@@ -9,16 +9,16 @@
 #           1 - lowest
 #           5 - highest
 # Goal [1, 2, 3]
-#       1 - losing weight 
-#       2 - constant weight 
-#       3 - gaining weight 
-# 
+#       1 - losing weight
+#       2 - constant weight
+#       3 - gaining weight
+#
 # 1g proteins       = 4 kcal
 # 1g fats           = 9 kcal
 # 1g carbohydrates  = 4 kcal
 
 def calcInput(gender, age, weight, height, activity, goal, preferences):
-    
+
     BMR = calcBMR(gender, age, weight, height)
     AMR = calcAMR(activity, BMR)
     totalCalories = includeGoal(goal, AMR)
@@ -28,8 +28,10 @@ def calcInput(gender, age, weight, height, activity, goal, preferences):
     carbs = calcCarbs(totalCalories, proteins, fats)
 
     # temporary function, only for display input and output
-    printResults(gender, age, weight, height, activity, goal, preferences, BMR, AMR, totalCalories, proteins, fats, carbs)
+    printResults(gender, age, weight, height, activity, goal,
+                 preferences, BMR, AMR, totalCalories, proteins, fats, carbs)
     return totalCalories, proteins, fats, carbs, preferences
+
 
 def calcBMR(gender, age, weight, height):
     # Mifflin-St Jeor Equation:
@@ -40,6 +42,7 @@ def calcBMR(gender, age, weight, height):
         BMR -= 161
     return BMR
 
+
 def calcBMR2(gender, age, weight, height):
     # Revised Harris-Benedict Equation:
     BMR = 0
@@ -48,6 +51,7 @@ def calcBMR2(gender, age, weight, height):
     else:
         BMR = 9.247 * weight + 3.098 * height - 4.330 * age + 447.593
     return BMR
+
 
 def calcAMR(activity, BMR):
     result = 0
@@ -70,10 +74,11 @@ def calcAMR(activity, BMR):
 
     return result
 
+
 def includeGoal(goal, AMR):
     result = AMR
 
-    # Losing weight 
+    # Losing weight
     if goal == 1:
         result -= 250
     # Gaining weight
@@ -81,6 +86,7 @@ def includeGoal(goal, AMR):
         result += 250
 
     return result
+
 
 def calcProteinsNeeded(weight, goal):
     if goal == 1:
@@ -90,18 +96,21 @@ def calcProteinsNeeded(weight, goal):
     if goal == 3:
         return 1.6 * weight
 
+
 def calcFatsNeeded(calories):
     return 0.23 * calories * 0.125
+
 
 def calcCarbs(calories, proteins, fats):
     P = proteins * 4
     F = fats * 9
     return (calories - F - P) * 0.25
 
+
 def printResults(gender, age, weight, height, activity, goal, preference, BMR, AMR, totalCalories, proteins, fats, carbs):
     a = ['Gender', 'Age', 'Weight', 'Height', 'Activity', 'Goal', 'Preference']
     b = [gender, age, weight, height, activity, goal, preference]
-    c = ['BMR','AMR','Total cal','Proteins','Fats','Carbs']
+    c = ['BMR', 'AMR', 'Total cal', 'Proteins', 'Fats', 'Carbs']
     d = [BMR, AMR, totalCalories, proteins, fats, carbs]
     e = ['kcal', 'kcal', 'kcal', 'g', 'g', 'g']
     f = [0, 0, 0, proteins * 4, fats * 9, carbs * 4]
@@ -112,8 +121,8 @@ def printResults(gender, age, weight, height, activity, goal, preference, BMR, A
         print('{0:10} {1}'.format(a[i], b[i]))
     print('\n OUTPUT')
     for i in range(len(c)):
-        print('{0:<10} {1:5.0f} {2:5} {3:5.0f} {4}'.format(c[i], d[i], e[i], f[i], g[i]))
-
+        print('{0:<10} {1:5.0f} {2:5} {3:5.0f} {4}'.format(
+            c[i], d[i], e[i], f[i], g[i]))
 
 
 # Gender, Age, Weight, Height, Activity, Goal, Preferences

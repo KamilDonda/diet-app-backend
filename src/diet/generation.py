@@ -59,16 +59,18 @@ class DietGeneration():
             prot = 0
             carb = 0
             fat = 0
-            for k,v in d.items():
+            for k, v in d.items():
                 # print(k, v)
                 res += str(k) + ' ' + str(v) + '\n'
                 foo.append({k: v})
                 kcal += v['cal']
                 prot += v['proteins']
                 carb += v['carbohydrates']
-                fat  += v['fat']
-            res += str(kcal) + 'kcal ' + str(prot) + 'g ' +  str(carb) + 'g ' +  str(fat) + 'g'
-            foo.append({'kcal': kcal, 'proteins': prot, 'carbohydrates': carb, 'fat': fat})
+                fat += v['fat']
+            res += str(kcal) + 'kcal ' + str(prot) + 'g ' + \
+                str(carb) + 'g ' + str(fat) + 'g'
+            foo.append({'kcal': kcal, 'proteins': prot,
+                       'carbohydrates': carb, 'fat': fat})
             # print(kcal, prot, carb, fat)
         return foo
         # print(diet[0])

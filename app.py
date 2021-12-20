@@ -1,6 +1,7 @@
 from flask import Flask, g, request, jsonify
 import sqlite3
 import os.path
+from db import insert_or_replace_meal_request, select_all_from_table_request, select_by_id_request
 from src.diet_calculator.input import calcInput
 from src.diet.generation import DietGeneration
 from src.database.entities.MealIngredientEntity import MealIngredientEntity
@@ -35,45 +36,9 @@ def init_db():
             db.commit()
 
 
-def create_request(query, params=''):
-    db = get_db()
-    cur = db.cursor()
-    cur.execute(query, params)
-    db.commit()
-    return cur
-
-
-def insert_or_replace_meal_request(params):
-    query = ''' INSERT OR REPLACE INTO meal(id,name,description,category)
-        VALUES(?,?,?,?) '''
-    return create_request(query, params)
-
-
-def insert_or_replace_ingredient_request(params):
-    query = ''' INSERT OR REPLACE INTO ingredient(id,name,kcal,carbohydrates,fats,proteins)
-        VALUES(?,?,?,?,?,?) '''
-    return create_request(query, params)
-
-
-def insert_or_replace_meal_indredient_request(params):
-    query = ''' INSERT OR REPLACE INTO meal_indredient(id,ingredient_name,meal_id,description,amount)
-        VALUES(?,?,?,?,?) '''
-    return create_request(query, params)
-
-
-def select_all_from_table(table):
-    query = f''' SELECT * FROM {table} '''
-    return create_request(query)
-
-
-def select_by_id(table, id):
-    query = f''' SELECT * FROM {table} WHERE ID = {id}'''
-    return create_request(query)
-
-
 @app.route('/')
 def hello_world():
-    return '<p>Hello, World!</p>'
+    return "Hello Wololo"
 
 
 @app.route('/insert_meal')
@@ -99,7 +64,7 @@ def insert_meal():
 
 @app.route('/meals/')
 def get_meals():
-    meals = select_all_from_table('meal').fetchall()
+    meals = select_all_from_table_request('meal').fetchall()
 
     mealsJSON = []
     for meal in meals:
@@ -111,13 +76,13 @@ def get_meals():
 
 @app.route('/meals/<id>')
 def get_meal_by_id(id):
-    id, name, desc, cat = select_by_id('meal', id).fetchone()
+    id, name, desc, cat = select_by_id_request('meal', id).fetchone()
     return MealEntity(id, name, desc, cat).serialize()
 
 
 @app.route('/ingredients/')
 def get_ingredients():
-    ingredients = select_all_from_table('ingredient').fetchall()
+    ingredients = select_all_from_table_request('ingredient').fetchall()
     ingredientsJSON = []
     for ingredient in ingredients:
         id, name, kcal, carbs, fats, prots, tags = ingredient
@@ -128,14 +93,15 @@ def get_ingredients():
 
 @app.route('/ingredients/<id>')
 def get_ingredient_by_id(id):
-    id, name, kcal, carbs, fats, prots, tags = select_by_id(
+    id, name, kcal, carbs, fats, prots, tags = select_by_id_request(
         'ingredient', id).fetchone()
     return IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize()
 
 
 @app.route('/meals_ingredients/')
 def get_meals_ingredients():
-    meals_ingredients = select_all_from_table('meal_indredient').fetchall()
+    meals_ingredients = select_all_from_table_request(
+        'meal_indredient').fetchall()
     meals_ingredientsJSON = []
     for mi in meals_ingredients:
         id, meal_id, ing_name, desc, amount = mi
@@ -146,7 +112,7 @@ def get_meals_ingredients():
 
 @app.route('/meals_ingredients/<id>')
 def get_meals_ingredients_by_id(id):
-    id, meal_id, ing_name, desc, amount = select_by_id(
+    id, meal_id, ing_name, desc, amount = select_by_id_request(
         'meal_indredient', id).fetchone()
     return MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize()
 
@@ -161,7 +127,7 @@ def foo():
             c = randint(10, 100)
             f = randint(10, 100)
             cal = 4 * (p + c) + 8 * f
-            
+
             pref = []
             if randint(1, 3) == 1:
                 pref.append('mięso')
@@ -186,7 +152,7 @@ def foo():
                 'category': category,
                 'preferences': pref,
                 'result': result
-                }
+            }
             meals.append(meal)
             id += 1
     return meals
