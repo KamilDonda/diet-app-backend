@@ -16,7 +16,8 @@ CREATE TABLE meal (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     name TEXT UNIQUE NOT NULL,
     description TEXT,
-    category CHECK (category in ('breakfast', 'dinner', 'supper'))
+    category TEXT,
+    classification INTEGER
 );
 
 DROP TABLE IF EXISTS diet;
@@ -29,13 +30,13 @@ CREATE TABLE diet (
 
 DROP TABLE IF EXISTS meal_ingredient;
 
-CREATE TABLE meal_indredient (
+CREATE TABLE meal_ingredient (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    ingredient_name TEXT NOT NULL,
+    ingredient_id INTEGER NOT NULL,
     meal_id INTEGER NOT NULL,
     description TEXT,
     amount REAL,
-    FOREIGN KEY (ingredient_name) REFERENCES indredient (name),
+    FOREIGN KEY (ingredient_id) REFERENCES ingredient (id),
     FOREIGN KEY (meal_id) REFERENCES meal (id)
 );
 
@@ -46,5 +47,5 @@ CREATE TABLE diet_meal (
     meal_id INTEGER NOT NULL,
     diet_id INTEGER NOT NULL,
     FOREIGN KEY (meal_id) REFERENCES meal (id),
-    FOREIGN KEY (diet_id) REFERENCES indredient (id)
+    FOREIGN KEY (diet_id) REFERENCES ingredient (id)
 );

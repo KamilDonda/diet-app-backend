@@ -31,8 +31,8 @@
 31	papryka słodka	4	1 łyżeczka słodkiej papryki	6
 32	papryka ostra	4	1/2 łyżeczki ostrej papryki 	3
 33	pieprz	4	1/3 łyżeczki pieprzu	2
-34	liść laurowy	4	2 nieduże listki laurowe	0,4
-35	ziele angielskie	4	3 ziarna ziela angielskiego	1,5
+34	liść laurowy	4	2 nieduże listki laurowe	0.4
+35	ziele angielskie	4	3 ziarna ziela angielskiego	1.5
 36	ziemniak	5	1 kg ziemniaków	1000
 37	kapusta kiszona	5	500 g kapusty kiszonej	500
 38	cebula	5	2 średnie cebule	400
@@ -59,7 +59,7 @@
 59	sól	7	1 łyżeczka soli	6
 60	pieprz	7	1/2 łyżeczki pieprzu	3
 61	papryka ostra	7	1/2 łyżeczki ostrej papryki	3
-62	karkówka wieprzowa	8	1,5 kg karkówki wieprzowej	1500
+62	karkówka wieprzowa	8	1.5 kg karkówki wieprzowej	1500
 63	czosnek	8	6 ząbków czosnku	30
 64	majeranek	8	3 łyżeczki majeranku	18
 65	sól	8	2 łyżeczki soli	12
@@ -140,7 +140,7 @@
 140	karkówka wieprzowa	16	1 kg karkówki - około 9-10 kotletów	1000
 141	cebula	16	3 cebule	600
 142	czosnek	16	4 ząbki czosnku	20
-143	woda	16	1,5 szklanki wody 	375
+143	woda	16	1.5 szklanki wody 	375
 144	mąka pszenna	16	2 łyżki mąki pszennej	20
 145	olej	16	4 łyżki oleju	40
 146	sól	16	łyżeczka soli	6
@@ -148,11 +148,11 @@
 148	papryka słodka	16	łyżeczka słodkiej papryki	6
 149	pieprz	16	1/2 łyżeczki pieprzu	3
 150	kolendra	16	1/3 łyżeczki kolendry	2
-151	ziele angielskie	16	3 ziarna ziela angielskiego	1,5
-152	liść laurowy	16	listek laurowy	0,2
+151	ziele angielskie	16	3 ziarna ziela angielskiego	1.5
+152	liść laurowy	16	listek laurowy	0.2
 153	mielona łopatka wieprzowa	17	700 g mielonej łopatki wieprzowej	700
 154	kapusta biała	17	główka kapusty białej	4500
-155	bulion	17	1,5 szklanki bulionu	375
+155	bulion	17	1.5 szklanki bulionu	375
 156	cebula	17	1 średnia cebula	200
 157	olej	17	łyżka oleju	10
 158	bułka tarta	17	2 łyżki bułki tartej	20
@@ -209,7 +209,7 @@
 209	woda	23	5 łyżek wody	50
 210	sól	23	łyżeczka soli	6
 211	majeranek	23	łyżka majeranku	10
-212	liść laurowy	23	2 listki laurowe	0,4
+212	liść laurowy	23	2 listki laurowe	0.4
 213	pieprz	23	1/2 łyżeczki pieprzu	3
 214	łopatka wieprzowa	24	500 g łopatki wieprzowej	500
 215	kajzerka	24	pół czerstwej kajzerki	25
@@ -228,7 +228,7 @@
 228	olej	25	2 łyżki oleju	20
 229	czosnek	25	3 ząbki czosnku	15
 230	mąka pszenna	25	1 łyżka mąki pszennej	10
-231	liść laurowy	25	3 listki laurowe	0,6
+231	liść laurowy	25	3 listki laurowe	0.6
 232	ziele angielskie	25	4 ziarna angielskie	2
 233	sól	25	łyżeczka soli	6
 234	pieprz	25	łyżeczka pieprzu	6
@@ -246,7 +246,7 @@
 246	kurczak	27	mięso z kurczaka	500
 247	marchew	27	2 marchewki	180
 248	pietruszka	27	1 pietruszka	170
-249	bulion	27	2,5 szklanki bulionu	625
+249	bulion	27	2.5 szklanki bulionu	625
 250	groch	27	100 g mrożonego groszku	100
 251	mąka pszenna	27	2 łyżki mąki pszennej	20
 252	masło klarowane	27	2 łyżki masła klarowanego	20
@@ -299,7 +299,7 @@
 299	pieprz	32	1/3 łyżeczki pieprzu	2
 300	bułka tarta	32	4 łyżki bułki tartej	40
 301	olej	32	5 łyżek oleju	50
-302	schab	33	1,5 kg schabu środkowego bez kości	1500
+302	schab	33	1.5 kg schabu środkowego bez kości	1500
 303	sól	33	2 łyżki soli	20
 304	majeranek	33	3 łyżki majeranku	30
 305	czosnek	33	6 ząbków czosnku	30
@@ -374,7 +374,7 @@
 374	sól	42	1/2 łyżeczki soli	3
 375	pieprz	42	1/2 łyżeczki pieprzu	2
 376	ziemniak	43	1 kg ziemniaków	1000
-377	olej	43	1000 ml oleju	1000
+377	olej	43	1000 ml oleju	40
 378	sól	43	łyżeczka soli	6
 379	ziemniak	44	1 kg obranych ziemniaków	1000
 380	jajko	44	2 średnie lub małe jajka	110
@@ -497,11 +497,11 @@
 497	masło klarowane	59	50ml masła klarowanego	50
 498	cytryna	59	cytryna	25
 499	cukier	59	łyżeczka cukru	6
-500	pieprz biały	59	szczypta białego pieprzu	0,25
+500	pieprz biały	59	szczypta białego pieprzu	0.25
 501	cebula	60	cebula	100
 502	olej	60	łyżka oleju	10
-503	pieprz	60	szczypta pieprzu	0,25
-504	sól	60	szczypta soli	0,25
+503	pieprz	60	szczypta pieprzu	0.25
+504	sól	60	szczypta soli	0.25
 505	koncentrat pomidorowy	60	2 łyżki koncentratu pomidorowego	50
 506	mrożone warzywa	60	200g mrożonych warzyw	200
 507	serce drobiowe	60	250g drobiowych serc	250
@@ -510,12 +510,12 @@
 510	mąka	61	1/2 szklanki mąki	125
 511	woda gazowana	61	15ml wody gazowanej	15
 512	olej	61	łyżka oleju	10
-513	sól	61	szczypta soli	0,25
+513	sól	61	szczypta soli	0.25
 514	wiśniówka	61	12ml wiśniówki	12
 515	rozmaryn	61	szczypta rozmarynu	1
 516	oscypek	61	50g oscypków	50
 517	żurawina	61	70g żurawiny	70
-518	bułka tarta	61	łyżka bułki tartej	10,0
+518	bułka tarta	61	łyżka bułki tartej	10.0
 519	bakłażan	62	60g bakłażana	60
 520	ketchup	62	20ml ketchupu	20
 521	cebula	62	40g cebuli	40
@@ -532,8 +532,8 @@
 532	pestki słonecznika	63	4 łyżki pestek słonecznika	40
 533	cebula czerwona	63	cebula czerwona	90
 534	bazylia	63	garść bazylii	3
-535	pieprz	64	szczypta pieprzu	0,25
-536	sól	64	szczypta soli	0,25
+535	pieprz	64	szczypta pieprzu	0.25
+536	sól	64	szczypta soli	0.25
 537	imbir	64	łyżeczka startego imbiru	6
 538	olej	64	łyżeczka oleju	6
 539	grzyby shiitake	64	50g grzybów shiitake	50
@@ -549,14 +549,14 @@
 549	papryka zielona	65	50g papryki zielonej	50
 550	bakłażan	65	70g bakłażana	70
 551	musztarda sarepska	65	łyżka musztardy sarepskiej	10
-552	pieprz ziołowy	65	szczypta pieprzy ziołowego	0,25
+552	pieprz ziołowy	65	szczypta pieprzy ziołowego	0.25
 553	cząber	65	szczypta cząbru	1
 554	jajko	65	jajko	55
 555	mąka pszenna	66	50g mąki pszennej	50
 556	mąka ziemniaczana	66	15g mąki ziemniaczanej	15
 557	woda gazowana	66	50ml wody gazowanej	50
 558	jajko	66	jajko	55
-559	sól	66	sczypta soli	0,25
+559	sól	66	sczypta soli	0.25
 560	proszek do pieczenia	66	łyżeczka proszku do pieczenia	6
 561	krewetka	66	3 krewetki z ogonkami	45
 562	krążki z kalmara	66	3 krążki z kalmara	30
@@ -575,13 +575,13 @@
 575	musztarda	67	łyżka musztardy	15
 576	sok z cytryny	67	łyżka soku z cytryny	10
 577	sos Tabasco	67	pół łyżeczki sosu Tabasco	3
-578	sól	67	sczypta soli	0,25
+578	sól	67	sczypta soli	0.25
 579	oliwa	67	łyżeczka oliwy	6
 580	bułka	67	bułka (ok. 80g)	80
 581	olej	68	łyżeczka oleju	6
-582	pieprz	68	sczypta pieprzu	0,25
+582	pieprz	68	sczypta pieprzu	0.25
 583	jajko	68	jajko	55
-584	sól	68	szczypta soli	0,25
+584	sól	68	szczypta soli	0.25
 585	kukurydza konserwowa	68	50g kukurydzy konserwowej	50
 586	filet z indyka	68	125g filetu z indyka	125
 587	marchew	68	marchew	50
@@ -590,10 +590,10 @@
 590	cebula	69	20g cebuli	20
 591	cukinia	69	100g cukinii	100
 592	olej	69	łyżeczka oleju	6
-593	pieprz	69	sczypta pieprzu	0,25
+593	pieprz	69	sczypta pieprzu	0.25
 594	papryka czerwona	69	50g papryki czerwona	50
 595	pomidor	69	mały pomidory	100
-596	sól	69	szczypta soli	0,25
+596	sól	69	szczypta soli	0.25
 597	papryka ostra	69	szczypta ostrej papryki	1
 598	mąka	69	łyżeczka mąki	6
 599	bulion	69	100ml bulionu	100
@@ -604,9 +604,9 @@
 604	cebula	70	25g cebuli	25
 605	pomidor	70	150g pomidorów	150
 606	marchew	70	25g marchewki	25
-607	pieprz	70	szczypta pieprzu	0,25
-608	sól	70	szczypta soli	0,25
-609	gałka muszkatołowa	70	szczypta gałki muszkatołowej	0,25
+607	pieprz	70	szczypta pieprzu	0.25
+608	sól	70	szczypta soli	0.25
+609	gałka muszkatołowa	70	szczypta gałki muszkatołowej	0.25
 610	czosnek	70	3 ząbki czosnku	21
 611	bazylia	70	kilka listków bazylii	2
 612	sok z cytryny	70	łyżka soku z cytryny	10
@@ -614,9 +614,9 @@
 614	filet z turbota	70	100g filetu z turbota	100
 615	cebula	71	25g cebuli	25
 616	olej	71	łyżeczka oleju	6
-617	pieprz	71	szczypta pieprzu	0,25
+617	pieprz	71	szczypta pieprzu	0.25
 618	pieczarka	71	60g pieczarek	60
-619	sól	71	szczypta soli	0,25
+619	sól	71	szczypta soli	0.25
 620	seler	71	125g selera	125
 621	masło	71	5g masła	5
 622	papryka czerwona	71	90g papryki czerwonej	90
@@ -631,14 +631,14 @@
 631	sok z cytryny	72	łyżeczka soku z cytryny	6
 632	śmietana	72	łyżka śmietany	10
 633	tymianek	72	łyżeczka tymianku	6
-634	sól	72	szczypta soli	0,25
-635	pieprz	72	szczypta pieprzu	0,25
+634	sól	72	szczypta soli	0.25
+635	pieprz	72	szczypta pieprzu	0.25
 636	olej	73	łyżeczka oleju	6
-637	pieprz	73	szczypta pieprzu	0,25
-638	sól	73	szczypta soli	0,25
+637	pieprz	73	szczypta pieprzu	0.25
+638	sól	73	szczypta soli	0.25
 639	sok z cytryny	73	łyżka soku z cytryny	10
 640	mąka kukurydziana	73	łyżka mąki kukurydzianej	10
-641	białko jajka	73	1/2 białka jajek	17,5
+641	białko jajka	73	1/2 białka jajek	17.5
 642	cebula dymka	73	1/2 cebuli dymki	10
 643	filet z mintaja	73	125g filetu z mintaja	125
 644	mieszanka chińska	73	200g mieszanki chińskiej	200
@@ -647,14 +647,14 @@
 647	papryka słodka	74	0.5 łyżeczki	3
 648	gęsta śmietana	74	łyżeczka gęstej śmietany	5
 649	szczypiorek	74	10g szczypiorku	10
-650	sól morska	74	szczypta soli morskiej	0,25
+650	sól morska	74	szczypta soli morskiej	0.25
 651	jajko	75	3 jajka	165
 652	mleko	75	25ml mleka	25
 653	oliwa	75	łyżka oliwy	10
 654	pomidor suszony	75	50g suszonych pomidorów	50
 655	rukola	75	50g rukoli	50
-656	pieprz	75	szczypta pieprzu	0,25
-657	sól	75	szczypta soli	0,25
+656	pieprz	75	szczypta pieprzu	0.25
+657	sól	75	szczypta soli	0.25
 658	ryż jaśminowy	76	50g ryżu jasminowego	50
 659	napój kokosowy	76	80ml napoju kokosowego	80
 660	mango	76	1/2 mango	150
@@ -682,10 +682,10 @@
 682	proszek do pieczenia	78	łyżeczka proszku do pieczenia	6
 683	cukier	78	łyżka cukru	10
 684	syrop klonowy	78	35ml syropu klonowego	35
-685	cynamon	78	1/4 łyżeczki cynamonu	1,25
+685	cynamon	78	1/4 łyżeczki cynamonu	1.25
 686	olej	78	20ml oleju	20
 687	masło	78	25g masła do smażenia	25
-688	tofu	79	1/2 tofu	12,5
+688	tofu	79	1/2 tofu	12.5
 689	olej	79	łyżeczka oleju	6
 690	pomidor koktajlowy	79	4 pomidory koktajlowe	45
 691	szpinak	79	15g szpinaku	15
@@ -697,7 +697,7 @@
 697	napój sojowy	80	szklanka napoju sojowego	250
 698	miód	80	łyżka miodu	25
 699	truskawka	80	5 truskawek	55
-700	orzech włoski	80	1/4 łyżeczki cynamonu	1,25
+700	orzech włoski	80	1/4 łyżeczki cynamonu	1.25
 701	cynamon	80	15g orzechów włoskich	15
 702	mąka orkiszowa	81	25g mąki orkiszowej	25
 703	płatki owsiane	81	20g płatków owsianych	20
@@ -727,9 +727,9 @@
 727	szczypiorek	84	łyżeczka posiekanego szczypiorku	6
 728	ciecierzyca	85	200g ciecierzycy	200
 729	oliwa	85	łyżeczka oliwy	6
-730	papryka ostra	85	1/4 łyżeczki ostrej papryki	1,25
-731	kmin rzymski	85	1/4 łyżeczki kminu rzymskiego	1,25
-732	cynamon	85	1/4 łyżeczki cynamonu	1,25
+730	papryka ostra	85	1/4 łyżeczki ostrej papryki	1.25
+731	kmin rzymski	85	1/4 łyżeczki kminu rzymskiego	1.25
+732	cynamon	85	1/4 łyżeczki cynamonu	1.25
 733	chleb tostowy	86	2 kromki chleba tostowego 	50
 734	sos włoski	86	łyżeczka sosu włoskiego	6
 735	pierś z kurczaka	86	pierś z kurczaka z rosołu	150
@@ -761,21 +761,21 @@
 761	masło	89	łyżeczka masła	6
 762	koper	89	łyżeczka koperku	6
 763	chleb tostowy	89	kromka chleba tostowego	25
-764	pieprz biały	89	szczypta białego pieprzu	1,25
+764	pieprz biały	89	szczypta białego pieprzu	1.25
 765	krewetka	89	125g krewetek	125
 766	cebula	90	1/4 cebuli	23
 767	olej	90	łyżeczka oleju	6
 768	pieczarka	90	2 pieczarki	40
-769	sól	90	szczypta soli	1,25
+769	sól	90	szczypta soli	1.25
 770	sos sojowy	90	łyżeczka sosu sojowego	6
 771	jajko	90	jajko	55
 772	chili	90	1/4 papryczki chilli	3
 773	kiełki fasoli	90	łyżka kiełków fasoli	15
 774	krewetka	90	60g krewetek	60
 775	cebula	91	cebula	100
-776	pieprz	91	szczypta pieprzu	1,25
+776	pieprz	91	szczypta pieprzu	1.25
 777	pieczarka	91	3 pieczarki	60
-778	sól	91	szczypta soli	1,25
+778	sól	91	szczypta soli	1.25
 779	jajko	91	2 jajka	110
 780	masło	91	łyżka masła	10
 781	szczypiorek	91	łyżeczka szczypiorku	6
@@ -785,19 +785,19 @@
 785	chleb	91	2 kromki chleba	70
 786	krewetka	91	60g krewetek	60
 787	śmietana	92	łyżka śmietany	10
-788	sól	92	szczypta soli	1,25
+788	sól	92	szczypta soli	1.25
 789	masło	92	łyżka masła	10
-790	pieprz biały	92	szczypta białego pieprzu	1,25
+790	pieprz biały	92	szczypta białego pieprzu	1.25
 791	jajko	92	jajko	55
 792	szparag	92	150g szparagów	150
 793	krewetka	92	50g krewetek	50
 794	cebula	93	cebula	90
 795	olej	93	łyżeczka oleju roślinnego	6
 796	jajko	93	jajko	55
-797	sól	93	szczypta soli	1,25
+797	sól	93	szczypta soli	1.25
 798	natka pietruszki	93	natka pietruszki	2
 799	masło	93	łyżka masła	10
-800	pieprz	93	szczypta pieprzu	1,25
+800	pieprz	93	szczypta pieprzu	1.25
 801	słonina	93	20g słoniny	20
 802	filet rybny	93	150g filetu rybnego	150
 803	kapara	93	łyżeczka siekanej kapary	6
@@ -811,8 +811,8 @@
 811	wieprzowina	94	50g mielonej wieprzowiny	50
 812	sos rybny	94	łyżka sosu rybnego	10
 813	cebula	94	cebula	100
-814	pieprz	95	szczypta pieprzu	1,25
-815	sól	95	szczypta soli	1,25
+814	pieprz	95	szczypta pieprzu	1.25
+815	sól	95	szczypta soli	1.25
 816	mleko	95	łyżka mleka	10
 817	jajko	95	2 jajka	110
 818	masło	95	15g masła	15
@@ -823,13 +823,13 @@
 823	pomidor	96	pomidor	180
 824	kminek	96	kminek	1
 825	jajko	96	jajko	55
-826	sól	96	szczypta soli	1,25
+826	sól	96	szczypta soli	1.25
 827	chili	96	papryczka chilli	12
 828	wołowina	96	30g suszonej wołowiny	30
 829	cebula	97	cebula	100
 830	boczek	97	75g wędzonego boczku	75
-831	pieprz	97	szczypta pieprzu	1,25
-832	sól	97	szczypta soli	1,25
+831	pieprz	97	szczypta pieprzu	1.25
+832	sól	97	szczypta soli	1.25
 833	gałka muszkatołowa	97	łyżeczka gałki muszkatołowej	6
 834	jajko	97	2 jajka	110
 835	oliwa	97	łyżka oliwy	10
@@ -856,7 +856,7 @@
 856	lubczyk	100	1/2 łyżeczki lubczyka	3
 857	słonina	100	15g słoniny	15
 858	szczypiorek	100	pęczek szczypiorku	20
-859	pieprz	100	szczypta pieprzu	1,25
+859	pieprz	100	szczypta pieprzu	1.25
 860	jajko	101	2 jajka	110
 861	cebula	101	cebula	100
 862	cienka kiełbasa	101	1/2 cienkiej kiełbasy	40
@@ -894,8 +894,8 @@
 894	olej	104	łyżeczka oleju	6
 895	cukinia	105	300g cukinii	300
 896	olej	105	łyżka oleju	10
-897	pieprz	105	szczypta pieprzu	0,25
-898	sól	105	szczypta soli	0,25
+897	pieprz	105	szczypta pieprzu	0.25
+898	sól	105	szczypta soli	0.25
 899	czosnek	105	ząbek czosnku	7
 900	papryka czerwona	105	70g papryki czerwonej	70
 901	koper	105	łyżeczka posiekanego koperku	6
@@ -953,7 +953,7 @@
 953	ser feta	111	125 g sera feta	125
 954	czarna oliwka	111	czarne oliwki	50
 955	bagietka	111	bagietka	140
-956	makaron Rigatoni	112	250 g makaronu (np. większego jak Rigatoni, Peccheri)	250
+956	makaron Rigatoni	112	250 g makaronu (np. większego jak Rigatoni. Peccheri)	250
 957	pomidor	112	600 g pomidorów	600
 958	czosnek	112	1 ząbek czosnku	5
 959	bazylia	112	ok. pół szklanki listków bazylii	22
@@ -987,7 +987,7 @@
 987	batat	114	1 mały batat (300 g)	300
 988	papryka czerwona	114	1 czerwona papryka	200
 989	czosnek	114	3 ząbki czosnku	15
-990	korzeń imbiru	114	1,5 cm korzenia imbiru	10
+990	korzeń imbiru	114	1.5 cm korzenia imbiru	10
 991	olej	114	2 łyżki oleju (np. kokosowego)	20
 992	kurkuma	114	1 łyżeczka kurkumy	6
 993	papryka słodka	114	1 łyżeczka słodkiej papryki	6
@@ -1216,7 +1216,7 @@
 1216	tymianek	133	1 łyżeczka tymianku	4
 1217	pietruszka	133	natka pietruszki	15
 1218	bagietka	133	bagietka	140
-1219	krewetka	134	250 g krewetek (obranych, oczyszczonych)	250
+1219	krewetka	134	250 g krewetek (obranych. oczyszczonych)	250
 1220	makaron risini	134	100 g makaronu risini/risoni (w kształcie ziarenek ryżu)	100
 1221	brokuł	134	200 g brokuła	200
 1222	masło	134	2 łyżki masła	20
@@ -1240,13 +1240,12 @@
 1240	kmin rzymski	136	2 łyżeczki kminu rzymskiego	20
 1241	papryka ostra	136	1 łyżeczka ostrej papryki	10
 1242	oliwa	136	4 łyżki oliwy z pierwszego tłoczenia	40
-1243	pesto kolendrowe	136	pesto kolendrowe	
 1244	kolendra	136	1 "doniczka" kolendry	100
 1245	oliwa z pierwszego tłoczenia	136	4 łyżki oliwy z pierwszego tłoczenia	40
 1246	czosnek	136	1/2 ząbka czosnku	3
 1247	sok z cytryny	136	1 łyżka soku z cytryny	10
 1248	hummus	136	ok. 300 g hummusu do podania	300
-1249	krewetka	137	500 g krewetek (obranych, oczyszczonych)	500
+1249	krewetka	137	500 g krewetek (obranych. oczyszczonych)	500
 1250	masło	137	60 g masła	60
 1251	czosnek	137	3 ząbki czosnku	15
 1252	sok z cytryny	137	1 łyżka soku z cytryny	10
@@ -1337,7 +1336,7 @@
 1337	nasiona chia	146	3 pełne łyżki nasion chia	24
 1338	mleko	146	250 ml mleka krowiego lub roślinnego*	230
 1339	cukier	146	2 łyżki cukru (lub do smaku)	20
-1340	mango	146	owoce: np. mango, maliny, borówki, truskawki	50
+1340	mango	146	owoce: np. mango. maliny. borówki. truskawki	50
 1341	malina	146	50g malin	50
 1342	borówka	146	50g borówek	50
 1343	truskawka	146	50g truskawek	50
