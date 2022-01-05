@@ -1,9 +1,8 @@
 import input
-import diet_calculator.calc as calc
+import calc as calc
 
 user_calories, user_proteins, user_fats, user_carbs, preferences = input.calcInput(
     True, 22, 70, 175, 2, 2, 'Preferences')
-
 
 print(calc)
 

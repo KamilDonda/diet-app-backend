@@ -4,14 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import confusion_matrix, classification_report
+import db
 
-from db import get_all_meals_with_nutriments
-
-
-# def load_data_pandas(title):
-#     data = pd.read_csv(title, engine='python', sep='\t')
-#     data = data.drop(columns=[])
-#     return data
 
 def load_rules():
     data = pd.read_csv('./src/diet_calculator/test_data/rules.csv')
@@ -25,14 +19,29 @@ def load_user_rules():
 
 
 # pobranie z bazy, podzielenie 80/20
-train_test_proportion = 0.8
-columns = ["Meal ID", "Calories", "Fat", "Carbohydrates", "Protein"]
+# train_test_proportion = 0.8
 
-all_data = np.array(get_all_meals_with_nutriments())
+columns = ["Meal ID", "Calories", "Fat",
+           "Carbohydrates", "Protein", "Classification"]
+type_dict = {'Meal ID' : 'int32', 'Calories' : 'float', 'Fat' : 'float', 'Carbohydrates' : 'float', 'Protein' : 'float', 'Classification' : 'object'}
+all_data = np.array(db.get_all_meals_with_nutriments())
 np.random.shuffle(all_data)
-edge_point = int(len(all_data)*train_test_proportion)
-df = pd.DataFrame(all_data[:edge_point], columns=columns)
-df_test = pd.DataFrame(all_data[edge_point:], columns=columns)
+test_arr = []
+arr = []
+for meal in all_data:
+    if meal[5] == 'None':
+        meal[5] = np.nan
+        arr.append(meal)
+    else:
+        test_arr.append(meal)
+
+test_arr = np.array(test_arr)
+arr = np.array(arr)
+
+df_test = pd.DataFrame(test_arr, columns=columns).astype(type_dict)
+df = pd.DataFrame(arr, columns=columns).astype(type_dict)
+# zbiór testowy: posiłki, które mają klasyfikację
+# zbiór treningowy: posiłki, które nie mają klasyfikacji
 
 rules = load_rules()
 
@@ -48,7 +57,7 @@ def histogram():
 # histogram()
 
 
-for column in df.columns[1:]:
+for column in df.columns[1:-1]:
     fig, axes = plt.subplots(figsize=(9, 5))
     fig.suptitle(column)
 
@@ -117,7 +126,6 @@ def calc_membership(calories, fat, carbo, protein):
     values = [calories, fat, carbo, protein]
     result = []
     for column, value in zip(["Calories", "Fat", "Carbohydrates", "Protein"], values):
-
         small_pdf = df[f'{column} small pdf'].iloc[0]
         normal_pdf = df[f'{column} normal pdf'].iloc[0]
         large_pdf = df[f'{column} large pdf'].iloc[0]
@@ -195,8 +203,8 @@ def plot_cm(y_true, y_pred, labels):
                      values_format=values_format)
 
 
-y_true = df_test['Meal ID'].to_numpy()
-y_preds = y_preds_series.to_numpy()
+y_true = df_test['Classification'].to_numpy(dtype='int32')
+y_preds = y_preds_series.to_numpy(dtype='int32')
 
-# plot_cm(y_true,y_preds,[-1,0, 1])
-# print(classification_report(y_true, y_preds))
+plot_cm(y_true,y_preds,[-1,0, 1])
+print(classification_report(y_true, y_preds))

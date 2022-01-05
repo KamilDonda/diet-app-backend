@@ -1,9 +1,8 @@
-from src.diet_calculator.calc import get_user_classification
+from calc import get_user_classification
 import random
 
 
 class DietGeneration():
-
     def setup_allowed_goals(self):
         allowed_goals = [-1, 0, 1]
         u_goal = get_user_classification(self.u_cal)
