@@ -8,13 +8,10 @@ def open_file(filename):
     tsv_file = open(filename, encoding="utf8")
     read_tsv = csv.reader(tsv_file, delimiter="\t")
 
-    return read_tsv
-    # for row in read_tsv:
-    #     print(row[0])
+    return read_tsv 
 
 
 def main():
-    init_db()
     conn = get_db()
     with conn:
         meals = open_file('inserter_files/meal.tsv')

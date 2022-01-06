@@ -3,7 +3,7 @@ import sqlite3
 import os.path
 from db import insert_or_replace_meal_request, select_all_from_table_request, select_by_id_request
 from src.diet_calculator.input import calcInput
-from src.diet.generation import DietGeneration
+# from src.diet.generation import DietGeneration
 from src.database.entities.MealIngredientEntity import MealIngredientEntity
 from src.database.entities.IngredientEntity import IngredientEntity
 from src.database.entities.MealEntity import MealEntity
@@ -162,15 +162,16 @@ def foo():
 def generate_diet():
     from random import randint
     pref = []
-    # if randint(1, 3) == 1:
-    #     pref.append('mięso')
-    # if randint(1, 3) == 1:
-    #     pref.append('laktoza')
-    # if randint(1, 3) == 1:
-    #     pref.append('orzechy')
+    if randint(1, 3) == 1:
+        pref.append('mięso')
+    if randint(1, 3) == 1:
+        pref.append('laktoza')
+    if randint(1, 3) == 1:
+        pref.append('orzechy')
     input = calcInput(True, 22, 70, 175, 2, 1, pref)
-    diet = DietGeneration(input, foo())
-    return str(diet).replace("'", '"')
+    # diet = DietGeneration(input, foo())
+    # return str(diet).replace("'", '"')
+    return ""
 
 
 if __name__ == '__main__':
