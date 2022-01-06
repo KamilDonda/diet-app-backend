@@ -7,10 +7,11 @@ from src.diet_calculator.input import calcInput
 from src.database.entities.MealIngredientEntity import MealIngredientEntity
 from src.database.entities.IngredientEntity import IngredientEntity
 from src.database.entities.MealEntity import MealEntity
+import config
 
 app = Flask(__name__)
 
-DATABASE = 'src\\database\\database.db'
+DATABASE = config.DATABASE_DB
 
 
 def get_db():
@@ -31,7 +32,7 @@ def init_db():
     if not os.path.isfile(DATABASE):
         with app.app_context():
             db = get_db()
-            with app.open_resource('src\\database\\schema.sql', mode='r') as f:
+            with app.open_resource(config.DATABASE_SCHEMA, mode='r') as f:
                 db.cursor().executescript(f.read())
             db.commit()
 
@@ -41,7 +42,7 @@ def hello_world():
     return "Hello Wololo"
 
 
-@app.route('/insert_meal')
+@app.route(config.INSERT_MEAL)
 def insert_meal():
     try:
         id = request.args.get('id')
@@ -62,7 +63,7 @@ def insert_meal():
         return 'Exception'
 
 
-@app.route('/meals/')
+@app.route(config.MEALS)
 def get_meals():
     meals = select_all_from_table_request('meal').fetchall()
 
@@ -74,13 +75,14 @@ def get_meals():
     return jsonify(mealsJSON)
 
 
-@app.route('/meals/<id>')
+@app.route(config.MEALS + '<id>')
 def get_meal_by_id(id):
-    id, name, desc, cat, classification = select_by_id_request('meal', id).fetchone()
+    id, name, desc, cat, classification = select_by_id_request(
+        'meal', id).fetchone()
     return MealEntity(id, name, desc, cat).serialize()
 
 
-@app.route('/ingredients/')
+@app.route(config.INGREDIENTS)
 def get_ingredients():
     ingredients = select_all_from_table_request('ingredient').fetchall()
     ingredientsJSON = []
@@ -91,14 +93,14 @@ def get_ingredients():
     return jsonify(ingredientsJSON)
 
 
-@app.route('/ingredients/<id>')
+@app.route(config.INGREDIENTS + '<id>')
 def get_ingredient_by_id(id):
     id, name, kcal, carbs, fats, prots, tags = select_by_id_request(
         'ingredient', id).fetchone()
     return IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize()
 
 
-@app.route('/meals_ingredients/')
+@app.route(config.MEALS_INGREDIENTS)
 def get_meals_ingredients():
     meals_ingredients = select_all_from_table_request(
         'meal_ingredient').fetchall()
@@ -110,9 +112,8 @@ def get_meals_ingredients():
     return jsonify(meals_ingredientsJSON)
 
 
-@app.route('/meals_ingredients/<id>')
+@app.route(config.MEALS_INGREDIENTS + '<id>')
 def get_meals_ingredients_by_id(id):
-    print('.\n\n\nid = ', id)
     id, meal_id, ing_name, desc, amount = select_by_id_request(
         'meal_ingredient', id).fetchone()
     return MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize()
@@ -159,7 +160,7 @@ def foo():
     return meals
 
 
-@app.route('/generate_diet')
+@app.route(config.GENERATE_DIET)
 def generate_diet():
     from random import randint
     pref = []
@@ -178,4 +179,4 @@ def generate_diet():
 if __name__ == '__main__':
     init_db()
     app.config['JSON_AS_ASCII'] = False
-    app.run(host='localhost', port=5000, debug=True)
+    app.run(host=config.HOST, port=config.PORT, debug=True)

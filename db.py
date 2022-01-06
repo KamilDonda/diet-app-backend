@@ -1,8 +1,9 @@
 import sqlite3
 from sqlite3 import Error
+import config
 import numpy as np
 
-DATABASE = 'src\\database\\database.db'
+DATABASE = config.DATABASE_DB
 
 
 def get_db():
