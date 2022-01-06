@@ -68,7 +68,7 @@ def get_meals():
 
     mealsJSON = []
     for meal in meals:
-        id, name, desc, cat = meal
+        id, name, desc, cat, classification = meal
         mealsJSON.append(MealEntity(id, name, desc, cat).serialize())
 
     return jsonify(mealsJSON)
@@ -76,7 +76,7 @@ def get_meals():
 
 @app.route('/meals/<id>')
 def get_meal_by_id(id):
-    id, name, desc, cat = select_by_id_request('meal', id).fetchone()
+    id, name, desc, cat, classification = select_by_id_request('meal', id).fetchone()
     return MealEntity(id, name, desc, cat).serialize()
 
 
@@ -101,7 +101,7 @@ def get_ingredient_by_id(id):
 @app.route('/meals_ingredients/')
 def get_meals_ingredients():
     meals_ingredients = select_all_from_table_request(
-        'meal_indredient').fetchall()
+        'meal_ingredient').fetchall()
     meals_ingredientsJSON = []
     for mi in meals_ingredients:
         id, meal_id, ing_name, desc, amount = mi
@@ -112,8 +112,9 @@ def get_meals_ingredients():
 
 @app.route('/meals_ingredients/<id>')
 def get_meals_ingredients_by_id(id):
+    print('.\n\n\nid = ', id)
     id, meal_id, ing_name, desc, amount = select_by_id_request(
-        'meal_indredient', id).fetchone()
+        'meal_ingredient', id).fetchone()
     return MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize()
 
 
