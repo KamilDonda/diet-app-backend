@@ -1,8 +1,9 @@
 import sqlite3
 from sqlite3 import Error
+import config
 import numpy as np
 
-DATABASE = 'src\\database\\database.db'
+DATABASE = config.DATABASE_DB
 
 
 def get_db():
@@ -64,7 +65,11 @@ def get_all_meal_ids_request():
 def create_request(query, params=''):
     db = get_db()
     cur = db.cursor()
-    cur.execute(query, params)
+
+    if params == '':
+        cur.execute(query, params)
+    else:
+        cur.execute(query, [params])
     db.commit()
     return cur
 
