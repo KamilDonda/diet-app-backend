@@ -106,17 +106,17 @@ def get_meals_ingredients():
         'meal_ingredient').fetchall()
     meals_ingredientsJSON = []
     for mi in meals_ingredients:
-        id, meal_id, ing_name, desc, amount = mi
+        id, meal_id, ing_id, desc, amount = mi
         meals_ingredientsJSON.append(MealIngredientEntity(
-            id, meal_id, ing_name, desc, amount).serialize())
+            id, meal_id, ing_id, desc, amount).serialize())
     return jsonify(meals_ingredientsJSON)
 
 
 @app.route(config.MEALS_INGREDIENTS + '<id>')
 def get_meals_ingredients_by_id(id):
-    id, meal_id, ing_name, desc, amount = select_by_id_request(
+    id, meal_id, ing_id, desc, amount = select_by_id_request(
         'meal_ingredient', id).fetchone()
-    return MealIngredientEntity(id, meal_id, ing_name, desc, amount).serialize()
+    return MealIngredientEntity(id, meal_id, ing_id, desc, amount).serialize()
 
 
 def foo():

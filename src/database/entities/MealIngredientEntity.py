@@ -1,8 +1,8 @@
 class MealIngredientEntity:
-    def __init__(self, id, meal_id, ingredient_name, description, amount):
+    def __init__(self, id, meal_id, ingredient_id, description, amount):
         self.id = id
         self.meal_id = meal_id
-        self.ingredient_name = ingredient_name
+        self.ingredient_id = ingredient_id
         self.description = description
         self.amount = amount
 
@@ -10,7 +10,7 @@ class MealIngredientEntity:
         return {
             'id': self.id,
             'meal_id': self.meal_id,
-            'ingredient_name': self.ingredient_name,
+            'ingredient_id': self.ingredient_id,
             'description': self.description,
             'amount': self.amount
         }
