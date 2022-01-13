@@ -8,10 +8,16 @@ from src.database.entities.MealIngredientEntity import MealIngredientEntity
 from src.database.entities.IngredientEntity import IngredientEntity
 from src.database.entities.MealEntity import MealEntity
 import config
+from firebase_admin import credentials, firestore, initialize_app
 
 app = Flask(__name__)
 
 DATABASE = config.DATABASE_DB
+
+cred = credentials.Certificate('key.json')
+default_app = initialize_app(cred)
+firestore_db = firestore.client()
+users_ref = firestore_db.collection('users')
 
 
 def get_db():
@@ -39,6 +45,9 @@ def init_db():
 
 @app.route('/')
 def hello_world():
+    # docs = users_ref.stream()
+    # for doc in docs:
+    #     print(f'{doc.id} => {doc.to_dict()}')
     return "Hello Wololo"
 
 
@@ -162,18 +171,36 @@ def foo():
 
 @app.route(config.GENERATE_DIET)
 def generate_diet():
-    from random import randint
-    pref = []
-    if randint(1, 3) == 1:
-        pref.append('mięso')
-    if randint(1, 3) == 1:
-        pref.append('laktoza')
-    if randint(1, 3) == 1:
-        pref.append('orzechy')
-    input = calcInput(True, 22, 70, 175, 2, 1, pref)
+    # from random import randint
+    # pref = []
+    # if randint(1, 3) == 1:
+    #     pref.append('mięso')
+    # if randint(1, 3) == 1:
+    #     pref.append('laktoza')
+    # if randint(1, 3) == 1:
+    #     pref.append('orzechy')
+    # input = calcInput(True, 22, 70, 175, 2, 1, pref)
     # diet = DietGeneration(input, foo())
     # return str(diet).replace("'", '"')
-    return ""
+    try:
+        uid = request.args.get('uid')
+        if uid:
+            user = users_ref.document(uid).get().to_dict()
+            activity = user['activity']
+            age = user['age']
+            gender = user['gender']
+            goal = user['goal']
+            height = user['height']
+            weight = user['weight']
+            preferences = user['preferences']
+
+            input = calcInput(gender, age, weight, height, activity, goal, preferences)
+
+            return jsonify(input)
+        else:
+            return 'Error', 400
+    except Exception as e:
+        return f"An Error Occured: {e}"
 
 
 if __name__ == '__main__':

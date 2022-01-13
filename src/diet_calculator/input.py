@@ -5,13 +5,13 @@
 # Age in years
 # Gender: True = man
 #         False = woman
-# Activity [1, 2, 3, 4, 5]
-#           1 - lowest
-#           5 - highest
-# Goal [1, 2, 3]
-#       1 - losing weight
-#       2 - constant weight
-#       3 - gaining weight
+# Activity [0, 1, 2, 3, 4]
+#           0 - lowest
+#           4 - highest
+# Goal [0, 1, 2]
+#       0 - losing weight
+#       1 - constant weight
+#       2 - gaining weight
 #
 # 1g proteins       = 4 kcal
 # 1g fats           = 9 kcal
@@ -57,19 +57,19 @@ def calcAMR(activity, BMR):
     result = 0
 
     # Little/no exercise
-    if activity == 1:
+    if activity == 0:
         result = BMR * 1.2
     # Light exercise
-    if activity == 2:
+    if activity == 1:
         result = BMR * 1.35
     # Moderate exercise (3-5 days/wk)
-    if activity == 3:
+    if activity == 2:
         result = BMR * 1.55
     # Very active (6-7 days/wk)
-    if activity == 4:
+    if activity == 3:
         result = BMR * 1.725
     # Extra active (very active & physical job)
-    if activity == 5:
+    if activity == 4:
         result = BMR * 1.9
 
     return result
@@ -79,21 +79,21 @@ def includeGoal(goal, AMR):
     result = AMR
 
     # Losing weight
-    if goal == 1:
+    if goal == 0:
         result -= 250
     # Gaining weight
-    if goal == 3:
+    if goal == 2:
         result += 250
 
     return result
 
 
 def calcProteinsNeeded(weight, goal):
-    if goal == 1:
+    if goal == 0:
         return 2 * weight
-    if goal == 2:
+    if goal == 1:
         return 1.2 * weight
-    if goal == 3:
+    if goal == 2:
         return 1.6 * weight
 
 
