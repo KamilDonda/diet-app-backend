@@ -1,7 +1,7 @@
 from flask import Flask, g, request, jsonify
 import sqlite3
 import os.path
-from db import insert_or_replace_meal_request, select_all_from_table_request, select_by_id_request, get_all_meals_with_nutriments
+from db import insert_or_replace_meal_request, select_all_from_table_request, select_by_id_request, get_all_meals_with_nutriments_and_classification
 from src.diet_calculator.input import calcInput
 from src.diet.generation import DietGeneration
 from src.database.entities.MealIngredientEntity import MealIngredientEntity
@@ -182,38 +182,27 @@ def generate_diet():
     # input = calcInput(True, 22, 70, 175, 2, 1, pref)
     # diet = DietGeneration(input, foo())
     # return str(diet).replace("'", '"')
-    try:
-        uid = request.args.get('uid')
-        if uid:
-            user = users_ref.document(uid).get().to_dict()
-            activity = user['activity']
-            age = user['age']
-            gender = user['gender']
-            goal = user['goal']
-            height = user['height']
-            weight = user['weight']
-            preferences = user['preferences']
-
-            input = calcInput(gender, age, weight, height,
-                              activity, goal, preferences)
-
-            # print(input)
-
-            meals = get_all_meals_with_nutriments()
-            
-            print(len(meals))
-
-            for m in meals:
-                print(m)
-
-            # diet = DietGeneration(input, meals)
-            # print(diet)
-
-            return jsonify(input)
-        else:
-            return 'Error', 400
-    except Exception as e:
-        return f"An Error Occured: {e}"
+    # try:
+    uid = request.args.get('uid')
+    if uid:
+        user = users_ref.document(uid).get().to_dict()
+        activity = user['activity']
+        age = user['age']
+        gender = user['gender']
+        goal = user['goal']
+        height = user['height']
+        weight = user['weight']
+        preferences = user['preferences']
+        input = calcInput(gender, age, weight, height,
+                          activity, goal, preferences)
+        meals = get_all_meals_with_nutriments_and_classification()
+        diet = DietGeneration(input, meals)
+        # print(diet)
+        return jsonify(diet)
+    else:
+        return 'Error', 400
+    # except Exception as e:
+    #     return f"An Error Occured: {e}"
 
 
 if __name__ == '__main__':
