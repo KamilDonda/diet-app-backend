@@ -40,38 +40,38 @@ class DietGeneration():
             else:
                 suppers.append(m)
 
-        diet = []
+        # diet = []
 
-        breakfast = self.get_meal_from_list(self, breakfasts)
-        dinner = self.get_meal_from_list(self, dinners)
-        supper = self.get_meal_from_list(self, suppers)
-        diet.append({
-            'breakfast': breakfast,
-            'dinner': dinner,
-            'supper': supper
-        })
+        # breakfast = self.get_meal_from_list(self, breakfasts)
+        # dinner = self.get_meal_from_list(self, dinners)
+        # supper = self.get_meal_from_list(self, suppers)
+        # diet.append({
+        #     'breakfast': breakfast,
+        #     'dinner': dinner,
+        #     'supper': supper
+        # })
 
-        foo = []
-        res = ''
-        for d in diet:
-            kcal = 0
-            prot = 0
-            carb = 0
-            fat = 0
-            for k, v in d.items():
-                # print(k, v)
-                res += str(k) + ' ' + str(v) + '\n'
-                foo.append({k: v})
-                kcal += v['cal']
-                prot += v['proteins']
-                carb += v['carbohydrates']
-                fat += v['fat']
-            res += str(kcal) + 'kcal ' + str(prot) + 'g ' + \
-                str(carb) + 'g ' + str(fat) + 'g'
-            foo.append({'kcal': kcal, 'proteins': prot,
-                       'carbohydrates': carb, 'fat': fat})
+        # foo = []
+        # res = ''
+        # for d in diet:
+        #     kcal = 0
+        #     prot = 0
+        #     carb = 0
+        #     fat = 0
+        #     for k, v in d.items():
+        #         # print(k, v)
+        #         res += str(k) + ' ' + str(v) + '\n'
+        #         foo.append({k: v})
+        #         kcal += v['cal']
+        #         prot += v['proteins']
+        #         carb += v['carbohydrates']
+        #         fat += v['fat']
+        #     res += str(kcal) + 'kcal ' + str(prot) + 'g ' + \
+        #         str(carb) + 'g ' + str(fat) + 'g'
+        #     foo.append({'kcal': kcal, 'proteins': prot,
+        #                'carbohydrates': carb, 'fat': fat})
             # print(kcal, prot, carb, fat)
-        return foo
+        return 'foo'
         # print(diet[0])
 
         # for b in breakfasts:

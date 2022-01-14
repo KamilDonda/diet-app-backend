@@ -54,7 +54,7 @@ def get_all_meal_nutriments_request(params):
         FROM ingredient LEFT JOIN meal_ingredient ON ingredient.id = ingredient_id 
         WHERE meal_id = ? 
         ORDER BY kcal desc '''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def get_all_meal_ids_request():
@@ -70,6 +70,14 @@ def create_request(query, params=''):
         cur.execute(query, params)
     else:
         cur.execute(query, [params])
+    db.commit()
+    return cur
+
+def create_request2(query, params=''):
+    db = get_db()
+    cur = db.cursor()
+
+    cur.execute(query, params)
     db.commit()
     return cur
 

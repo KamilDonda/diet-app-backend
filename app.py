@@ -1,9 +1,9 @@
 from flask import Flask, g, request, jsonify
 import sqlite3
 import os.path
-from db import insert_or_replace_meal_request, select_all_from_table_request, select_by_id_request
+from db import insert_or_replace_meal_request, select_all_from_table_request, select_by_id_request, get_all_meals_with_nutriments
 from src.diet_calculator.input import calcInput
-# from src.diet.generation import DietGeneration
+from src.diet.generation import DietGeneration
 from src.database.entities.MealIngredientEntity import MealIngredientEntity
 from src.database.entities.IngredientEntity import IngredientEntity
 from src.database.entities.MealEntity import MealEntity
@@ -128,45 +128,45 @@ def get_meals_ingredients_by_id(id):
     return MealIngredientEntity(id, ing_id, meal_id, desc, amount).serialize()
 
 
-def foo():
-    from random import randint
-    id = 1
-    meals = []
-    for category in ("śniadanie", "obiad", "kolacja"):
-        for _ in range(25):
-            p = randint(10, 100)
-            c = randint(10, 100)
-            f = randint(10, 100)
-            cal = 4 * (p + c) + 8 * f
+# def foo():
+#     from random import randint
+#     id = 1
+#     meals = []
+#     for category in ("śniadanie", "obiad", "kolacja"):
+#         for _ in range(25):
+#             p = randint(10, 100)
+#             c = randint(10, 100)
+#             f = randint(10, 100)
+#             cal = 4 * (p + c) + 8 * f
 
-            pref = []
-            if randint(1, 3) == 1:
-                pref.append('mięso')
-            if randint(1, 3) == 1:
-                pref.append('laktoza')
-            if randint(1, 3) == 1:
-                pref.append('orzechy')
+#             pref = []
+#             if randint(1, 3) == 1:
+#                 pref.append('mięso')
+#             if randint(1, 3) == 1:
+#                 pref.append('laktoza')
+#             if randint(1, 3) == 1:
+#                 pref.append('orzechy')
 
-            result = 0
-            if cal < 700:
-                result = -1
-            if cal > 1100:
-                result = 1
+#             result = 0
+#             if cal < 700:
+#                 result = -1
+#             if cal > 1100:
+#                 result = 1
 
-            meal = {
-                'id': id,
-                'name': 'Meal' + str(id),
-                'proteins': p,
-                'carbohydrates': c,
-                'fat': f,
-                'cal': cal,
-                'category': category,
-                'preferences': pref,
-                'result': result
-            }
-            meals.append(meal)
-            id += 1
-    return meals
+#             meal = {
+#                 'id': id,
+#                 'name': 'Meal' + str(id),
+#                 'proteins': p,
+#                 'carbohydrates': c,
+#                 'fat': f,
+#                 'cal': cal,
+#                 'category': category,
+#                 'preferences': pref,
+#                 'result': result
+#             }
+#             meals.append(meal)
+#             id += 1
+#     return meals
 
 
 @app.route(config.GENERATE_DIET)
@@ -194,7 +194,20 @@ def generate_diet():
             weight = user['weight']
             preferences = user['preferences']
 
-            input = calcInput(gender, age, weight, height, activity, goal, preferences)
+            input = calcInput(gender, age, weight, height,
+                              activity, goal, preferences)
+
+            # print(input)
+
+            meals = get_all_meals_with_nutriments()
+            
+            print(len(meals))
+
+            for m in meals:
+                print(m)
+
+            # diet = DietGeneration(input, meals)
+            # print(diet)
 
             return jsonify(input)
         else:
