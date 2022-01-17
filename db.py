@@ -54,11 +54,23 @@ def get_all_meal_nutriments_request(params):
         FROM ingredient LEFT JOIN meal_ingredient ON ingredient.id = ingredient_id 
         WHERE meal_id = ? 
         ORDER BY kcal desc '''
-    return create_request(query, params)
+    return create_request2(query, params)
+
+def get_all_meal_nutriments_with_tags_request(params):
+    query = ''' SELECT kcal, carbohydrates, fats, proteins, amount, tags
+        FROM ingredient LEFT JOIN meal_ingredient ON ingredient.id = ingredient_id 
+        WHERE meal_id = ? 
+        ORDER BY kcal desc '''
+    return create_request2(query, params)
 
 
 def get_all_meal_ids_request():
     query = '''SELECT id FROM meal'''
+    return create_request(query)
+
+
+def get_all_meal_ids_with_classification_and_category_request():
+    query = '''SELECT id, classification, category FROM meal'''
     return create_request(query)
 
 
@@ -70,6 +82,15 @@ def create_request(query, params=''):
         cur.execute(query, params)
     else:
         cur.execute(query, [params])
+    db.commit()
+    return cur
+
+
+def create_request2(query, params=''):
+    db = get_db()
+    cur = db.cursor()
+
+    cur.execute(query, params)
     db.commit()
     return cur
 
@@ -136,3 +157,49 @@ def get_all_meals_with_nutriments():
             [id, all_meal_nutriments[0], all_meal_nutriments[2], all_meal_nutriments[1], all_meal_nutriments[3]])
         # kcal fats carbs proteins
     return sorted(meals_with_nutriments, key=sorting_func, reverse=True)
+
+
+def get_all_meals_with_nutriments_and_classification():
+    data = np.array(
+        list(get_all_meal_ids_with_classification_and_category_request().fetchall()))
+    ids = data[:, 0]
+    results = data[:, 1]
+    categories = data[:, 2]
+
+    meals_with_nutriments = []
+    for id, result, category in zip(ids, results, categories):
+        ingredient_nutriments_with_tags_arr = list(
+            get_all_meal_nutriments_with_tags_request([str(id)]).fetchall())
+        # kcal carbs fats proteins
+        all_meal_nutriments = [0, 0, 0, 0]
+        all_tags = []
+
+        for ingredient in ingredient_nutriments_with_tags_arr:
+            amount = ingredient[4]
+            tags = ingredient[5]
+            nutriments = np.array(
+                [ingredient[0]*amount, ingredient[1]*amount, ingredient[2]*amount, ingredient[3]*amount])
+            all_meal_nutriments += nutriments
+            if tags != '':
+                all_tags.append(tags)
+
+        all_tags = list(dict.fromkeys(all_tags))
+
+        meals_with_nutriments.append(
+            {
+                "id": id,
+                "kcal": all_meal_nutriments[0],
+                "fats": all_meal_nutriments[2],
+                "carbohydrates": all_meal_nutriments[1],
+                "proteins": all_meal_nutriments[3],
+                "result": result,
+                "preferences": all_tags,
+                "category": category
+            }
+        )
+
+    # for m in meals_with_nutriments:
+    #     print(m)
+
+        # kcal fats carbs proteins
+    return meals_with_nutriments
