@@ -197,7 +197,6 @@ def generate_diet():
                           activity, goal, preferences)
         meals = get_all_meals_with_nutriments_and_classification()
         diet = DietGeneration(input, meals)
-        # print(diet)
         return jsonify(diet)
     else:
         return 'Error', 400
