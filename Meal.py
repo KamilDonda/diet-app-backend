@@ -1,6 +1,6 @@
 class Meal():
     def __init__(self, id, kcal, proteins, carbohydrates, fats, category, preferences, result):
-        self.id = id
+        self.id = int(id)
         self.kcal = kcal
         self.proteins = proteins
         self.carbohydrates = carbohydrates
@@ -70,4 +70,11 @@ class DaySum():
             "dinner": self.dinner.serialize(),
             "supper": self.supper.serialize(),
             "total": self.total.serialize()
+        }
+
+    def get_ids(self):
+        return {
+            "breakfast": self.breakfast.id,
+            "dinner": self.dinner.id,
+            "supper": self.supper.id,
         }
