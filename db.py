@@ -74,6 +74,11 @@ def get_all_meal_ids_with_classification_and_category_request():
     return create_request(query)
 
 
+def get_meals_classification(id):
+    query = '''SELECT classification FROM meal WHERE id = ?'''
+    return create_request(query, [id])
+
+
 def create_request(query, params=''):
     db = get_db()
     cur = db.cursor()
@@ -154,7 +159,7 @@ def get_all_meals_with_nutriments():
             all_meal_nutriments += nutriments
 
         meals_with_nutriments.append(
-            [id, all_meal_nutriments[0], all_meal_nutriments[2], all_meal_nutriments[1], all_meal_nutriments[3]])
+            [id, all_meal_nutriments[0], all_meal_nutriments[2], all_meal_nutriments[1], all_meal_nutriments[3], get_meals_classification(id).fetchall()])
         # kcal fats carbs proteins
     return sorted(meals_with_nutriments, key=sorting_func, reverse=True)
 
