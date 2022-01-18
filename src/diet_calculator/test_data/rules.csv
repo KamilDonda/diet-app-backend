@@ -29,8 +29,8 @@ min,max,max,max,0
 mid,min,min,min,-1
 mid,min,min,mid,-1
 mid,min,min,max,-1
-mid,min,mid,min,0
-mid,min,mid,mid,0
+mid,min,mid,min,-1
+mid,min,mid,mid,-1
 mid,min,mid,max,0
 mid,min,max,min,0
 mid,min,max,mid,0
@@ -56,8 +56,8 @@ mid,max,max,max,1
 max,min,min,min,0
 max,min,min,mid,0
 max,min,min,max,0
-max,min,mid,min,1
-max,min,mid,mid,1
+max,min,mid,min,0
+max,min,mid,mid,0
 max,min,mid,max,1
 max,min,max,min,1
 max,min,max,mid,1
