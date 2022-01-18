@@ -128,6 +128,6 @@ def get_all_meals_with_nutriments():
             all_meal_nutriments += nutriments
 
         meals_with_nutriments.append(
-            [id, all_meal_nutriments[0], all_meal_nutriments[2], all_meal_nutriments[1], all_meal_nutriments[3]])
+            [id, all_meal_nutriments[0], all_meal_nutriments[2], all_meal_nutriments[1], all_meal_nutriments[3], str(select_by_id_request('meal', [str(id)]).fetchone()[4])])
         # kcal fats carbs proteins
     return sorted(meals_with_nutriments, key=sorting_func, reverse=True)
