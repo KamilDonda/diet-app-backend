@@ -19,19 +19,19 @@ def get_db():
 def insert_or_replace_meal_request(params):
     query = ''' INSERT OR REPLACE INTO meal(id, name, description, category, classification)
         VALUES(?,?,?,?,?) '''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def insert_or_replace_ingredient_request(params):
     query = ''' INSERT OR REPLACE INTO ingredient(id, name, kcal, carbohydrates, fats, proteins, tags)
         VALUES(?,?,?,?,?,?,?) '''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def insert_or_replace_meal_ingredient_request(params):
     query = ''' INSERT OR REPLACE INTO meal_ingredient(id, ingredient_id, meal_id, description, amount)
         VALUES(?,?,?,?,?) '''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def update_meal_classification_request(params):
