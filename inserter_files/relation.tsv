@@ -11,13 +11,13 @@
 11	sól	2	1/2 łyżeczki soli	3
 12	pieprz	2	1/3 łyżeczki pieprzu	2
 13	cytryna	2	mała cytryna	120
-14	ziemniak	3	1 kg surowych ziemniaków	1000
-15	ziemniak	3	0,5 kg ugotowanych ziemniaków	500
-16	mielona łopatka wieprzowa	3	250 g mielonej łopatki wieprzowej	250
-17	cebula	3	1 średnie cebule	120
-18	mąka pszenna	3	1 łyżka mąki pszennej	10
+14	ziemniak	3	0,5 kg surowych ziemniaków	500
+15	ziemniak	3	250g ugotowanych ziemniaków	250
+16	mielona łopatka wieprzowa	3	125 g mielonej łopatki wieprzowej	125
+17	cebula	3	połowa cebuli	60
+18	mąka pszenna	3	pół łyżki mąki pszennej	5
 19	sól	3	1/2 łyżeczka soli	3
-20	majeranek	3	1/2 łyżeczka majeranku	3
+20	majeranek	3	1/3 łyżeczka majeranku	2
 21	pieprz	3	1/2 łyżeczki pieprzu	3
 22	wołowina	4	750g wołowiny na gulasz np. łopatka lub karczek	750
 23	papryka czerwona	4	1 czerwona papryka	220
@@ -132,7 +132,7 @@
 132	papryka słodka	14	łyżeczka słodkiej papryki	6
 133	pieprz	14	1/3 łyżeczki pieprzu	2
 134	papryka czerwona	14	1 czerwona papryka	260
-135	wątróbka driobiowa	15	800 g wątróbki drobiowej - z indyka lub z kurczaka	800
+135	wątróbka drobiowa	15	800 g wątróbki drobiowej - z indyka lub z kurczaka	800
 136	cebula	15	3 średnie cebule	800
 137	mąka pszenna	15	2 łyżki mąki pszennej	20
 138	olej	15	6 łyżek oleju	60
@@ -191,13 +191,13 @@
 191	pieprz	21	1/2 łyżeczki pieprzu	3
 192	bułka tarta	21	120 g bułki tartej	120
 193	masło klarowane	21	4 łyżki masła klarowanego	40
-194	wołowina	22	600 g mięsa mielonego - wołowina	600
-195	cebula	22	pół małej cebuli	80
-196	czosnek	22	4 ząbki czosnku	20
-197	imbir	22	kawałek świeżego imbiru (3cm)	12
+194	wołowina	22	300 g mięsa mielonego - wołowina	300
+195	cebula	22	ćwierć cebuli	50
+196	czosnek	22	2 ząbki czosnku	10
+197	imbir	22	kawałek świeżego imbiru (1cm)	5
 198	natka pietruszki	22	garść natki pietruszki	20
 199	olej	22	łyżka oleju	10
-200	kolendra	22	łyżeczka kolendry	6
+200	kolendra	22	½ łyżeczki kolendry	3
 201	sól	22	łyżeczka soli	6
 202	papryka słodka	22	łyżeczka słodkiej papryki	6
 203	pieprz	22	1/2 łyżeczki pieprzu	3
@@ -309,7 +309,7 @@
 309	ziemniak	34	1 kg ziemniaków	1000
 310	cebula	34	2,5 średniej cebuli	250
 311	boczek surowy	34	200 g boczku surowego wędzonego	200
-312	ser zółty	34	50 g żółtego sera	50
+312	ser żółty	34	50 g żółtego sera	50
 313	ser cheddar	34	25 g sera cheddar	25
 314	śmietana 30%	34	75 g śmietanki 30 %	75
 315	jajko	34	1 duże jajko	60
@@ -342,23 +342,23 @@
 342	gałka muszkatołowa	37	łyżeczka gałki muszkatołowej	6
 343	kminek	37	łyżeczka kminku	6
 344	kolendra i szczypior	37	świeża kolendra i szczypior	12
-345	twaróg tłusty	38	600 g twarogu tłustego	600
-346	śmietana 18%	38	200 g śmietany kwaśnej 18 %	200
-347	cebula	38	mała cebula 	60
+345	twaróg tłusty	38	300 g twarogu tłustego	300
+346	śmietana 18%	38	100 g śmietany kwaśnej 18 %	100
+347	cebula	38	ćwierć małej cebula 	40
 348	sól	38	1 łyżeczka soli	6
 349	pieprz	38	1/3 łyżeczki pieprzu	2
 350	cukier	38	łyżeczka cukru	6
-351	ziemniak	39	trochę ponad 1 kg ziemniaków	1100
-352	mąka pszenna	39	1 szklanka mąki pszennej	250
-353	jajko	39	2 jajka	100
+351	ziemniak	39	0,5 kg ziemniaków	500
+352	mąka pszenna	39	pół szklanki mąki pszennej	125
+353	jajko	39	1 jajko	55
 354	sól	39	1 łyżeczka soli	6
-355	marchew	40	1 kg marchewki	1000
-356	groch	40	puszka groszku	400
-357	masło	40	2 łyżki masła	20
-358	mąka pszenna	40	łyżka maki pszennej	10
-359	woda	40	szklanka wody	250
-360	sól	40	łyżeczka soli	6
-361	cukier	40	łyżeczka cukru	6
+355	marchew	40	0,5 kg marchewki	500
+356	groch	40	połowa puszki groszku	200
+357	masło	40	1 łyżka masła	10
+358	mąka pszenna	40	pół łyżki mąki pszennej	5
+359	woda	40	pół szklanki wody	125
+360	sól	40	½ łyżeczki soli	3
+361	cukier	40	½ łyżeczki cukru	3
 362	cukinia	41	2 średnie cukinie	680
 363	czosnek	41	3 ząbki czosnku	15
 364	oliwa	41	3 łyżki oliwy	30
@@ -369,12 +369,12 @@
 369	bazylia	42	pęczek bazylii	60
 370	orzeszki piniowe	42	garść orzeszków piniowych	50
 371	parmezan	42	kawałek sera parmezan	50
-372	oliwa	42	1/3 szklanki oliwy	80
+372	oliwa	42	¼ szklanki oliwy	60
 373	czosnek	42	2 ząbki czosnku	10
 374	sól	42	1/2 łyżeczki soli	3
 375	pieprz	42	1/2 łyżeczki pieprzu	2
-376	ziemniak	43	1 kg ziemniaków	1000
-377	olej	43	1000 ml oleju	40
+376	ziemniak	43	0,5 kg ziemniaków	500
+377	olej	43	500 ml oleju	500
 378	sól	43	łyżeczka soli	6
 379	ziemniak	44	1 kg obranych ziemniaków	1000
 380	jajko	44	2 średnie lub małe jajka	110
@@ -469,13 +469,13 @@
 469	sól	55	1/2 łyżeczki soli	3
 470	pieprz	55	1/3 łyżeczki pieprzu	2
 471	oliwa	55	2 łyżki delikatnej oliwy	20
-472	łosoś	56	2 płaty z łososia ze skórą	550
-473	masło klarowane	56	2 łyżki masła klarowanego	20
+472	łosoś	56	1 płat z łososia ze skórą	240
+473	masło klarowane	56	1 łyżka masła klarowanego	10
 474	pieprz	56	łyżka pieprzu	10
 475	sól	56	łyżka soli	10
-476	śledź bałtycki	57	7 tuszek śledzi bałtyckich	500
-477	olej	57	5 łyżek oleju	50
-478	mąka pszenna	57	2 łyżki mąki pszennej	20
+476	śledź bałtycki	57	5 tuszek śledzi bałtyckich	400
+477	olej	57	3 łyżki oleju	30
+478	mąka pszenna	57	1,5 łyżki mąki pszennej	15
 479	sól	57	1/2 łyżeczki soli	3
 480	pieprz	57	1/2 łyżeczki pieprzu	3
 481	czosnek suszony	57	łyżeczka suszonego czosnku	6
@@ -739,7 +739,7 @@
 739	oliwa z oliwek	86	4 łyżki oliwy z oliwek	40
 740	ciabatta	87	ciabatta	80
 741	oliwa z oliwek	87	łyżka oliwy z oliwek	10
-742	majonez 	87	łyżka majonezu	10
+742	majonez	87	łyżka majonezu	10
 743	łosoś	87	60g łososia wędzonego	60
 744	awokado	87	awokado	150
 745	jajko	87	jajko	55
@@ -748,8 +748,8 @@
 748	kiełki rzodkiewki	87	łyżka kiełków rzodkiewki	8
 749	ziarna czarnuszki	87	1/4 łyżeczki zieren czarnuszki	3
 750	chleb tostowy	88	4 kromki chleba tostowego	100
-751	ser zółty	88	25g sera żółtego	25
-752	majonez 	88	łyżka majonezu	10
+751	ser żółty	88	25g sera żółtego	25
+752	majonez	88	łyżka majonezu	10
 753	szynka	88	50g szynki	50
 754	ziemniak	89	50g ziemniaków	50
 755	cebula	89	1/4 cebuli	23
@@ -848,8 +848,8 @@
 848	pomidor	99	pomidor	180
 849	jajko	99	jajko	55
 850	woda	99	łyżka wody	10
-851	ser zółty	99	plaster sera	30
-852	razowy chleb	100	kromka chleba razowego	35
+851	ser żółty	99	plaster sera	30
+852	chleb razowy	100	kromka chleba razowego	35
 853	jajko	100	2 jajka	110
 854	mleko	100	łyżka mleka	10
 855	oscypek	100	1/4 oscypka	8
@@ -957,7 +957,7 @@
 957	pomidor	112	300 g pomidorów	300
 958	czosnek	112	1 ząbek czosnku	5
 959	bazylia	112	ok. pół szklanki listków bazylii	22
-960	mozzarella	112	pół kulki białej mozzarelli (np. burrata lub zwykła)	65
+960	ser mozzarella	112	pół kulki białej mozzarelli (np. burrata lub zwykła)	65
 961	sól morska	112	1/3 łyżeczki soli morskiej	25
 962	pieprz	112	świeżo zmielony pieprz	2
 963	oliwa	112	2 łyżki oliwy extra vergine	20
@@ -1019,7 +1019,7 @@
 1019	olej	116	1 łyżka oleju	10
 1020	bulion wołowy	116	szklanka bulionu wołowego	250
 1021	kapusta biała	116	250 g świeżej białej kapusty	250
-1022	kiszona kapusta	116	125 g kiszonej kapusty (waga po odciśnięciu)	125
+1022	kapusta kiszona	116	125 g kiszonej kapusty (waga po odciśnięciu)	125
 1023	suszona śliwka	116	25 g suszonych śliwek	25
 1024	cebula	116	pół cebuli	60
 1025	chorizo	116	70 g kiełbasy chorizo	70
@@ -1207,7 +1207,7 @@
 1207	czosnek	133	2 ząbki czosnku	10
 1208	masło	133	2 łyżki masła	20
 1209	słodki sos chilli	133	2 łyżki słodkiego sosu chilli	20
-1210	sos worcestershire	133	2 łyżki sosu worcestershire	20
+1210	sos Worcestershire	133	2 łyżki sosu worcestershire	20
 1211	bulion	133	1/4 szklanki bulionu	30
 1212	sok z cytryny	133	2 łyżki soku z cytryny	20
 1213	cukier	133	1/2 łyżeczki cukru	3
@@ -1279,7 +1279,7 @@
 1280	czosnek	140	2 ząbki czosnku	10
 1281	bułka tarta	140	4 łyżki bułki tartej	40
 1282	jajko	140	3 jajka	165
-1283	ser zółty	140	50 g tartego sera żółtego	50
+1283	ser żółty	140	50 g tartego sera żółtego	50
 1284	parmezan	140	50 g tartego parmezanu	50
 1285	szczypiorek	140	1/2 pęczka szczypiorku	50
 1286	oliwa	140	1 łyżeczka oliwy extra vergine	10
@@ -1365,3 +1365,4 @@
 1366	mleko	150	2 szklanki mleka	460
 1367	malina	150	ok. 1/2 szklanki malin (świeżych lub mrożonych)	50
 1368	syrop malinowy	150	3 łyżki syropu/soku malinowego	30
+1369	makaron	42	100g makaronu	100
