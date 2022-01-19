@@ -46,7 +46,7 @@ def select_all_from_table_request(table):
 
 def select_by_id_request(table, params):
     query = f''' SELECT * FROM {table} WHERE id = ?'''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def get_all_meal_nutriments_request(params):
@@ -97,7 +97,7 @@ def create_request2(query, params=''):
 
 def insert_meals(meals):
     for meal in meals:
-        params = (meal[0], meal[1], meal[2], meal[3], None)
+        params = (meal[0], meal[1], meal[2], meal[3], meal[4])
         insert_or_replace_meal_request(params)
 
 

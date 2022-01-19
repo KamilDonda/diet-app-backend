@@ -42,8 +42,8 @@ def calculate_system():
     arr = []
 
     for meal in all_data:
-        if meal[4] == 'None':
-            meal[4] = np.nan
+        if meal[5] == 'None':
+            meal[5] = np.nan
             arr.append(meal)
         else:
             test_arr.append(meal)
@@ -210,3 +210,5 @@ def calculate_system():
 
     plot_cm(y_true, y_preds, [-1, 0, 1])
     print(classification_report(y_true, y_preds))
+
+print(calculate_system())
