@@ -11,13 +11,13 @@
 11	sól	2	1/2 łyżeczki soli	3
 12	pieprz	2	1/3 łyżeczki pieprzu	2
 13	cytryna	2	mała cytryna	120
-14	ziemniak	3	1 kg surowych ziemniaków	1000
-15	ziemniak	3	0,5 kg ugotowanych ziemniaków	500
-16	mielona łopatka wieprzowa	3	250 g mielonej łopatki wieprzowej	250
-17	cebula	3	1 średnie cebule	120
-18	mąka pszenna	3	1 łyżka mąki pszennej	10
+14	ziemniak	3	0,5 kg surowych ziemniaków	500
+15	ziemniak	3	250g ugotowanych ziemniaków	250
+16	mielona łopatka wieprzowa	3	125 g mielonej łopatki wieprzowej	125
+17	cebula	3	połowa cebuli	60
+18	mąka pszenna	3	½ łyżka mąki pszennej	5
 19	sól	3	1/2 łyżeczka soli	3
-20	majeranek	3	1/2 łyżeczka majeranku	3
+20	majeranek	3	1/3 łyżeczka majeranku	2
 21	pieprz	3	1/2 łyżeczki pieprzu	3
 22	wołowina	4	750g wołowiny na gulasz np. łopatka lub karczek	750
 23	papryka czerwona	4	1 czerwona papryka	220
@@ -132,7 +132,7 @@
 132	papryka słodka	14	łyżeczka słodkiej papryki	6
 133	pieprz	14	1/3 łyżeczki pieprzu	2
 134	papryka czerwona	14	1 czerwona papryka	260
-135	wątróbka driobiowa	15	800 g wątróbki drobiowej - z indyka lub z kurczaka	800
+135	wątróbka drobiowa 	15	800 g wątróbki drobiowej - z indyka lub z kurczaka	800
 136	cebula	15	3 średnie cebule	800
 137	mąka pszenna	15	2 łyżki mąki pszennej	20
 138	olej	15	6 łyżek oleju	60
@@ -191,13 +191,13 @@
 191	pieprz	21	1/2 łyżeczki pieprzu	3
 192	bułka tarta	21	120 g bułki tartej	120
 193	masło klarowane	21	4 łyżki masła klarowanego	40
-194	wołowina	22	600 g mięsa mielonego - wołowina	600
-195	cebula	22	pół małej cebuli	80
-196	czosnek	22	4 ząbki czosnku	20
-197	imbir	22	kawałek świeżego imbiru (3cm)	12
+194	wołowina	22	300 g mięsa mielonego - wołowina	300
+195	cebula	22	ćwierć cebuli	50
+196	czosnek	22	2 ząbki czosnku	10
+197	imbir	22	kawałek świeżego imbiru (1cm)	5
 198	natka pietruszki	22	garść natki pietruszki	20
 199	olej	22	łyżka oleju	10
-200	kolendra	22	łyżeczka kolendry	6
+200	kolendra	22	łyżeczka kolendry	3
 201	sól	22	łyżeczka soli	6
 202	papryka słodka	22	łyżeczka słodkiej papryki	6
 203	pieprz	22	1/2 łyżeczki pieprzu	3
@@ -309,7 +309,7 @@
 309	ziemniak	34	1 kg ziemniaków	1000
 310	cebula	34	2,5 średniej cebuli	250
 311	boczek surowy	34	200 g boczku surowego wędzonego	200
-312	ser zółty	34	50 g żółtego sera	50
+312	ser żółty	34	50 g żółtego sera	50
 313	ser cheddar	34	25 g sera cheddar	25
 314	śmietana 30%	34	75 g śmietanki 30 %	75
 315	jajko	34	1 duże jajko	60
@@ -342,23 +342,23 @@
 342	gałka muszkatołowa	37	łyżeczka gałki muszkatołowej	6
 343	kminek	37	łyżeczka kminku	6
 344	kolendra i szczypior	37	świeża kolendra i szczypior	12
-345	twaróg tłusty	38	600 g twarogu tłustego	600
-346	śmietana 18%	38	200 g śmietany kwaśnej 18 %	200
-347	cebula	38	mała cebula 	60
+345	twaróg tłusty	38	300 g twarogu tłustego	300
+346	śmietana 18%	38	100 g śmietany kwaśnej 18%	100
+347	cebula	38	ćwierć małej cebula 	40
 348	sól	38	1 łyżeczka soli	6
 349	pieprz	38	1/3 łyżeczki pieprzu	2
 350	cukier	38	łyżeczka cukru	6
-351	ziemniak	39	trochę ponad 1 kg ziemniaków	1100
-352	mąka pszenna	39	1 szklanka mąki pszennej	250
+351	ziemniak	39	0,5 kg ziemniaków 	500
+352	mąka pszenna	39	pół szklanki mąki pszennej 	125
 353	jajko	39	2 jajka	100
 354	sól	39	1 łyżeczka soli	6
-355	marchew	40	1 kg marchewki	1000
-356	groch	40	puszka groszku	400
-357	masło	40	2 łyżki masła	20
-358	mąka pszenna	40	łyżka maki pszennej	10
-359	woda	40	szklanka wody	250
-360	sól	40	łyżeczka soli	6
-361	cukier	40	łyżeczka cukru	6
+355	marchew	40	0,5 kg marchewki	500
+356	groch	40	pół puszki groszku	200
+357	masło	40	1 łyżka masła	10
+358	mąka pszenna	40	pół łyżki maki pszennej	5
+359	woda	40	pół szklanki wody	125
+360	sól	40	1/2 łyżeczki soli	3
+361	cukier	40	1/2 łyżeczki cukru	3
 362	cukinia	41	2 średnie cukinie	680
 363	czosnek	41	3 ząbki czosnku	15
 364	oliwa	41	3 łyżki oliwy	30
@@ -369,12 +369,12 @@
 369	bazylia	42	pęczek bazylii	60
 370	orzeszki piniowe	42	garść orzeszków piniowych	50
 371	parmezan	42	kawałek sera parmezan	50
-372	oliwa	42	1/3 szklanki oliwy	80
+372	oliwa	42	¼ szklanki oliwy	60
 373	czosnek	42	2 ząbki czosnku	10
 374	sól	42	1/2 łyżeczki soli	3
 375	pieprz	42	1/2 łyżeczki pieprzu	2
-376	ziemniak	43	1 kg ziemniaków	1000
-377	olej	43	1000 ml oleju	40
+376	ziemniak	43	0,5 kg ziemniaków	500
+377	olej	43	500 ml oleju	500
 378	sól	43	łyżeczka soli	6
 379	ziemniak	44	1 kg obranych ziemniaków	1000
 380	jajko	44	2 średnie lub małe jajka	110
@@ -469,899 +469,900 @@
 469	sól	55	1/2 łyżeczki soli	3
 470	pieprz	55	1/3 łyżeczki pieprzu	2
 471	oliwa	55	2 łyżki delikatnej oliwy	20
-472	łosoś	56	2 płaty z łososia ze skórą	550
-473	masło klarowane	56	2 łyżki masła klarowanego	20
-474	pieprz	56	łyżka pieprzu	10
-475	sól	56	łyżka soli	10
-476	śledź bałtycki	57	7 tuszek śledzi bałtyckich	500
-477	olej	57	5 łyżek oleju	50
-478	mąka pszenna	57	2 łyżki mąki pszennej	20
-479	sól	57	1/2 łyżeczki soli	3
-480	pieprz	57	1/2 łyżeczki pieprzu	3
-481	czosnek suszony	57	łyżeczka suszonego czosnku	6
-482	makaron ryżowy	58	makaron ryżowy	200
-483	krewetka	58	400 g krewetek	400
-484	czosnek	58	5 ząbków czosnku	25
-485	masło klarowane	58	3 łyżki masła klarowanego	30
-486	sezam	58	2 łyżki sezamu	20
-487	sos sojowy	58	1/4 szklanki sosu sojowego	62
-488	kolendra	58	garść świeżej kolendry	20
-489	imbir	58	łyżeczka imbiru	6
-490	pieprz cytrynowy	58	łyżeczka pieprzu cytrynowego	6
-491	chili	58	łyżeczka chili	6
-492	kalafior	59	230 kalafiora	230
-493	brokuł	59	130g brokuła	130
-494	marchew	59	25 marchewki	25
-495	fasola szparagowa	59	40g fasolki szparagowej	40
-496	cukinia	59	140 cukinii	140
-497	masło klarowane	59	50ml masła klarowanego	50
-498	cytryna	59	cytryna	25
-499	cukier	59	łyżeczka cukru	6
-500	pieprz biały	59	szczypta białego pieprzu	0.25
-501	cebula	60	cebula	100
-502	olej	60	łyżka oleju	10
-503	pieprz	60	szczypta pieprzu	0.25
-504	sól	60	szczypta soli	0.25
-505	koncentrat pomidorowy	60	2 łyżki koncentratu pomidorowego	50
-506	mrożone warzywa	60	200g mrożonych warzyw	200
-507	serce drobiowe	60	250g drobiowych serc	250
-508	mleko	61	70ml mleka	70
-509	jajko	61	jajko	55
-510	mąka	61	1/2 szklanki mąki	125
-511	woda gazowana	61	15ml wody gazowanej	15
-512	olej	61	łyżka oleju	10
-513	sól	61	szczypta soli	0.25
-514	wiśniówka	61	12ml wiśniówki	12
-515	rozmaryn	61	szczypta rozmarynu	1
-516	oscypek	61	50g oscypków	50
-517	żurawina	61	70g żurawiny	70
-518	bułka tarta	61	łyżka bułki tartej	10.0
-519	bakłażan	62	60g bakłażana	60
-520	ketchup	62	20ml ketchupu	20
-521	cebula	62	40g cebuli	40
-522	czosnek	62	ząbek czosnku	7
-523	olej	62	łyżka oleju	10
-524	kolendra	62	20g kolendry	20
-525	sos sojowy	62	łyżka sosu sojowego	10
-526	bagietka	62	kawałek bagietki	40
-527	papryka czerwona	62	50g papryki czerwonej	50
-528	papryka żółta	62	50g papryki żółta	50
-529	kasza jaglana	63	120g kaszy jaglanej	120
-530	pomidor koktajlowy	63	300g pomidorów koktajlowych	300
-531	papryka czerwona	63	papryka czerwona	250
-532	pestki słonecznika	63	4 łyżki pestek słonecznika	40
-533	cebula czerwona	63	cebula czerwona	90
-534	bazylia	63	garść bazylii	3
-535	pieprz	64	szczypta pieprzu	0.25
-536	sól	64	szczypta soli	0.25
-537	imbir	64	łyżeczka startego imbiru	6
-538	olej	64	łyżeczka oleju	6
-539	grzyby shiitake	64	50g grzybów shiitake	50
-540	cebula dymka	64	cebula dymka	20
-541	kapusta pekińska	64	190g kapusty pekińskiej	190
-542	papryka czerwona	64	70g papryki czerwonej	70
-543	czosnek	64	2 ząbki czosnku	14
-544	ziemniak	65	2 małe ziemniaki	120
-545	mąka	65	łyżka mąki	10
-546	proszek do pieczenia	65	łyżeczka proszku do pieczenia	6
-547	cukinia	65	120g cukinii	120
-548	papryka czerwona	65	70g papryki czerwonej	70
-549	papryka zielona	65	50g papryki zielonej	50
-550	bakłażan	65	70g bakłażana	70
-551	musztarda sarepska	65	łyżka musztardy sarepskiej	10
-552	pieprz ziołowy	65	szczypta pieprzy ziołowego	0.25
-553	cząber	65	szczypta cząbru	1
-554	jajko	65	jajko	55
-555	mąka pszenna	66	25g mąki pszennej	25
-556	mąka ziemniaczana	66	10g mąki ziemniaczanej	10
-557	woda gazowana	66	25ml wody gazowanej	50
-558	jajko	66	małe jajko	40
-559	sól	66	sczypta soli	0.2
-560	proszek do pieczenia	66	1/2 łyżeczki proszku do pieczenia	3
-561	krewetka	66	2 krewetki z ogonkami	30
-562	krążki z kalmara	66	2 krążki z kalmara	20
-563	ośmiornica	66	1 mała ośmiornica	50
-564	cebula	66	10g cebuli	10
-565	cukinia	66	15g cukinii	15
-566	papryka czerwona	66	40g papryki czerwonej	40
-567	sos sojowy	66	15ml sosu sojowego	15
-568	limonka	66	15g limonki	15
-569	chrzan	66	1g chrzanu	1
-570	olej	66	125ml oleju	125
-571	filet z piersi kurczaka	67	150g filetu z piersi kurczaka	150
-572	czosnek	67	ząbek czosnku	7
-573	przecier pomidorowy	67	70ml przecieru pomidorowego	70
-574	miód	67	łyżka miodu	25
-575	musztarda	67	łyżka musztardy	15
-576	sok z cytryny	67	łyżka soku z cytryny	10
-577	sos Tabasco	67	pół łyżeczki sosu Tabasco	3
-578	sól	67	sczypta soli	0.25
-579	oliwa	67	łyżeczka oliwy	6
-580	bułka	67	bułka (ok. 80g)	80
-581	olej	68	łyżeczka oleju	6
-582	pieprz	68	sczypta pieprzu	0.25
-583	jajko	68	jajko	55
-584	sól	68	szczypta soli	0.25
-585	kukurydza konserwowa	68	50g kukurydzy konserwowej	50
-586	filet z indyka	68	125g filetu z indyka	125
-587	marchew	68	marchew	50
-588	groch	68	20g groszku	20
-589	ser mascarpone	68	50g sera mascarpone	50
-590	cebula	69	20g cebuli	20
-591	cukinia	69	100g cukinii	100
-592	olej	69	łyżeczka oleju	6
-593	pieprz	69	sczypta pieprzu	0.25
-594	papryka czerwona	69	50g papryki czerwona	50
-595	pomidor	69	mały pomidory	100
-596	sól	69	szczypta soli	0.25
-597	papryka ostra	69	szczypta ostrej papryki	1
-598	mąka	69	łyżeczka mąki	6
-599	bulion	69	100ml bulionu	100
-600	koncentrat pomidorowy	69	łyżka koncentratu pomidorowego	10
-601	kuskus	69	30g kuskusu	30
-602	pierś z indyka	69	50g piersi z indyka	50
-603	fasola szparagowa	69	50g fasoli szparagowej	50
-604	cebula	70	25g cebuli	25
-605	pomidor	70	150g pomidorów	150
-606	marchew	70	25g marchewki	25
-607	pieprz	70	szczypta pieprzu	0.25
-608	sól	70	szczypta soli	0.25
-609	gałka muszkatołowa	70	szczypta gałki muszkatołowej	0.25
-610	czosnek	70	3 ząbki czosnku	21
-611	bazylia	70	kilka listków bazylii	2
-612	sok z cytryny	70	łyżka soku z cytryny	10
-613	czarna oliwka	70	25g czarnych oliwek	25
-614	filet z turbota	70	100g filetu z turbota	100
-615	cebula	71	25g cebuli	25
-616	olej	71	łyżeczka oleju	6
-617	pieprz	71	szczypta pieprzu	0.25
-618	pieczarka	71	60g pieczarek	60
-619	sól	71	szczypta soli	0.25
-620	seler	71	125g selera	125
-621	masło	71	5g masła	5
-622	papryka czerwona	71	90g papryki czerwonej	90
-623	ryż	71	60g ryżu	60
-624	szynka	71	40g szynki	40
-625	groszek konserwowy	71	50g groszku konserwowego	50
-626	bulion drobiowy	71	150ml bulionu drobiowego	150
-627	makrela	72	125g makreli	125
-628	cebula	72	50g cebuli	50
-629	pomidor	72	50g pomidorów	50
-630	pieczarka marynowana	72	25g pieczarek marynowanych	25
-631	sok z cytryny	72	łyżeczka soku z cytryny	6
-632	śmietana	72	łyżka śmietany	10
-633	tymianek	72	łyżeczka tymianku	6
-634	sól	72	szczypta soli	0.25
-635	pieprz	72	szczypta pieprzu	0.25
-636	olej	73	łyżeczka oleju	6
-637	pieprz	73	szczypta pieprzu	0.25
-638	sól	73	szczypta soli	0.25
-639	sok z cytryny	73	łyżka soku z cytryny	10
-640	mąka kukurydziana	73	łyżka mąki kukurydzianej	10
-641	białko jajka	73	1/2 białka jajek	17.5
-642	cebula dymka	73	1/2 cebuli dymki	10
-643	filet z mintaja	73	125g filetu z mintaja	125
-644	mieszanka chińska	73	200g mieszanki chińskiej	200
-645	jajko	74	jajko	55
-646	masło	74	5g masła	5
-647	papryka słodka	74	0.5 łyżeczki	3
-648	gęsta śmietana	74	łyżeczka gęstej śmietany	5
-649	szczypiorek	74	10g szczypiorku	10
-650	sól morska	74	szczypta soli morskiej	0.25
-651	jajko	75	3 jajka	165
-652	mleko	75	25ml mleka	25
-653	oliwa	75	łyżka oliwy	10
-654	pomidor suszony	75	50g suszonych pomidorów	50
-655	rukola	75	50g rukoli	50
-656	pieprz	75	szczypta pieprzu	0.25
-657	sól	75	szczypta soli	0.25
-658	ryż jaśminowy	76	50g ryżu jasminowego	50
-659	napój kokosowy	76	80ml napoju kokosowego	80
-660	mango	76	1/2 mango	150
-661	banan	76	1/2 banana	70
-662	limonka	76	limonka	100
-663	rodzynki	76	20g rodzynek	20
-664	cynamon	76	łyżeczka cynamonu	6
-665	orzech ziemny	76	20g orzechów ziemnych	20
-666	syrop klonowy	76	2 łyżki syropu klonowego	20
-667	chleb	77	2 kromki chleba	70
-668	ciecierzyca	77	100g ciecierzycy	100
-669	kmin rzymski	77	łyżeczka kminu rzymskiego	6
-670	majeranek	77	łyżeczka majeranku	6
-671	goździki	77	goździk	1
-672	jabłko	77	jabłko	175
-673	cebula	77	50g cebuli	50
-674	czosnek	77	ząbek czosnku	7
-675	oliwa	77	łyżka oliwy	10
-676	syrop klonowy	77	łyżeczka syropu klonowego	6
-677	sos sojowy	77	łyżeczka sosu sojowego	6
-678	mleko	78	75ml mleka	75
-679	mąka pszenna	78	1/2 szklanki mąki pszennej	125
-680	jajko	78	jajko	55
-681	masło	78	25g roztopionego masła	25
-682	proszek do pieczenia	78	łyżeczka proszku do pieczenia	6
-683	cukier	78	łyżka cukru	10
-684	syrop klonowy	78	35ml syropu klonowego	35
-685	cynamon	78	1/4 łyżeczki cynamonu	1.25
-686	olej	78	20ml oleju	20
-687	masło	78	25g masła do smażenia	25
-688	tofu	79	1 tofu	25
-689	olej	79	2 łyżeczki oleju	12
-690	pomidor koktajlowy	79	8 pomidorów koktajlowych	80
-691	szpinak	79	30g szpinaku	30
-692	woda	79	30ml wody	30
-693	bazylia	79	1 łyżczeka bazylii	6
-694	przyprawa włoska	79	1 łyżeczka przyprawy włoskiej	6
-695	kurkuma	79	1/2 łyżeczki kurkumy	3
-696	kasza jaglana	80	1/4 szklanki kaszy jaglanej	65
-697	napój sojowy	80	szklanka napoju sojowego	250
-698	miód	80	łyżka miodu	25
-699	truskawka	80	5 truskawek	55
-700	orzech włoski	80	1/4 łyżeczki cynamonu	1.25
-701	cynamon	80	15g orzechów włoskich	15
-702	mąka orkiszowa	81	25g mąki orkiszowej	25
-703	płatki owsiane	81	20g płatków owsianych	20
-704	ziarna słonecznika	81	14g ziaren słonecznika	14
-705	pestki dyni	81	14g pestek dyni	14
-706	ziarna sezamu	81	10g ziaren sezamu	10
-707	oliwa	81	łyżeczka oliwy	6
-708	cebula dymka	82	cebula dymka	20
-709	papryka żółta	82	1/2 żółtej papryki	100
-710	pomidor	82	75g pomidorów	75
-711	oliwa	82	łyżeczka oliwy	6
-712	fasola czerwona	82	1/2 czerwonej fasoli z puszki	120
-713	jajko	82	2 jajka	110
-714	masło	82	łyżeczka masła	6
-715	chleb tostowy	83	2 kromki chleba tostowego	50
-716	sos paprykowo-ziołowy	83	1/2 opakowania sosu paprykowo-ziołowego	4
-717	oliwa z oliwek	83	3 łyżeczki oliwy z oliwek	18
-718	woda	83	15ml wody	15
-719	pomidor	83	pomidor	180
-720	cebula czerwona	83	1/2 czerwonej cebuli	45
-721	kolendra	83	1/4 pęczka kolendry	10
-722	limonka	83	1/2 limonki	50
-723	chleb tostowy	84	2 kromki chleba tostowego	50
-724	majonez	84	łyżeczka majonezu	6
-725	jajko	84	jajko na twardo	60
-726	papryka czerwona	84	35g papryki czerwonej	35
-727	szczypiorek	84	łyżeczka posiekanego szczypiorku	6
-728	ciecierzyca	85	200g ciecierzycy	200
-729	oliwa	85	łyżeczka oliwy	6
-730	papryka ostra	85	1/4 łyżeczki ostrej papryki	1.25
-731	kmin rzymski	85	1/4 łyżeczki kminu rzymskiego	1.25
-732	cynamon	85	1/4 łyżeczki cynamonu	1.25
-733	chleb tostowy	86	2 kromki chleba tostowego 	50
-734	sos włoski	86	łyżeczka sosu włoskiego	6
-735	pierś z kurczaka	86	pierś z kurczaka z rosołu	150
-736	szpinak	86	garść szpinaku	25
-737	cebula	86	cebula	100
-738	szczypiorek	86	łyżka szczypiorku	10
-739	oliwa z oliwek	86	4 łyżki oliwy z oliwek	40
-740	ciabatta	87	ciabatta	80
-741	oliwa z oliwek	87	łyżka oliwy z oliwek	10
-742	majonez 	87	łyżka majonezu	10
-743	łosoś	87	60g łososia wędzonego	60
-744	awokado	87	awokado	150
-745	jajko	87	jajko	55
-746	cytryna	87	1/2 cytryny	50
-747	chili	87	1/2 papryczki chilli	6
-748	kiełki rzodkiewki	87	łyżka kiełków rzodkiewki	8
-749	ziarna czarnuszki	87	1/4 łyżeczki zieren czarnuszki	3
-750	chleb tostowy	88	4 kromki chleba tostowego	100
-751	ser zółty	88	25g sera żółtego	25
-752	majonez 	88	łyżka majonezu	10
-753	szynka	88	50g szynki	50
-754	ziemniak	89	50g ziemniaków	50
-755	cebula	89	1/4 cebuli	23
-756	olej	89	łyżeczka oleju	6
-757	śmietana	89	łyżka śmietany	10
-758	sól	89	łyżeczka soli	6
-759	jajko	89	jajko	55
-760	boczek	89	25g boczku	25
-761	masło	89	łyżeczka masła	6
-762	koper	89	łyżeczka koperku	6
-763	chleb tostowy	89	kromka chleba tostowego	25
-764	pieprz biały	89	szczypta białego pieprzu	1.25
-765	krewetka	89	125g krewetek	125
-766	cebula	90	1/4 cebuli	23
-767	olej	90	łyżeczka oleju	6
-768	pieczarka	90	2 pieczarki	40
-769	sól	90	szczypta soli	1.25
-770	sos sojowy	90	łyżeczka sosu sojowego	6
-771	jajko	90	jajko	55
-772	chili	90	1/4 papryczki chilli	3
-773	kiełki fasoli	90	łyżka kiełków fasoli	15
-774	krewetka	90	60g krewetek	60
-775	cebula	91	cebula	100
-776	pieprz	91	szczypta pieprzu	1.25
-777	pieczarka	91	3 pieczarki	60
-778	sól	91	szczypta soli	1.25
-779	jajko	91	2 jajka	110
-780	masło	91	łyżka masła	10
-781	szczypiorek	91	łyżeczka szczypiorku	6
-782	natka pietruszki	91	5g natki pietruszki	5
-783	oliwa	91	łyżka oliwy	10
-784	sos rybny	91	łyżka sosu rybnego	10
-785	chleb	91	2 kromki chleba	70
-786	krewetka	91	60g krewetek	60
-787	śmietana	92	łyżka śmietany	10
-788	sól	92	szczypta soli	1.25
-789	masło	92	łyżka masła	10
-790	pieprz biały	92	szczypta białego pieprzu	1.25
-791	jajko	92	jajko	55
-792	szparag	92	150g szparagów	150
-793	krewetka	92	50g krewetek	50
-794	cebula	93	cebula	90
-795	olej	93	łyżeczka oleju roślinnego	6
-796	jajko	93	jajko	55
-797	sól	93	szczypta soli	1.25
-798	natka pietruszki	93	natka pietruszki	2
-799	masło	93	łyżka masła	10
-800	pieprz	93	szczypta pieprzu	1.25
-801	słonina	93	20g słoniny	20
-802	filet rybny	93	150g filetu rybnego	150
-803	kapara	93	łyżeczka siekanej kapary	6
-804	pomidor	94	pomidor	180
-805	pieprz	94	ziarno pieprzu	2
-806	olej roślinny	94	łyżka oleju roślinnego	10
-807	jajko	94	2 jajka	110
-808	kolendra	94	garść kolendry	25
-809	czosnek	94	ząbek czosnku	7
-810	kurkuma	94	1/2 łyżeczki kurkumy	6
-811	wieprzowina	94	50g mielonej wieprzowiny	50
-812	sos rybny	94	łyżka sosu rybnego	10
-813	cebula	94	cebula	100
-814	pieprz	95	szczypta pieprzu	1.25
-815	sól	95	szczypta soli	1.25
-816	mleko	95	łyżka mleka	10
-817	jajko	95	2 jajka	110
-818	masło	95	15g masła	15
-819	bazylia	95	garść bazylii	3
-820	szynka	95	30g szynki	30
-821	cebula	96	cebula	90
-822	olej	96	20ml oleju	20
-823	pomidor	96	pomidor	180
-824	kminek	96	kminek	1
-825	jajko	96	jajko	55
-826	sól	96	szczypta soli	1.25
-827	chili	96	papryczka chilli	12
-828	wołowina	96	30g suszonej wołowiny	30
-829	cebula	97	cebula	100
-830	boczek	97	75g wędzonego boczku	75
-831	pieprz	97	szczypta pieprzu	1.25
-832	sól	97	szczypta soli	1.25
-833	gałka muszkatołowa	97	łyżeczka gałki muszkatołowej	6
-834	jajko	97	2 jajka	110
-835	oliwa	97	łyżka oliwy	10
-836	białe wino	97	łyżka białego wina	10
-837	kapusta	97	szklanka poszatkowanej kapusty	100
-838	jajko	98	3 jajka	165
-839	boczek	98	100g boczku wędzonego	100
-840	papryka czerwona	98	papryka czerwona	250
-841	masło	98	łyżeczka masła	6
-842	szynka konserwowa	98	plaster szynki konserwowej	12
-843	cebula	98	cebula	100
-844	ser żółty	98	2 plasterki sera żółtego	60
-845	chleb	98	2 kromki chleba	70
-846	rukola	98	garść rukoli	20
-847	kiełbasa	99	100g kiełbasy	100
-848	pomidor	99	pomidor	180
-849	jajko	99	jajko	55
-850	woda	99	łyżka wody	10
-851	ser zółty	99	plaster sera	30
-852	razowy chleb	100	kromka chleba razowego	35
-853	jajko	100	2 jajka	110
-854	mleko	100	łyżka mleka	10
-855	oscypek	100	1/4 oscypka	8
-856	lubczyk	100	1/2 łyżeczki lubczyka	3
-857	słonina	100	15g słoniny	15
-858	szczypiorek	100	pęczek szczypiorku	20
-859	pieprz	100	szczypta pieprzu	1.25
-860	jajko	101	2 jajka	110
-861	cebula	101	cebula	100
-862	cienka kiełbasa	101	1/2 cienkiej kiełbasy	40
-863	ser camembert	101	1/2 sera camembert	13
-864	mleko	101	2 łyżki mleka	20
-865	masło	101	łyżka masła	10
-866	brokuł	102	130g brokuła	130
-867	cukinia	102	250g cukinii	250
-868	marchew	102	marchew	50
-869	natka kolendry	102	7g świeżej natki kolendry	7
-870	liście szpinaku	102	75g liści szpinaku	75
-871	czosnek	102	ząbek czosnku	7
-872	olej sezamowy	102	łyżka oleju sezamowego	10
-873	świeży imbir	102	3g świeżego imbiru	3
-874	chili	102	strąk ostrej papryki chilli	9
-875	ciabatta	103	ciabatta	90
-876	ketchup	103	25ml ketchupu	25
-877	papryka czerwona	103	70g papryki czerwonej	70
-878	pieczarka portobello	103	pieczarka portobello	120
-879	pomidor	103	45g pomidora	45
-880	cebula czerwona	103	25g cebuli czerwonej	25
-881	sałata rucola	103	25g sałaty rucoli	25
-882	ser mozzarella	103	65g sera mozzarella	65
-883	jabłko	104	100g jabłka	100
-884	cynamon	104	1/2 łyżeczki cynamonu	3
-885	cukier trzcinowy	104	łyżeczka cukru trzcinowego	6
-886	orzech włoski	104	łyżeczka posiekanych orzechów włoskich	6
-887	rodzynki	104	10g rodzynek	10
-888	sok z cytryny	104	łyżeczka soku z cytryny	6
-889	masło	104	łyżeczka masła	6
-890	mąka	104	50g mąki	50
-891	mleko	104	50ml mleka	50
-892	jajko	104	jajko	55
-893	woda gazowana	104	15ml wody gazowanej	15
-894	olej	104	łyżeczka oleju	6
-895	cukinia	105	300g cukinii	300
-896	olej	105	łyżka oleju	10
-897	pieprz	105	szczypta pieprzu	0.25
-898	sól	105	szczypta soli	0.25
-899	czosnek	105	ząbek czosnku	7
-900	papryka czerwona	105	70g papryki czerwonej	70
-901	koper	105	łyżeczka posiekanego koperku	6
-902	makaron	105	100g makaronu	100
-903	cebula dymka	105	cebula dymka	20
-904	marchew	106	20g marchwi	20
-905	pierś z kurczaka	106	50g piersi z kurczaka	50
-906	sałata lodowa	106	50g sałaty lodowej	50
-907	pomidor	106	mały pomidor	100
-908	ogórek	106	50g ogórka	50
-909	ketchup	106	łyżka ketchupu	10
-910	majonez	106	łyżka majonezu	10
-911	tortilla	106	placek tortilli	60
-912	krewetka	107	300 g krewetek	300
-913	imbir	107	2 łyżeczki startego imbiru	10
-914	czosnek	107	2 ząbki czosnku	10
-915	olej	107	1 łyżka oleju roślinnego	10
-916	mango	107	1 mango	280
-917	szczypiorek	107	szczypiorek	20
-918	chili	107	1 łyżeczka posiekanej papryczki chili	5
-919	kolendra	107	kolendra	15
-920	łosoś wędzony	108	125 g łososia wędzonego (na gorąco)	125
-921	ogórek gruntowy	108	2 ogórki gruntowe	100
-922	sok z cytryny	108	2 łyżeczki soku z cytryny	12
-923	koper	108	1 łyżka posiekanego koperku	10
-924	serek śmietankowy	108	125 g kremowego serka Philadelphia lub Twój Smak	125
-925	pieprz	108	świeżo zmielony czarny pieprz	2
-926	sól	108	sól	2
-927	chleb	108	2 kromki chleba	70
-928	cukinia	109	1/2 cukinii	270
-929	batat	109	1 średni batat	300
-930	papryka	109	1 czerwona papryka	200
-931	cebula	109	1 czerwona cebula	110
-932	czosnek	109	2 ząbki czosnku	10
-933	rozmaryn	109	2 gałązki świeżego rozmarynu	16
-934	oliwa	109	4 łyżki oliwy extra	40
-935	szpinak	109	garść szpinaku	25
-936	kasza orkiszowa	109	100 g kaszy orkiszowej	100
-937	ser feta	109	ser feta	125
-938	boczek wędzony	110	4 plasterki cieniutkiego boczku wędzonego (np. paczkowany)	50
-939	oliwa	110	1 łyżka oliwy	10
-940	jajko	110	2 jajka	110
-941	bagietka	110	bagietka	140
-942	pomidor	110	1 pomidor	170
-943	cebula	110	kawałek cebuli	55
-944	chili	110	kawałek papryczki chili	10
-945	kolendra	110	kilkanaście listków świeżej kolendry	15
-946	limonka	110	łyżeczka soku z limonki	6
-947	fasola szparagowa	111	500 g fasolki szparagowej	500
-948	pomidor	111	3 pomidory	510
-949	czosnek	111	2 ząbki czosnku	10
-950	oliwa	111	3 łyżki oliwy extra	30
-951	suszone oregano	111	1 łyżeczka suszonego oregano	4
-952	bazylia	111	świeża bazylia	20
-953	ser feta	111	125 g sera feta	125
-954	czarna oliwka	111	czarne oliwki	50
-955	bagietka	111	bagietka	140
-956	makaron Rigatoni	112	120 g makaronu (np. większego jak Rigatoni, Peccheri)	120
-957	pomidor	112	300 g pomidorów	300
-958	czosnek	112	1 ząbek czosnku	5
-959	bazylia	112	ok. pół szklanki listków bazylii	22
-960	mozzarella	112	pół kulki białej mozzarelli (np. burrata lub zwykła)	65
-961	sól morska	112	1/3 łyżeczki soli morskiej	25
-962	pieprz	112	świeżo zmielony pieprz	2
-963	oliwa	112	2 łyżki oliwy extra vergine	20
-964	krewetka	113	180 g krewetek	180
-965	chorizo	113	75 g chorizo	75
-966	bulion drobiowy	113	380 ml bulionu drobiowego	380
-967	cebula	113	pół małej cebuli	40
-968	papryka	113	150 g papryki (np. różnokolorowej)	150
-969	seler	113	1.5 łodygi selera naciowego	70
-970	czosnek	113	2 ząbki czosnku	10
-971	masło	113	2 łyżki masła	20
-972	mąka pszenna	113	1,5 łyżki mąki pszennej	15
-973	suszone oregano	113	1/2 łyżeczka suszonego oregano	3
-974	tymianek	113	1/2 łyżeczki tymianku	2
-975	sól	113	1/2 łyżeczki soli	3
-976	papryka wędzona	113	1/2 łyżeczki wędzonej papryki	3
-977	granulowany czosnek	113	1/2 łyżeczki granulowanego czosnku	3
-978	papryka ostra	113	1/4 łyżeczki ostrej papryki lub pieprzu cayenne	1
-979	pieprz	113	szczypta mielonego pieprzu	2
-980	pieprz biały	113	szczypta białego pieprzu	2
-981	sos Worcestershire	113	2 łyżki sosu Worcestershire	20
-982	sok z cytryny	113	1 łyżka soku z cytryny	10
-983	szczypiorek	113	posiekany szczypiorek	20
-984	pietruszka	113	natka pietruszki	20
-985	ryż	113	100 g ryżu	100
-986	cebula czerwona	114	pół czerwonej cebuli	60
-987	batat	114	pół małego batatu (150 g)	150
-988	papryka czerwona	114	pół czerwonej papryki	100
-989	czosnek	114	2 ząbki czosnku	10
-990	korzeń imbiru	114	1 cm korzenia imbiru	8
-991	olej	114	1 łyżka oleju (np. kokosowego)	10
-992	kurkuma	114	1/2 łyżeczki kurkumy	3
-993	papryka słodka	114	1/2 łyżeczki słodkiej papryki	3
-994	kmin rzymski	114	1/2 łyżeczki kminu rzymskiego	3
-995	przyprawa curry	114	1/2 łyżeczki przyprawy curry	3
-996	chili	114	mała szczypta chili	1
-997	soczewica	114	150 g czerwonej soczewicy	150
-998	bulion jarzynowy	114	380 ml bulionu jarzynowego	380
-999	mleko kokosowe	114	60 ml mleka kokosowego (lub śmietanki 18% do zup i sosów)	60
-1000	ryż	114	100 g ryżu	100
-1001	kolendra	114	pół świeżej kolendry	10
-1002	kasza jęczmienna pęczak	115	1/2 szklanki kaszy jęczmiennej pęczak	90
-1003	jarmuż	115	2 szklanki ciętych liści jarmużu	90
-1004	olej	115	2 łyżki oleju	20
-1005	batat	115	300 g batatów	300
-1006	papryka	115	1 papryka	200
-1007	cebula	115	1 czerwona cebula	110
-1008	czosnek	115	2 ząbki czosnku	10
-1009	chili	115	1/2 papryczki chili	6
-1010	feta	115	80 g sera feta	80
-1011	oliwa	115	2 łyżki oliwy extra	20
-1012	kurkuma	115	1 łyżeczka kurkumy	6
-1013	papryka słodka	115	1 łyżeczka słodkiej papryki	6
-1014	kmin rzymski	115	1 łyżeczka kminu rzymskiego	6
-1015	suszone grzyby	116	10 g suszonych grzybów	10
-1016	boczek	116	50 g boczku	50
-1017	mięso gulaszowe wieprzowe	116	100 g mięsa gulaszowego wieprzowego	100
-1018	mięso gulaszowe wołowe	116	100 g mięsa gulaszowego wołowego	100
-1019	olej	116	1 łyżka oleju	10
-1020	bulion wołowy	116	szklanka bulionu wołowego	250
-1021	kapusta biała	116	250 g świeżej białej kapusty	250
-1022	kiszona kapusta	116	125 g kiszonej kapusty (waga po odciśnięciu)	125
-1023	suszona śliwka	116	25 g suszonych śliwek	25
-1024	cebula	116	pół cebuli	60
-1025	chorizo	116	70 g kiełbasy chorizo	70
-1026	koncentrat pomidorowy	116	1/2 łyżki koncentratu pomidorowego	5
-1027	liść laurowy	116	1 liść laurowy	6
-1028	ziele angielskie	116	kulki ziela angielskiego	5
-1029	jałowiec	116	2 kulki jałowca	4
-1030	kminek	116	1/2 łyżeczki kminku	3
-1031	papryka ostra	116	mała szczypta ostrej papryki	2
-1032	batat	117	1 batat	300
-1033	jogurt naturalny	117	100 g jogurtu naturalnego	100
-1034	jajko	117	2 jajka	110
-1035	olej kokosowy	117	2 łyżki oleju kokosowego	20
-1036	cukier	117	2 łyżki cukru	25
-1037	cukier wanilinowy	117	1 łyżka cukru wanilinowego	10
-1038	cynamon	117	1/2 łyżeczki cynamonu	3
-1039	gałka muszkatołowa	117	szczypta gałki muszkatołowej	2
-1040	skórka z pomarańczy	117	1 łyżeczka startej skórki z pomarańczy	6
-1041	mąka pszenna	117	200 g (1 i 1/3 szkl.) mąki pszennej	200
-1042	proszek do pieczenia	117	2 łyżeczki proszku do pieczenia	12
-1043	sól	117	mała szczypta soli	2
-1044	syrop klonowy	117	syrop klonowy	20
-1045	banan	117	banan	50
-1046	orzech pekan	117	orzechy pekan	20
-1047	filet z kurczaka	118	200 g filetu z kurczaka	200
-1048	sól	118	sól	3
-1049	pieprz	118	pieprz	3
-1050	masło	118	2 łyżki masła	20
-1051	rukola	118	2 garście rukoli	50
-1052	sałata	118	kilka liści sałaty	25
-1053	winogrono	118	250 g winogron	250
-1054	ser brie	118	100 g sera brie	100
-1055	orzech włoski	118	60 g orzechów włoskich	60
-1056	oliwa	118	3 łyżki oliwy	30
-1057	miód	118	3 łyżki miodu	30
-1058	sok z cytryny	118	1 łyżka soku z cytryny	10
-1059	ciabatta	119	ciabatta	80
-1060	masło	119	masło	20
-1061	rukola	119	garść rukoli	20
-1062	szynka parmeńska	119	2 plasterki szynki parmeńskiej	30
-1063	pomidor	119	pomidor	170
-1064	ser brie	119	50 g sera brie	50
-1065	roszponka	119	roszponka do podania	20
-1066	krewetka	120	10 dużych krewetek	220
-1067	olej	120	1 łyżka oleju	10
-1068	sok z limonki	120	1 łyżka soku z limonki	10
-1069	chili	120	szczypta płatków chili	2
-1070	mango	120	1/2 mango	140
-1071	cebula czerwona	120	1/4 małej czerwonej cebuli	28
-1072	ciabatta	120	ciabatta	80
-1073	słodki sos chilli	120	1 łyżka słodkiego sosu chili	10
-1074	majonez	120	1 łyżka majonezu	10
-1075	rukola	120	garść rukoli	25
-1076	kolendra	120	świeża kolendra	15
-1077	sałata	121	sałata z rukolą	300
-1078	cebula czerwona	121	1/4 małej czerwonej cebuli	28
-1079	winogrono	121	250 g winogron jasnych i ciemnych	250
-1080	mozarella	121	125 g mozzarelli (najlepiej mini)	125
-1081	zagęszczony sos balsamiczny	121	4 łyżeczki zagęszczonego sosu balsamicznego	24
-1082	nasiona słonecznika	121	4 łyżki nasion słonecznika	40
-1083	oliwa	121	2 łyżki oliwy z pierwszego tłoczenia	20
-1084	sok z cytryny	121	2 łyżeczki soku z cytryny	12
-1085	miód	121	2 łyżeczki miodu	12
-1086	pieprz	121	szczypta pieprzu	2
-1087	oliwa	122	1 łyżka oliwy	10
-1088	cebula	122	1 mała cebula	70
-1089	czosnek	122	2 ząbki czosnku	10
-1090	chorizo	122	100 g kiełbasy chorizo	100
-1091	batat	122	1 mały batat (350 g)	350
-1092	cukinia	122	250 g cukinii (1 mała)	250
-1093	suszone oregano	122	1 łyżeczka suszonego oregano	4
-1094	papryka słodka	122	1 łyżeczka słodkiej papryki	6
-1095	papryka ostra	122	1 łyżeczka ostrej papryki	6
-1096	kmin rzymski	122	1 łyżeczka kminu rzymskiego	6
-1097	bulion drobiowy	122	2/3 szklanki bulionu	170
-1098	papryka czerwona	122	1/2 czerwonej papryki	100
-1099	papryka żółta	122	1/2 żółtej papryki	100
-1100	pomidor z puszki	122	puszka pomidorów	200
-1101	koncentrat pomidorowy	122	2 łyżeczki koncentratu pomidorowego	20
-1102	bagietka	122	bagietka do podania	140
-1103	kolendra	122	kolendra	20
-1104	cukinia	123	1 cukinia (ok. 250 g)	250
-1105	oliwa	123	oliwa	40
-1106	sól	123	sól	3
-1107	pieprz	123	pieprz	2
-1108	czosnek	123	1 ząbek czosnku	5
-1109	suszone oregano	123	1 łyżeczka suszonego oregano	6
-1110	mix sałat z rukolą	123	mix sałat z rukolą	200
-1111	pomidor	123	2 pomidory	340
-1112	cebula	123	1/4 cebuli	27
-1113	ser feta	123	100 g sera feta	100
-1114	oliwa	123	4 łyżki oliwy z pierwszego tłoczenia	40
-1115	sok z cytryny	123	1 łyżka soku z cytryny	10
-1116	cukinia	124	2 małe cukinie	600
-1117	czosnek	124	1 ząbek czosnku	5
-1118	suszone oregano	124	1 łyżeczka suszonego oregano	6
-1119	pomidor	124	1 pomidor	170
-1120	cebula	124	1/4 cebuli	27
-1121	ser feta	124	100 g sera feta	100
-1122	jajko	124	2 jajka	110
-1123	sól	124	sól	3
-1124	pieprz	124	pieprz	2
-1125	oliwa	124	oliwa	20
-1126	chili	124	płatki chili	3
-1127	rukola	124	listki rukoli do dekoracji	20
-1128	batat	125	300 g batatów	300
-1129	cukinia	125	300 g cukinii	300
-1130	cebula	125	1 cebula (np. młoda)	80
-1131	czosnek	125	2 ząbki czosnku	10
-1132	oliwa	125	2 łyżki oliwy extra	10
-1133	sól	125	sól	3
-1134	pieprz	125	pieprz	2
-1135	papryka ostra	125	ostra papryka lub pieprz cayenne	2
-1136	oregano	125	oregano	6
-1137	pomidor	125	1 większy pomidor	200
-1138	mozarella	125	125 g mini mozzarelli (kuleczki)	125
-1139	olej	126	1 łyżka oleju roślinnego	10
-1140	cebula	126	pół cebuli	60
-1141	boczek parzony	126	70 g parzonego boczku	70
-1142	kiełbasa wiejska	126	200 g kiełbasy	200
-1143	bulion	126	250 ml bulionu	250
-1144	ziemniak	126	1,5 ziemniaka	140
-1145	majeranek	126	1 łyżeczka majeranku	6
-1146	papryka słodka	126	1/2 łyżeczki słodkiej papryki	3
-1147	pieprz cayenne	126	1/2 łyżeczki pieprzu cayenne	3
-1148	papryka czerwona	126	pół czerwonej papryki	100
-1149	cukinia	126	pół cukinii (ok. 150 g)	150
-1150	passata	126	1/3 szklanki passaty	80
-1151	boczek wędzony	127	125 g boczku wędzonego	125
-1152	sałata	127	8 liści sałaty	280
-1153	pomidor	127	2 pomidory	340
-1154	cebula	127	ćwiartka cebuli	27
-1155	mozarella	127	125 g mozzarelli (np. mini w kulkach)	125
-1156	sok z cytryny	127	2 łyżki soku z cytryny	20
-1157	miód	127	2 łyżki miodu	20
-1158	musztarda	127	1 łyżka musztardy (np. delikatesowej)	10
-1159	olej	127	2 łyżki oleju roślinnego	20
-1160	boczek parzony	128	ok. 125 g boczku parzonego	125
-1161	sałata	128	6 - 8 liści sałaty	260
-1162	pomidor koktajlowy	128	250 g pomidorków koktajlowych (lub 2 pomidory)	250
-1163	cebula	128	ćwiartka cebuli (np. młodej)	27
-1164	oliwa	128	oliwa extra vergine	20
-1165	chorizo	129	100 g kiełbasy chorizo* (np. pikantnej)	100
-1166	oliwa	129	1/2 łyżki oliwy	5
-1167	cebula	129	pół cebuli	60
-1168	czosnek	129	1 ząbek czosnku	5
-1169	papryka	129	1/2 papryki	100
-1170	cukinia	129	1/2 cukinii	150
-1171	bulion	129	1/3 szklanki bulionu	80
-1172	ciecierzyca	129	pół puszki ciecierzycy	200
-1173	oregano	129	1/2 łyżeczki oregano	3
-1174	passata	129	125 ml passaty	125
-1175	ziemniak	130	1 duży ziemniak	160
-1176	batat	130	1 średni batat (słodki ziemniak)	300
-1177	papryka czerwona	130	1 papryka czerwona	200
-1178	papryka zielona	130	1 papryka zielona 	200
-1179	papryka żółta	130	1 papryka zółta	200
-1180	cebula	130	1 większa czerwona cebula	150
-1181	czosnek	130	4 ząbki czosnku	20
-1182	oliwa	130	4 łyżki oliwy extra	40
-1183	pieprz	130	zmielony czarny pieprz z młynka	2
-1184	ser feta	130	ser feta	125
-1185	oliwa	131	1 łyżka oliwy	10
-1186	cebula	131	pół cebuli	60
-1187	boczek parzony	131	70 g parzonego boczku	70
-1188	kiełbasa wiejska	131	150 g kiełbasy (np. wiejskiej)	150
-1189	bulion	131	250 ml bulionu	250
-1190	ziemniak	131	2 ziemniaki	160
-1191	majeranek	131	1/2 łyżki majeranku	5
-1192	papryka	131	1/2 łyżeczki papryki	3
-1193	pieprz	131	mała szczypta zmielonego pieprzu	2
-1194	papryka czerwona	131	1/4 czerwonej papryki	50
-1195	passata	131	1/4 szklanki passaty	60
-1196	chleb	131	1 kromka chleba	40
-1197	chleb	132	kromka pieczywa	35
-1198	masło	132	masło	15
-1199	rukola	132	kilka listków rukoli	20
-1200	tuńczyk w oleju	132	ok. 1/4 puszki tuńczyka w oleju	40
-1201	jajko	132	1 jajko ugotowane na półtwardo	55
-1202	musztarda miodowa	132	musztarda miodowa	8
-1203	cebula	132	kilka cienko pokrojonych piórek cebuli	10
-1204	krewetka	133	ok. 375 g krewetek	375
-1205	olej	133	1 łyżka oleju roślinnego	10
-1206	cebula	133	1 mała cebulka	70
-1207	czosnek	133	2 ząbki czosnku	10
-1208	masło	133	2 łyżki masła	20
-1209	słodki sos chilli	133	2 łyżki słodkiego sosu chilli	20
-1210	sos worcestershire	133	2 łyżki sosu worcestershire	20
-1211	bulion	133	1/4 szklanki bulionu	30
-1212	sok z cytryny	133	2 łyżki soku z cytryny	20
-1213	cukier	133	1/2 łyżeczki cukru	3
-1214	suszone oregano	133	1 łyżeczka suszonego oregano	4
-1215	papryka słodka	133	2 łyżeczki papryki słodkiej	12
-1216	tymianek	133	1 łyżeczka tymianku	4
-1217	pietruszka	133	natka pietruszki	15
-1218	bagietka	133	bagietka	140
-1219	krewetka	134	250 g krewetek (obranych, oczyszczonych)	250
-1220	makaron risini	134	100 g makaronu risini/risoni (w kształcie ziarenek ryżu)	100
-1221	brokuł	134	200 g brokuła	200
-1222	masło	134	2 łyżki masła	20
-1223	oliwa	134	2 łyżki oliwy z pierwszego tłoczenia	20
-1224	czosnek	134	1 ząbek czosnku	10
-1225	sok z cytryny	134	1 łyżeczka soku z cytryny	6
-1226	pietruszka	134	1 łyżka posiekanej natki pietruszki	10
-1227	chili	134	szczypta płatków chili	2
-1228	ryż kleisty	135	1 szklanka ryżu kleistego (lub okrągłoziarnistego / do sushi)	115
-1229	woda	135	1 szklanka wody	250
-1230	mleko kokosowe	135	1 szklanka mleka kokosowego	250
-1231	cukier	135	3 łyżki cukru	30
-1232	sól	135	mała szczypta soli	2
-1233	skrobia ziemniaczana	135	1 łyżeczka skrobi ziemniaczanej	6
-1234	mango	135	2 dojrzałe owoce mango	560
-1235	limonka	135	1/4 limonki	25
-1236	sezam	135	2 łyżki lekko podprażonego sezamu	20
-1237	mięta	135	listki mięty do dekoracji	20
-1238	batat	136	250 g batatów	250
-1239	mielona kolendra	136	1 łyżeczka mielonej kolendry	6
-1240	kmin rzymski	136	1 łyżeczka kminu rzymskiego	6
-1241	papryka ostra	136	1 łyżeczka ostrej papryki	6
-1242	oliwa	136	2 łyżki oliwy z pierwszego tłoczenia	20
-1244	kolendra	136	"pół ""doniczki"" kolendry"	50
-1245	oliwa z pierwszego tłoczenia	136	2 łyżki oliwy z pierwszego tłoczenia	20
-1246	czosnek	136	1/2 ząbka czosnku	3
-1247	sok z cytryny	136	pół łyżki soku z cytryny	5
-1248	hummus	136	ok. 150 g hummusu do podania	150
-1249	krewetka	137	500 g krewetek (obranych, oczyszczonych)	500
-1250	masło	137	60 g masła	60
-1251	czosnek	137	3 ząbki czosnku	15
-1252	sok z cytryny	137	1 łyżka soku z cytryny	10
-1253	chili	137	szczypta płatków chili (opcjonalnie)	2
-1254	pietruszka	137	1 łyżka posiekanej natki pietruszki	6
-1255	ziemniak	138	1 ziemniak	90
-1256	marchew	138	1 marchewka	60
-1257	pietruszka	138	1 pietruszka	80
-1258	batat	138	1 batat	300
-1259	burak	138	1 buraczek	105
-1260	cukinia	138	1 cukinia	300
-1261	oliwa	138	2 łyżki oliwy extra vergine	20
-1262	sól	138	sól	3
-1263	pieprz	138	pieprz	2
-1264	suszone oregano	138	1 łyżeczka suszonego oregano	4
-1265	przyprawa gyros	138	2 łyżeczki mieszanki przypraw np. gyros	12
-1266	jogurt grecki	138	1 łyżka śmietany	40
-1267	majonez	138	1 łyżka majonezu	40
-1268	musztarda miodowa	138	2 łyżeczki musztardy miodowej	12
-1269	przyprawa gyros	138	1/2 łyżeczki przyprawy np. gyros	3
-1270	jajko	139	2 jajka	110
-1271	chleb razowy	139	4 kromki pieczywa razowego	140
-1272	masło	139	masło	40
-1273	awokado	139	1 dojrzałe awokado	120
-1274	majonez	139	2 łyżeczki majonezu	30
-1275	rzeżucha	139	rzeżucha	40
-1276	sól	139	sól	3
-1277	pieprz	139	pieprz	2
-1278	cukinia	140	2 cukinie (o wadze ok. 300 g każda)	600
-1279	cebula	140	1 cebula	110
-1280	czosnek	140	2 ząbki czosnku	10
-1281	bułka tarta	140	4 łyżki bułki tartej	40
-1282	jajko	140	3 jajka	165
-1283	ser zółty	140	50 g tartego sera żółtego	50
-1284	parmezan	140	50 g tartego parmezanu	50
-1285	szczypiorek	140	1/2 pęczka szczypiorku	50
-1286	oliwa	140	1 łyżeczka oliwy extra vergine	10
-1287	sól	140	sól	3
-1288	pieprz	140	pieprz	2
-1289	gałka muszkatołowa	140	tarta gałka muszkatołowa	1
-1290	ryż	141	100 g ryżu (1 woreczek)	100
-1291	kukurydza	141	200 g kukurydzy	200
-1292	ananas	141	250 g ananasa	250
-1293	ogórek	141	100 g ogórka	100
-1294	sok z limonki	141	sok z 1/2 limonki	20
-1295	syrop klonowy	141	2 łyżki syropu klonowego	30
-1296	sól	141	szczypta soli	3
-1297	kolendra	141	1/2 szklanki listków kolendry	30
-1298	płatki owsiane	142	1 szklanka płatków owsianych błyskawicznych	100
-1299	jabłko	142	1 jabłko (obrane i pokrojone w kostkę)	180
-1300	jogurt naturalny	142	3 łyżki jogurtu naturalnego	60
-1301	jajko	142	2 jajka	110
-1302	miód	142	3 łyżki miodu	75
-1303	masło	142	1 łyżka masła	11
-1304	masło orzechowe	142	1 łyżka masła orzechowego	25
-1305	cynamon	142	1/2 łyżeczki cynamonu	3
-1306	soda oczyszczona	142	1/2 łyżeczki sody oczyszczonej	3
-1307	proszek do pieczenia	142	1/2 łyżeczki proszku do pieczenia	3
-1308	orzech włoski	142	garść orzechów włoskich	30
-1309	płatki owsiane	143	1 szklanka płatków owsianych (100 g)	100
-1310	mleko	143	1 i 3/4 szklanki mleka	410
-1311	kakao	143	2 łyżki gorzkiego (naturalnego) kakao	20
-1312	cukier trzcinowy	143	2 łyżki cukru trzcinowego	20
-1313	syrop klonowy	143	1 łyżka syropu klonowego	10
-1314	cynamon	143	szczypta cynamonu	2
-1315	masło orzechowe	143	2 łyżki masła orzechowego	50
-1316	czekolada gorzka	143	od 50 - 100 g czekolady gorzkiej lub lekko gorzkiej	75
-1317	malina	143	szklanka świeżych malin lub 1/2 szklanki mrożonych	120
-1318	płatki owsiane	144	1 szklanka płatków owsianych (100 g)	100
-1319	mleko	144	1 i 3/4 szklanki mleka	410
-1320	miód	144	2 łyżki miodu	50
-1321	rodzynki	144	2 łyżki rodzynek	30
-1322	cynamon	144	1/2 łyżeczki cynamonu	3
-1323	jabłko	144	1 jabłko	180
-1324	cukier kokosowy	144	1 łyżka cukru kokosowego	10
-1325	sok z cytryny	144	sok z cytryny	5
-1326	płatki owsiane	145	1 szklanka (110 g) płatków owsianych (górskich)	110
-1327	banan	145	1 banan	50
-1328	jajko	145	1 jajko	55
-1329	mleko	145	1/2 szklanki (125 ml) mleka	120
-1330	cukier wanilinowy	145	1 łyżka cukru wanilinowego	10
-1331	soda oczyszczona	145	1 łyżeczka sody oczyszczonej	6
-1332	masło orzechowe	145	1 łyżka masła orzechowego	25
-1333	syrop klonowy	145	2 łyżki miodu lub syropu klonowego	50
-1334	czekolada biała	145	50 g posiekanej białej czekolady	50
-1335	malina	145	pół szklanki malin	60
-1336	jagoda	145	pół szklanki jagód	60
-1337	nasiona chia	146	3 pełne łyżki nasion chia	24
-1338	mleko	146	250 ml mleka krowiego lub roślinnego*	230
-1339	cukier	146	2 łyżki cukru (lub do smaku)	20
-1340	mango	146	owoce: np. mango, maliny, borówki, truskawki	50
-1341	malina	146	50g malin	50
-1342	borówka	146	50g borówek	50
-1343	truskawka	146	50g truskawek	50
-1344	tortilla	147	2 tortille pszenne	130
-1345	jajko	147	5 jajek	275
-1346	awokado	147	2 awokado	240
-1347	sok z cytryny	147	2 łyżeczki soku z cytryny	6
-1348	czosnek	147	1/2 ząbka czosnku	3
-1349	majonez	147	1 łyżka majonezu	25
-1350	ser żółty	147	1/2 szklanki drobno startego sera żółtego (miękkiego)	40
-1351	oliwa	147	1 łyżeczka oliwy extra	5
-1352	rzeżucha	147	4 łyżki rzeżuchy	20
-1353	kasza jaglana	148	1/4 szklanki kaszy jaglanej	47
-1354	mleko	148	1 szklanka mleka	230
-1355	orzech pekan	148	garść orzechów pekan	30
-1356	syrop klonowy	148	2 łyżki syropu klonowego	50
-1357	masło	149	2 łyżki masła	50
-1358	jajko	149	3 jajka	165
-1359	mleko	149	1/2 szklanki mleka	115
-1360	mąka pszenna	149	1/2 szklanki mąki pszennej	104
-1361	cukier	149	1 łyżka cukru	10
-1362	cukier puder	149	cukier puder	10
-1363	truskawka	149	truskawki	80
-1364	bita śmietana	149	bita śmietana	30
-1365	kasza jaglana	150	1/2 szklanki kaszy jaglanej	95
-1366	mleko	150	2 szklanki mleka	460
-1367	malina	150	ok. 1/2 szklanki malin (świeżych lub mrożonych)	50
-1368	syrop malinowy	150	3 łyżki syropu/soku malinowego	30
+472	łosoś	56	1 płat z łososia ze skórą	240
+473	masło klarowane	57	1 łyżka masła klarowanego	10
+474	pieprz	58	łyżka pieprzu	10
+475	sól	59	łyżka soli	10
+476	śledź bałtycki	60	5 tuszek śledzi bałtyckich	400
+477	olej	61	3 łyżek oleju	30
+478	mąka pszenna	62	1,5 łyżki mąki pszennej	15
+479	sól	63	1/2 łyżeczki soli	3
+480	pieprz	64	1/2 łyżeczki pieprzu	3
+481	czosnek suszony	65	łyżeczka suszonego czosnku	6
+482	makaron ryżowy	66	makaron ryżowy	200
+483	krewetka	67	400 g krewetek	400
+484	czosnek	68	5 ząbków czosnku	25
+485	masło klarowane	69	3 łyżki masła klarowanego	30
+486	sezam	70	2 łyżki sezamu	20
+487	sos sojowy	71	1/4 szklanki sosu sojowego	62
+488	kolendra	72	garść świeżej kolendry	20
+489	imbir	73	łyżeczka imbiru	6
+490	pieprz cytrynowy	74	łyżeczka pieprzu cytrynowego	6
+491	chili	75	łyżeczka chili	6
+492	kalafior	76	230 kalafiora	230
+493	brokuł	77	130g brokuła	130
+494	marchew	78	25 marchewki	25
+495	fasola szparagowa	79	40g fasolki szparagowej	40
+496	cukinia	80	140 cukinii	140
+497	masło klarowane	81	50ml masła klarowanego	50
+498	cytryna	82	cytryna	25
+499	cukier	83	łyżeczka cukru	6
+500	pieprz biały	84	szczypta białego pieprzu	0.25
+501	cebula	85	cebula	100
+502	olej	86	łyżka oleju	10
+503	pieprz	87	szczypta pieprzu	0.25
+504	sól	88	szczypta soli	0.25
+505	koncentrat pomidorowy	89	2 łyżki koncentratu pomidorowego	50
+506	mrożone warzywa	90	200g mrożonych warzyw	200
+507	serce drobiowe	91	250g drobiowych serc	250
+508	mleko	92	70ml mleka	70
+509	jajko	93	jajko	55
+510	mąka	94	1/2 szklanki mąki	125
+511	woda gazowana	95	15ml wody gazowanej	15
+512	olej	96	łyżka oleju	10
+513	sól	97	szczypta soli	0.25
+514	wiśniówka	98	12ml wiśniówki	12
+515	rozmaryn	99	szczypta rozmarynu	1
+516	oscypek	100	50g oscypków	50
+517	żurawina	101	70g żurawiny	70
+518	bułka tarta	102	łyżka bułki tartej	10.0
+519	bakłażan	103	60g bakłażana	60
+520	ketchup	104	20ml ketchupu	20
+521	cebula	105	40g cebuli	40
+522	czosnek	106	ząbek czosnku	7
+523	olej	107	łyżka oleju	10
+524	kolendra	108	20g kolendry	20
+525	sos sojowy	109	łyżka sosu sojowego	10
+526	bagietka	110	kawałek bagietki	40
+527	papryka czerwona	111	50g papryki czerwonej	50
+528	papryka żółta	112	50g papryki żółta	50
+529	kasza jaglana	113	120g kaszy jaglanej	120
+530	pomidor koktajlowy	114	300g pomidorów koktajlowych	300
+531	papryka czerwona	115	papryka czerwona	250
+532	pestki słonecznika	116	4 łyżki pestek słonecznika	40
+533	cebula czerwona	117	cebula czerwona	90
+534	bazylia	118	garść bazylii	3
+535	pieprz	119	szczypta pieprzu	0.25
+536	sól	120	szczypta soli	0.25
+537	imbir	121	łyżeczka startego imbiru	6
+538	olej	122	łyżeczka oleju	6
+539	grzyby shiitake	123	50g grzybów shiitake	50
+540	cebula dymka	124	cebula dymka	20
+541	kapusta pekińska	125	190g kapusty pekińskiej	190
+542	papryka czerwona	126	70g papryki czerwonej	70
+543	czosnek	127	2 ząbki czosnku	14
+544	ziemniak	128	2 małe ziemniaki	120
+545	mąka	129	łyżka mąki	10
+546	proszek do pieczenia	130	łyżeczka proszku do pieczenia	6
+547	cukinia	131	120g cukinii	120
+548	papryka czerwona	132	70g papryki czerwonej	70
+549	papryka zielona	133	50g papryki zielonej	50
+550	bakłażan	134	70g bakłażana	70
+551	musztarda sarepska	135	łyżka musztardy sarepskiej	10
+552	pieprz ziołowy	136	szczypta pieprzy ziołowego	0.25
+553	cząber	137	szczypta cząbru	1
+554	jajko	138	jajko	55
+555	mąka pszenna	139	25g mąki pszennej	25
+556	mąka ziemniaczana	140	10g mąki ziemniaczanej	10
+557	woda gazowana	141	25ml wody gazowanej	50
+558	jajko	142	małe jajko	40
+559	sól	143	sczypta soli	0.2
+560	proszek do pieczenia	144	1/2 łyżeczki proszku do pieczenia	3
+561	krewetka	145	2 krewetki z ogonkami	30
+562	krążki z kalmara	146	2 krążki z kalmara	20
+563	ośmiornica	147	1 mała ośmiornica	50
+564	cebula	148	10g cebuli	10
+565	cukinia	149	15g cukinii	15
+566	papryka czerwona	150	40g papryki czerwonej	40
+567	sos sojowy	151	15ml sosu sojowego	15
+568	limonka	152	15g limonki	15
+569	chrzan	153	1g chrzanu	1
+570	olej	154	125ml oleju	125
+571	filet z piersi kurczaka	155	150g filetu z piersi kurczaka	150
+572	czosnek	156	ząbek czosnku	7
+573	przecier pomidorowy	157	70ml przecieru pomidorowego	70
+574	miód	158	łyżka miodu	25
+575	musztarda	159	łyżka musztardy	15
+576	sok z cytryny	160	łyżka soku z cytryny	10
+577	sos Tabasco	161	pół łyżeczki sosu Tabasco	3
+578	sól	162	sczypta soli	0.25
+579	oliwa	163	łyżeczka oliwy	6
+580	bułka	164	bułka (ok. 80g)	80
+581	olej	165	łyżeczka oleju	6
+582	pieprz	166	sczypta pieprzu	0.25
+583	jajko	167	jajko	55
+584	sól	168	szczypta soli	0.25
+585	kukurydza konserwowa	169	50g kukurydzy konserwowej	50
+586	filet z indyka	170	125g filetu z indyka	125
+587	marchew	171	marchew	50
+588	groch	172	20g groszku	20
+589	ser mascarpone	173	50g sera mascarpone	50
+590	cebula	174	20g cebuli	20
+591	cukinia	175	100g cukinii	100
+592	olej	176	łyżeczka oleju	6
+593	pieprz	177	sczypta pieprzu	0.25
+594	papryka czerwona	178	50g papryki czerwona	50
+595	pomidor	179	mały pomidory	100
+596	sól	180	szczypta soli	0.25
+597	papryka ostra	181	szczypta ostrej papryki	1
+598	mąka	182	łyżeczka mąki	6
+599	bulion	183	100ml bulionu	100
+600	koncentrat pomidorowy	184	łyżka koncentratu pomidorowego	10
+601	kuskus	185	30g kuskusu	30
+602	pierś z indyka	186	50g piersi z indyka	50
+603	fasola szparagowa	187	50g fasoli szparagowej	50
+604	cebula	188	25g cebuli	25
+605	pomidor	189	150g pomidorów	150
+606	marchew	190	25g marchewki	25
+607	pieprz	191	szczypta pieprzu	0.25
+608	sól	192	szczypta soli	0.25
+609	gałka muszkatołowa	193	szczypta gałki muszkatołowej	0.25
+610	czosnek	194	3 ząbki czosnku	21
+611	bazylia	195	kilka listków bazylii	2
+612	sok z cytryny	196	łyżka soku z cytryny	10
+613	czarna oliwka	197	25g czarnych oliwek	25
+614	filet z turbota	198	100g filetu z turbota	100
+615	cebula	199	25g cebuli	25
+616	olej	200	łyżeczka oleju	6
+617	pieprz	201	szczypta pieprzu	0.25
+618	pieczarka	202	60g pieczarek	60
+619	sól	203	szczypta soli	0.25
+620	seler	204	125g selera	125
+621	masło	205	5g masła	5
+622	papryka czerwona	206	90g papryki czerwonej	90
+623	ryż	207	60g ryżu	60
+624	szynka	208	40g szynki	40
+625	groszek konserwowy	209	50g groszku konserwowego	50
+626	bulion drobiowy	210	150ml bulionu drobiowego	150
+627	makrela	211	125g makreli	125
+628	cebula	212	50g cebuli	50
+629	pomidor	213	50g pomidorów	50
+630	pieczarka marynowana	214	25g pieczarek marynowanych	25
+631	sok z cytryny	215	łyżeczka soku z cytryny	6
+632	śmietana	216	łyżka śmietany	10
+633	tymianek	217	łyżeczka tymianku	6
+634	sól	218	szczypta soli	0.25
+635	pieprz	219	szczypta pieprzu	0.25
+636	olej	220	łyżeczka oleju	6
+637	pieprz	221	szczypta pieprzu	0.25
+638	sól	222	szczypta soli	0.25
+639	sok z cytryny	223	łyżka soku z cytryny	10
+640	mąka kukurydziana	224	łyżka mąki kukurydzianej	10
+641	białko jajka	225	1/2 białka jajek	17.5
+642	cebula dymka	226	1/2 cebuli dymki	10
+643	filet z mintaja	227	125g filetu z mintaja	125
+644	mieszanka chińska	228	200g mieszanki chińskiej	200
+645	jajko	229	jajko	55
+646	masło	230	5g masła	5
+647	papryka słodka	231	0.5 łyżeczki	3
+648	gęsta śmietana	232	łyżeczka gęstej śmietany	5
+649	szczypiorek	233	10g szczypiorku	10
+650	sól morska	234	szczypta soli morskiej	0.25
+651	jajko	235	3 jajka	165
+652	mleko	236	25ml mleka	25
+653	oliwa	237	łyżka oliwy	10
+654	pomidor suszony	238	50g suszonych pomidorów	50
+655	rukola	239	50g rukoli	50
+656	pieprz	240	szczypta pieprzu	0.25
+657	sól	241	szczypta soli	0.25
+658	ryż jaśminowy	242	50g ryżu jasminowego	50
+659	napój kokosowy	243	80ml napoju kokosowego	80
+660	mango	244	1/2 mango	150
+661	banan	245	1/2 banana	70
+662	limonka	246	limonka	100
+663	rodzynki	247	20g rodzynek	20
+664	cynamon	248	łyżeczka cynamonu	6
+665	orzech ziemny	249	20g orzechów ziemnych	20
+666	syrop klonowy	250	2 łyżki syropu klonowego	20
+667	chleb	251	2 kromki chleba	70
+668	ciecierzyca	252	100g ciecierzycy	100
+669	kmin rzymski	253	łyżeczka kminu rzymskiego	6
+670	majeranek	254	łyżeczka majeranku	6
+671	goździki	255	goździk	1
+672	jabłko	256	jabłko	175
+673	cebula	257	50g cebuli	50
+674	czosnek	258	ząbek czosnku	7
+675	oliwa	259	łyżka oliwy	10
+676	syrop klonowy	260	łyżeczka syropu klonowego	6
+677	sos sojowy	261	łyżeczka sosu sojowego	6
+678	mleko	262	75ml mleka	75
+679	mąka pszenna	263	1/2 szklanki mąki pszennej	125
+680	jajko	264	jajko	55
+681	masło	265	25g roztopionego masła	25
+682	proszek do pieczenia	266	łyżeczka proszku do pieczenia	6
+683	cukier	267	łyżka cukru	10
+684	syrop klonowy	268	35ml syropu klonowego	35
+685	cynamon	269	1/4 łyżeczki cynamonu	1.25
+686	olej	270	20ml oleju	20
+687	masło	271	25g masła do smażenia	25
+688	tofu	272	1 tofu	25
+689	olej	273	2 łyżeczki oleju	12
+690	pomidor koktajlowy	274	8 pomidorów koktajlowych	80
+691	szpinak	275	30g szpinaku	30
+692	woda	276	30ml wody	30
+693	bazylia	277	1 łyżczeka bazylii	6
+694	przyprawa włoska	278	1 łyżeczka przyprawy włoskiej	6
+695	kurkuma	279	1/2 łyżeczki kurkumy	3
+696	kasza jaglana	280	1/4 szklanki kaszy jaglanej	65
+697	napój sojowy	281	szklanka napoju sojowego	250
+698	miód	282	łyżka miodu	25
+699	truskawka	283	5 truskawek	55
+700	orzech włoski	284	1/4 łyżeczki cynamonu	1.25
+701	cynamon	285	15g orzechów włoskich	15
+702	mąka orkiszowa	286	25g mąki orkiszowej	25
+703	płatki owsiane	287	20g płatków owsianych	20
+704	ziarna słonecznika	288	14g ziaren słonecznika	14
+705	pestki dyni	289	14g pestek dyni	14
+706	ziarna sezamu	290	10g ziaren sezamu	10
+707	oliwa	291	łyżeczka oliwy	6
+708	cebula dymka	292	cebula dymka	20
+709	papryka żółta	293	1/2 żółtej papryki	100
+710	pomidor	294	75g pomidorów	75
+711	oliwa	295	łyżeczka oliwy	6
+712	fasola czerwona	296	1/2 czerwonej fasoli z puszki	120
+713	jajko	297	2 jajka	110
+714	masło	298	łyżeczka masła	6
+715	chleb tostowy	299	2 kromki chleba tostowego	50
+716	sos paprykowo-ziołowy	300	1/2 opakowania sosu paprykowo-ziołowego	4
+717	oliwa z oliwek	301	3 łyżeczki oliwy z oliwek	18
+718	woda	302	15ml wody	15
+719	pomidor	303	pomidor	180
+720	cebula czerwona	304	1/2 czerwonej cebuli	45
+721	kolendra	305	1/4 pęczka kolendry	10
+722	limonka	306	1/2 limonki	50
+723	chleb tostowy	307	2 kromki chleba tostowego	50
+724	majonez	308	łyżeczka majonezu	6
+725	jajko	309	jajko na twardo	60
+726	papryka czerwona	310	35g papryki czerwonej	35
+727	szczypiorek	311	łyżeczka posiekanego szczypiorku	6
+728	ciecierzyca	312	200g ciecierzycy	200
+729	oliwa	313	łyżeczka oliwy	6
+730	papryka ostra	314	1/4 łyżeczki ostrej papryki	1.25
+731	kmin rzymski	315	1/4 łyżeczki kminu rzymskiego	1.25
+732	cynamon	316	1/4 łyżeczki cynamonu	1.25
+733	chleb tostowy	317	2 kromki chleba tostowego 	50
+734	sos włoski	318	łyżeczka sosu włoskiego	6
+735	pierś z kurczaka	319	pierś z kurczaka z rosołu	150
+736	szpinak	320	garść szpinaku	25
+737	cebula	321	cebula	100
+738	szczypiorek	322	łyżka szczypiorku	10
+739	oliwa z oliwek	323	4 łyżki oliwy z oliwek	40
+740	ciabatta	324	ciabatta	80
+741	oliwa z oliwek	325	łyżka oliwy z oliwek	10
+742	majonez	326	łyżka majonezu	10
+743	łosoś	327	60g łososia wędzonego	60
+744	awokado	328	awokado	150
+745	jajko	329	jajko	55
+746	cytryna	330	1/2 cytryny	50
+747	chili	331	1/2 papryczki chilli	6
+748	kiełki rzodkiewki	332	łyżka kiełków rzodkiewki	8
+749	ziarna czarnuszki	333	1/4 łyżeczki zieren czarnuszki	3
+750	chleb tostowy	334	4 kromki chleba tostowego	100
+751	ser żółty	335	25g sera żółtego	25
+752	majonez	336	łyżka majonezu	10
+753	szynka	337	50g szynki	50
+754	ziemniak	338	50g ziemniaków	50
+755	cebula	339	1/4 cebuli	23
+756	olej	340	łyżeczka oleju	6
+757	śmietana	341	łyżka śmietany	10
+758	sól	342	łyżeczka soli	6
+759	jajko	343	jajko	55
+760	boczek	344	25g boczku	25
+761	masło	345	łyżeczka masła	6
+762	koper	346	łyżeczka koperku	6
+763	chleb tostowy	347	kromka chleba tostowego	25
+764	pieprz biały	348	szczypta białego pieprzu	1.25
+765	krewetka	349	125g krewetek	125
+766	cebula	350	1/4 cebuli	23
+767	olej	351	łyżeczka oleju	6
+768	pieczarka	352	2 pieczarki	40
+769	sól	353	szczypta soli	1.25
+770	sos sojowy	354	łyżeczka sosu sojowego	6
+771	jajko	355	jajko	55
+772	chili	356	1/4 papryczki chilli	3
+773	kiełki fasoli	357	łyżka kiełków fasoli	15
+774	krewetka	358	60g krewetek	60
+775	cebula	359	cebula	100
+776	pieprz	360	szczypta pieprzu	1.25
+777	pieczarka	361	3 pieczarki	60
+778	sól	362	szczypta soli	1.25
+779	jajko	363	2 jajka	110
+780	masło	364	łyżka masła	10
+781	szczypiorek	365	łyżeczka szczypiorku	6
+782	natka pietruszki	366	5g natki pietruszki	5
+783	oliwa	367	łyżka oliwy	10
+784	sos rybny	368	łyżka sosu rybnego	10
+785	chleb	369	2 kromki chleba	70
+786	krewetka	370	60g krewetek	60
+787	śmietana	371	łyżka śmietany	10
+788	sól	372	szczypta soli	1.25
+789	masło	373	łyżka masła	10
+790	pieprz biały	374	szczypta białego pieprzu	1.25
+791	jajko	375	jajko	55
+792	szparag	376	150g szparagów	150
+793	krewetka	377	50g krewetek	50
+794	cebula	378	cebula	90
+795	olej	379	łyżeczka oleju roślinnego	6
+796	jajko	380	jajko	55
+797	sól	381	szczypta soli	1.25
+798	natka pietruszki	382	natka pietruszki	2
+799	masło	383	łyżka masła	10
+800	pieprz	384	szczypta pieprzu	1.25
+801	słonina	385	20g słoniny	20
+802	filet rybny	386	150g filetu rybnego	150
+803	kapara	387	łyżeczka siekanej kapary	6
+804	pomidor	388	pomidor	180
+805	pieprz	389	ziarno pieprzu	2
+806	olej roślinny	390	łyżka oleju roślinnego	10
+807	jajko	391	2 jajka	110
+808	kolendra	392	garść kolendry	25
+809	czosnek	393	ząbek czosnku	7
+810	kurkuma	394	1/2 łyżeczki kurkumy	6
+811	wieprzowina	395	50g mielonej wieprzowiny	50
+812	sos rybny	396	łyżka sosu rybnego	10
+813	cebula	397	cebula	100
+814	pieprz	398	szczypta pieprzu	1.25
+815	sól	399	szczypta soli	1.25
+816	mleko	400	łyżka mleka	10
+817	jajko	401	2 jajka	110
+818	masło	402	15g masła	15
+819	bazylia	403	garść bazylii	3
+820	szynka	404	30g szynki	30
+821	cebula	405	cebula	90
+822	olej	406	20ml oleju	20
+823	pomidor	407	pomidor	180
+824	kminek	408	kminek	1
+825	jajko	409	jajko	55
+826	sól	410	szczypta soli	1.25
+827	chili	411	papryczka chilli	12
+828	wołowina	412	30g suszonej wołowiny	30
+829	cebula	413	cebula	100
+830	boczek	414	75g wędzonego boczku	75
+831	pieprz	415	szczypta pieprzu	1.25
+832	sól	416	szczypta soli	1.25
+833	gałka muszkatołowa	417	łyżeczka gałki muszkatołowej	6
+834	jajko	418	2 jajka	110
+835	oliwa	419	łyżka oliwy	10
+836	białe wino	420	łyżka białego wina	10
+837	kapusta	421	szklanka poszatkowanej kapusty	100
+838	jajko	422	3 jajka	165
+839	boczek	423	100g boczku wędzonego	100
+840	papryka czerwona	424	papryka czerwona	250
+841	masło	425	łyżeczka masła	6
+842	szynka konserwowa	426	plaster szynki konserwowej	12
+843	cebula	427	cebula	100
+844	ser żółty	428	2 plasterki sera żółtego	60
+845	chleb	429	2 kromki chleba	70
+846	rukola	430	garść rukoli	20
+847	kiełbasa	431	100g kiełbasy	100
+848	pomidor	432	pomidor	180
+849	jajko	433	jajko	55
+850	woda	434	łyżka wody	10
+851	ser żółty	435	plaster sera	30
+852	chleb razowy	436	kromka chleba razowego	35
+853	jajko	437	2 jajka	110
+854	mleko	438	łyżka mleka	10
+855	oscypek	439	1/4 oscypka	8
+856	lubczyk	440	1/2 łyżeczki lubczyka	3
+857	słonina	441	15g słoniny	15
+858	szczypiorek	442	pęczek szczypiorku	20
+859	pieprz	443	szczypta pieprzu	1.25
+860	jajko	444	2 jajka	110
+861	cebula	445	cebula	100
+862	cienka kiełbasa	446	1/2 cienkiej kiełbasy	40
+863	ser camembert	447	1/2 sera camembert	13
+864	mleko	448	2 łyżki mleka	20
+865	masło	449	łyżka masła	10
+866	brokuł	450	130g brokuła	130
+867	cukinia	451	250g cukinii	250
+868	marchew	452	marchew	50
+869	natka kolendry	453	7g świeżej natki kolendry	7
+870	liście szpinaku	454	75g liści szpinaku	75
+871	czosnek	455	ząbek czosnku	7
+872	olej sezamowy	456	łyżka oleju sezamowego	10
+873	świeży imbir	457	3g świeżego imbiru	3
+874	chili	458	strąk ostrej papryki chilli	9
+875	ciabatta	459	ciabatta	90
+876	ketchup	460	25ml ketchupu	25
+877	papryka czerwona	461	70g papryki czerwonej	70
+878	pieczarka portobello	462	pieczarka portobello	120
+879	pomidor	463	45g pomidora	45
+880	cebula czerwona	464	25g cebuli czerwonej	25
+881	sałata rucola	465	25g sałaty rucoli	25
+882	ser mozzarella	466	65g sera mozzarella	65
+883	jabłko	467	100g jabłka	100
+884	cynamon	468	1/2 łyżeczki cynamonu	3
+885	cukier trzcinowy	469	łyżeczka cukru trzcinowego	6
+886	orzech włoski	470	łyżeczka posiekanych orzechów włoskich	6
+887	rodzynki	471	10g rodzynek	10
+888	sok z cytryny	472	łyżeczka soku z cytryny	6
+889	masło	473	łyżeczka masła	6
+890	mąka	474	50g mąki	50
+891	mleko	475	50ml mleka	50
+892	jajko	476	jajko	55
+893	woda gazowana	477	15ml wody gazowanej	15
+894	olej	478	łyżeczka oleju	6
+895	cukinia	479	300g cukinii	300
+896	olej	480	łyżka oleju	10
+897	pieprz	481	szczypta pieprzu	0.25
+898	sól	482	szczypta soli	0.25
+899	czosnek	483	ząbek czosnku	7
+900	papryka czerwona	484	70g papryki czerwonej	70
+901	koper	485	łyżeczka posiekanego koperku	6
+902	makaron	486	100g makaronu	100
+903	cebula dymka	487	cebula dymka	20
+904	marchew	488	20g marchwi	20
+905	pierś z kurczaka	489	50g piersi z kurczaka	50
+906	sałata lodowa	490	50g sałaty lodowej	50
+907	pomidor	491	mały pomidor	100
+908	ogórek	492	50g ogórka	50
+909	ketchup	493	łyżka ketchupu	10
+910	majonez	494	łyżka majonezu	10
+911	tortilla	495	placek tortilli	60
+912	krewetka	496	300 g krewetek	300
+913	imbir	497	2 łyżeczki startego imbiru	10
+914	czosnek	498	2 ząbki czosnku	10
+915	olej	499	1 łyżka oleju roślinnego	10
+916	mango	500	1 mango	280
+917	szczypiorek	501	szczypiorek	20
+918	chili	502	1 łyżeczka posiekanej papryczki chili	5
+919	kolendra	503	kolendra	15
+920	łosoś wędzony	504	125 g łososia wędzonego (na gorąco)	125
+921	ogórek gruntowy	505	2 ogórki gruntowe	100
+922	sok z cytryny	506	2 łyżeczki soku z cytryny	12
+923	koper	507	1 łyżka posiekanego koperku	10
+924	serek śmietankowy	508	125 g kremowego serka Philadelphia lub Twój Smak	125
+925	pieprz	509	świeżo zmielony czarny pieprz	2
+926	sól	510	sól	2
+927	chleb	511	2 kromki chleba	70
+928	cukinia	512	1/2 cukinii	270
+929	batat	513	1 średni batat	300
+930	papryka	514	1 czerwona papryka	200
+931	cebula	515	1 czerwona cebula	110
+932	czosnek	516	2 ząbki czosnku	10
+933	rozmaryn	517	2 gałązki świeżego rozmarynu	16
+934	oliwa	518	4 łyżki oliwy extra	40
+935	szpinak	519	garść szpinaku	25
+936	kasza orkiszowa	520	100 g kaszy orkiszowej	100
+937	ser feta	521	ser feta	125
+938	boczek wędzony	522	4 plasterki cieniutkiego boczku wędzonego (np. paczkowany)	50
+939	oliwa	523	1 łyżka oliwy	10
+940	jajko	524	2 jajka	110
+941	bagietka	525	bagietka	140
+942	pomidor	526	1 pomidor	170
+943	cebula	527	kawałek cebuli	55
+944	chili	528	kawałek papryczki chili	10
+945	kolendra	529	kilkanaście listków świeżej kolendry	15
+946	limonka	530	łyżeczka soku z limonki	6
+947	fasola szparagowa	531	500 g fasolki szparagowej	500
+948	pomidor	532	3 pomidory	510
+949	czosnek	533	2 ząbki czosnku	10
+950	oliwa	534	3 łyżki oliwy extra	30
+951	suszone oregano	535	1 łyżeczka suszonego oregano	4
+952	bazylia	536	świeża bazylia	20
+953	ser feta	537	125 g sera feta	125
+954	czarna oliwka	538	czarne oliwki	50
+955	bagietka	539	bagietka	140
+956	makaron Rigatoni	540	120 g makaronu (np. większego jak Rigatoni, Peccheri)	120
+957	pomidor	541	300 g pomidorów	300
+958	czosnek	542	1 ząbek czosnku	5
+959	bazylia	543	ok. pół szklanki listków bazylii	22
+960	ser mozzarella	544	pół kulki białej mozzarelli (np. burrata lub zwykła)	65
+961	sól morska	545	1/3 łyżeczki soli morskiej	25
+962	pieprz	546	świeżo zmielony pieprz	2
+963	oliwa	547	2 łyżki oliwy extra vergine	20
+964	krewetka	548	180 g krewetek	180
+965	chorizo	549	75 g chorizo	75
+966	bulion drobiowy	550	380 ml bulionu drobiowego	380
+967	cebula	551	pół małej cebuli	40
+968	papryka	552	150 g papryki (np. różnokolorowej)	150
+969	seler	553	1.5 łodygi selera naciowego	70
+970	czosnek	554	2 ząbki czosnku	10
+971	masło	555	2 łyżki masła	20
+972	mąka pszenna	556	1,5 łyżki mąki pszennej	15
+973	suszone oregano	557	1/2 łyżeczka suszonego oregano	3
+974	tymianek	558	1/2 łyżeczki tymianku	2
+975	sól	559	1/2 łyżeczki soli	3
+976	papryka wędzona	560	1/2 łyżeczki wędzonej papryki	3
+977	granulowany czosnek	561	1/2 łyżeczki granulowanego czosnku	3
+978	papryka ostra	562	1/4 łyżeczki ostrej papryki lub pieprzu cayenne	1
+979	pieprz	563	szczypta mielonego pieprzu	2
+980	pieprz biały	564	szczypta białego pieprzu	2
+981	sos Worcestershire	565	2 łyżki sosu Worcestershire	20
+982	sok z cytryny	566	1 łyżka soku z cytryny	10
+983	szczypiorek	567	posiekany szczypiorek	20
+984	pietruszka	568	natka pietruszki	20
+985	ryż	569	100 g ryżu	100
+986	cebula czerwona	570	pół czerwonej cebuli	60
+987	batat	571	pół małego batatu (150 g)	150
+988	papryka czerwona	572	pół czerwonej papryki	100
+989	czosnek	573	2 ząbki czosnku	10
+990	korzeń imbiru	574	1 cm korzenia imbiru	8
+991	olej	575	1 łyżka oleju (np. kokosowego)	10
+992	kurkuma	576	1/2 łyżeczki kurkumy	3
+993	papryka słodka	577	1/2 łyżeczki słodkiej papryki	3
+994	kmin rzymski	578	1/2 łyżeczki kminu rzymskiego	3
+995	przyprawa curry	579	1/2 łyżeczki przyprawy curry	3
+996	chili	580	mała szczypta chili	1
+997	soczewica	581	150 g czerwonej soczewicy	150
+998	bulion jarzynowy	582	380 ml bulionu jarzynowego	380
+999	mleko kokosowe	583	60 ml mleka kokosowego (lub śmietanki 18% do zup i sosów)	60
+1000	ryż	584	100 g ryżu	100
+1001	kolendra	585	pół świeżej kolendry	10
+1002	kasza jęczmienna pęczak	586	1/2 szklanki kaszy jęczmiennej pęczak	90
+1003	jarmuż	587	2 szklanki ciętych liści jarmużu	90
+1004	olej	588	2 łyżki oleju	20
+1005	batat	589	300 g batatów	300
+1006	papryka	590	1 papryka	200
+1007	cebula	591	1 czerwona cebula	110
+1008	czosnek	592	2 ząbki czosnku	10
+1009	chili	593	1/2 papryczki chili	6
+1010	feta	594	80 g sera feta	80
+1011	oliwa	595	2 łyżki oliwy extra	20
+1012	kurkuma	596	1 łyżeczka kurkumy	6
+1013	papryka słodka	597	1 łyżeczka słodkiej papryki	6
+1014	kmin rzymski	598	1 łyżeczka kminu rzymskiego	6
+1015	suszone grzyby	599	10 g suszonych grzybów	10
+1016	boczek	600	50 g boczku	50
+1017	mięso gulaszowe wieprzowe	601	100 g mięsa gulaszowego wieprzowego	100
+1018	mięso gulaszowe wołowe	602	100 g mięsa gulaszowego wołowego	100
+1019	olej	603	1 łyżka oleju	10
+1020	bulion wołowy	604	szklanka bulionu wołowego	250
+1021	kapusta biała	605	250 g świeżej białej kapusty	250
+1022	kapusta kiszona	606	125 g kiszonej kapusty (waga po odciśnięciu)	125
+1023	suszona śliwka	607	25 g suszonych śliwek	25
+1024	cebula	608	pół cebuli	60
+1025	chorizo	609	70 g kiełbasy chorizo	70
+1026	koncentrat pomidorowy	610	1/2 łyżki koncentratu pomidorowego	5
+1027	liść laurowy	611	1 liść laurowy	6
+1028	ziele angielskie	612	kulki ziela angielskiego	5
+1029	jałowiec	613	2 kulki jałowca	4
+1030	kminek	614	1/2 łyżeczki kminku	3
+1031	papryka ostra	615	mała szczypta ostrej papryki	2
+1032	batat	616	1 batat	300
+1033	jogurt naturalny	617	100 g jogurtu naturalnego	100
+1034	jajko	618	2 jajka	110
+1035	olej kokosowy	619	2 łyżki oleju kokosowego	20
+1036	cukier	620	2 łyżki cukru	25
+1037	cukier wanilinowy	621	1 łyżka cukru wanilinowego	10
+1038	cynamon	622	1/2 łyżeczki cynamonu	3
+1039	gałka muszkatołowa	623	szczypta gałki muszkatołowej	2
+1040	skórka z pomarańczy	624	1 łyżeczka startej skórki z pomarańczy	6
+1041	mąka pszenna	625	200 g (1 i 1/3 szkl.) mąki pszennej	200
+1042	proszek do pieczenia	626	2 łyżeczki proszku do pieczenia	12
+1043	sól	627	mała szczypta soli	2
+1044	syrop klonowy	628	syrop klonowy	20
+1045	banan	629	banan	50
+1046	orzech pekan	630	orzechy pekan	20
+1047	filet z kurczaka	631	200 g filetu z kurczaka	200
+1048	sól	632	sól	3
+1049	pieprz	633	pieprz	3
+1050	masło	634	2 łyżki masła	20
+1051	rukola	635	2 garście rukoli	50
+1052	sałata	636	kilka liści sałaty	25
+1053	winogrono	637	250 g winogron	250
+1054	ser brie	638	100 g sera brie	100
+1055	orzech włoski	639	60 g orzechów włoskich	60
+1056	oliwa	640	3 łyżki oliwy	30
+1057	miód	641	3 łyżki miodu	30
+1058	sok z cytryny	642	1 łyżka soku z cytryny	10
+1059	ciabatta	643	ciabatta	80
+1060	masło	644	masło	20
+1061	rukola	645	garść rukoli	20
+1062	szynka parmeńska	646	2 plasterki szynki parmeńskiej	30
+1063	pomidor	647	pomidor	170
+1064	ser brie	648	50 g sera brie	50
+1065	roszponka	649	roszponka do podania	20
+1066	krewetka	650	10 dużych krewetek	220
+1067	olej	651	1 łyżka oleju	10
+1068	sok z limonki	652	1 łyżka soku z limonki	10
+1069	chili	653	szczypta płatków chili	2
+1070	mango	654	1/2 mango	140
+1071	cebula czerwona	655	1/4 małej czerwonej cebuli	28
+1072	ciabatta	656	ciabatta	80
+1073	słodki sos chilli	657	1 łyżka słodkiego sosu chili	10
+1074	majonez	658	1 łyżka majonezu	10
+1075	rukola	659	garść rukoli	25
+1076	kolendra	660	świeża kolendra	15
+1077	sałata	661	sałata z rukolą	300
+1078	cebula czerwona	662	1/4 małej czerwonej cebuli	28
+1079	winogrono	663	250 g winogron jasnych i ciemnych	250
+1080	mozarella	664	125 g mozzarelli (najlepiej mini)	125
+1081	zagęszczony sos balsamiczny	665	4 łyżeczki zagęszczonego sosu balsamicznego	24
+1082	nasiona słonecznika	666	4 łyżki nasion słonecznika	40
+1083	oliwa	667	2 łyżki oliwy z pierwszego tłoczenia	20
+1084	sok z cytryny	668	2 łyżeczki soku z cytryny	12
+1085	miód	669	2 łyżeczki miodu	12
+1086	pieprz	670	szczypta pieprzu	2
+1087	oliwa	671	1 łyżka oliwy	10
+1088	cebula	672	1 mała cebula	70
+1089	czosnek	673	2 ząbki czosnku	10
+1090	chorizo	674	100 g kiełbasy chorizo	100
+1091	batat	675	1 mały batat (350 g)	350
+1092	cukinia	676	250 g cukinii (1 mała)	250
+1093	suszone oregano	677	1 łyżeczka suszonego oregano	4
+1094	papryka słodka	678	1 łyżeczka słodkiej papryki	6
+1095	papryka ostra	679	1 łyżeczka ostrej papryki	6
+1096	kmin rzymski	680	1 łyżeczka kminu rzymskiego	6
+1097	bulion drobiowy	681	2/3 szklanki bulionu	170
+1098	papryka czerwona	682	1/2 czerwonej papryki	100
+1099	papryka żółta	683	1/2 żółtej papryki	100
+1100	pomidor z puszki	684	puszka pomidorów	200
+1101	koncentrat pomidorowy	685	2 łyżeczki koncentratu pomidorowego	20
+1102	bagietka	686	bagietka do podania	140
+1103	kolendra	687	kolendra	20
+1104	cukinia	688	1 cukinia (ok. 250 g)	250
+1105	oliwa	689	oliwa	40
+1106	sól	690	sól	3
+1107	pieprz	691	pieprz	2
+1108	czosnek	692	1 ząbek czosnku	5
+1109	suszone oregano	693	1 łyżeczka suszonego oregano	6
+1110	mix sałat z rukolą	694	mix sałat z rukolą	200
+1111	pomidor	695	2 pomidory	340
+1112	cebula	696	1/4 cebuli	27
+1113	ser feta	697	100 g sera feta	100
+1114	oliwa	698	4 łyżki oliwy z pierwszego tłoczenia	40
+1115	sok z cytryny	699	1 łyżka soku z cytryny	10
+1116	cukinia	700	2 małe cukinie	600
+1117	czosnek	701	1 ząbek czosnku	5
+1118	suszone oregano	702	1 łyżeczka suszonego oregano	6
+1119	pomidor	703	1 pomidor	170
+1120	cebula	704	1/4 cebuli	27
+1121	ser feta	705	100 g sera feta	100
+1122	jajko	706	2 jajka	110
+1123	sól	707	sól	3
+1124	pieprz	708	pieprz	2
+1125	oliwa	709	oliwa	20
+1126	chili	710	płatki chili	3
+1127	rukola	711	listki rukoli do dekoracji	20
+1128	batat	712	300 g batatów	300
+1129	cukinia	713	300 g cukinii	300
+1130	cebula	714	1 cebula (np. młoda)	80
+1131	czosnek	715	2 ząbki czosnku	10
+1132	oliwa	716	2 łyżki oliwy extra	10
+1133	sól	717	sól	3
+1134	pieprz	718	pieprz	2
+1135	papryka ostra	719	ostra papryka lub pieprz cayenne	2
+1136	oregano	720	oregano	6
+1137	pomidor	721	1 większy pomidor	200
+1138	mozarella	722	125 g mini mozzarelli (kuleczki)	125
+1139	olej	723	1 łyżka oleju roślinnego	10
+1140	cebula	724	pół cebuli	60
+1141	boczek parzony	725	70 g parzonego boczku	70
+1142	kiełbasa wiejska	726	200 g kiełbasy	200
+1143	bulion	727	250 ml bulionu	250
+1144	ziemniak	728	1,5 ziemniaka	140
+1145	majeranek	729	1 łyżeczka majeranku	6
+1146	papryka słodka	730	1/2 łyżeczki słodkiej papryki	3
+1147	pieprz cayenne	731	1/2 łyżeczki pieprzu cayenne	3
+1148	papryka czerwona	732	pół czerwonej papryki	100
+1149	cukinia	733	pół cukinii (ok. 150 g)	150
+1150	passata	734	1/3 szklanki passaty	80
+1151	boczek wędzony	735	125 g boczku wędzonego	125
+1152	sałata	736	8 liści sałaty	280
+1153	pomidor	737	2 pomidory	340
+1154	cebula	738	ćwiartka cebuli	27
+1155	mozarella	739	125 g mozzarelli (np. mini w kulkach)	125
+1156	sok z cytryny	740	2 łyżki soku z cytryny	20
+1157	miód	741	2 łyżki miodu	20
+1158	musztarda	742	1 łyżka musztardy (np. delikatesowej)	10
+1159	olej	743	2 łyżki oleju roślinnego	20
+1160	boczek parzony	744	ok. 125 g boczku parzonego	125
+1161	sałata	745	6 - 8 liści sałaty	260
+1162	pomidor koktajlowy	746	250 g pomidorków koktajlowych (lub 2 pomidory)	250
+1163	cebula	747	ćwiartka cebuli (np. młodej)	27
+1164	oliwa	748	oliwa extra vergine	20
+1165	chorizo	749	100 g kiełbasy chorizo* (np. pikantnej)	100
+1166	oliwa	750	1/2 łyżki oliwy	5
+1167	cebula	751	pół cebuli	60
+1168	czosnek	752	1 ząbek czosnku	5
+1169	papryka	753	1/2 papryki	100
+1170	cukinia	754	1/2 cukinii	150
+1171	bulion	755	1/3 szklanki bulionu	80
+1172	ciecierzyca	756	pół puszki ciecierzycy	200
+1173	oregano	757	1/2 łyżeczki oregano	3
+1174	passata	758	125 ml passaty	125
+1175	ziemniak	759	1 duży ziemniak	160
+1176	batat	760	1 średni batat (słodki ziemniak)	300
+1177	papryka czerwona	761	1 papryka czerwona	200
+1178	papryka zielona	762	1 papryka zielona 	200
+1179	papryka żółta	763	1 papryka zółta	200
+1180	cebula	764	1 większa czerwona cebula	150
+1181	czosnek	765	4 ząbki czosnku	20
+1182	oliwa	766	4 łyżki oliwy extra	40
+1183	pieprz	767	zmielony czarny pieprz z młynka	2
+1184	ser feta	768	ser feta	125
+1185	oliwa	769	1 łyżka oliwy	10
+1186	cebula	770	pół cebuli	60
+1187	boczek parzony	771	70 g parzonego boczku	70
+1188	kiełbasa wiejska	772	150 g kiełbasy (np. wiejskiej)	150
+1189	bulion	773	250 ml bulionu	250
+1190	ziemniak	774	2 ziemniaki	160
+1191	majeranek	775	1/2 łyżki majeranku	5
+1192	papryka	776	1/2 łyżeczki papryki	3
+1193	pieprz	777	mała szczypta zmielonego pieprzu	2
+1194	papryka czerwona	778	1/4 czerwonej papryki	50
+1195	passata	779	1/4 szklanki passaty	60
+1196	chleb	780	1 kromka chleba	40
+1197	chleb	781	kromka pieczywa	35
+1198	masło	782	masło	15
+1199	rukola	783	kilka listków rukoli	20
+1200	tuńczyk w oleju	784	ok. 1/4 puszki tuńczyka w oleju	40
+1201	jajko	785	1 jajko ugotowane na półtwardo	55
+1202	musztarda miodowa	786	musztarda miodowa	8
+1203	cebula	787	kilka cienko pokrojonych piórek cebuli	10
+1204	krewetka	788	ok. 375 g krewetek	375
+1205	olej	789	1 łyżka oleju roślinnego	10
+1206	cebula	790	1 mała cebulka	70
+1207	czosnek	791	2 ząbki czosnku	10
+1208	masło	792	2 łyżki masła	20
+1209	słodki sos chilli	793	2 łyżki słodkiego sosu chilli	20
+1210	sos Worcestershire	794	2 łyżki sosu worcestershire	20
+1211	bulion	795	1/4 szklanki bulionu	30
+1212	sok z cytryny	796	2 łyżki soku z cytryny	20
+1213	cukier	797	1/2 łyżeczki cukru	3
+1214	suszone oregano	798	1 łyżeczka suszonego oregano	4
+1215	papryka słodka	799	2 łyżeczki papryki słodkiej	12
+1216	tymianek	800	1 łyżeczka tymianku	4
+1217	pietruszka	801	natka pietruszki	15
+1218	bagietka	802	bagietka	140
+1219	krewetka	803	250 g krewetek (obranych, oczyszczonych)	250
+1220	makaron risini	804	100 g makaronu risini/risoni (w kształcie ziarenek ryżu)	100
+1221	brokuł	805	200 g brokuła	200
+1222	masło	806	2 łyżki masła	20
+1223	oliwa	807	2 łyżki oliwy z pierwszego tłoczenia	20
+1224	czosnek	808	1 ząbek czosnku	10
+1225	sok z cytryny	809	1 łyżeczka soku z cytryny	6
+1226	pietruszka	810	1 łyżka posiekanej natki pietruszki	10
+1227	chili	811	szczypta płatków chili	2
+1228	ryż kleisty	812	1 szklanka ryżu kleistego (lub okrągłoziarnistego / do sushi)	115
+1229	woda	813	1 szklanka wody	250
+1230	mleko kokosowe	814	1 szklanka mleka kokosowego	250
+1231	cukier	815	3 łyżki cukru	30
+1232	sól	816	mała szczypta soli	2
+1233	skrobia ziemniaczana	817	1 łyżeczka skrobi ziemniaczanej	6
+1234	mango	818	2 dojrzałe owoce mango	560
+1235	limonka	819	1/4 limonki	25
+1236	sezam	820	2 łyżki lekko podprażonego sezamu	20
+1237	mięta	821	listki mięty do dekoracji	20
+1238	batat	822	250 g batatów	250
+1239	mielona kolendra	823	1 łyżeczka mielonej kolendry	6
+1240	kmin rzymski	824	1 łyżeczka kminu rzymskiego	6
+1241	papryka ostra	825	1 łyżeczka ostrej papryki	6
+1242	oliwa	826	2 łyżki oliwy z pierwszego tłoczenia	20
+1244	kolendra	827	"pół ""doniczki"" kolendry"	50
+1245	oliwa z pierwszego tłoczenia	828	2 łyżki oliwy z pierwszego tłoczenia	20
+1246	czosnek	829	1/2 ząbka czosnku	3
+1247	sok z cytryny	830	pół łyżki soku z cytryny	5
+1248	hummus	831	ok. 150 g hummusu do podania	150
+1249	krewetka	832	500 g krewetek (obranych, oczyszczonych)	500
+1250	masło	833	60 g masła	60
+1251	czosnek	834	3 ząbki czosnku	15
+1252	sok z cytryny	835	1 łyżka soku z cytryny	10
+1253	chili	836	szczypta płatków chili (opcjonalnie)	2
+1254	pietruszka	837	1 łyżka posiekanej natki pietruszki	6
+1255	ziemniak	838	1 ziemniak	90
+1256	marchew	839	1 marchewka	60
+1257	pietruszka	840	1 pietruszka	80
+1258	batat	841	1 batat	300
+1259	burak	842	1 buraczek	105
+1260	cukinia	843	1 cukinia	300
+1261	oliwa	844	2 łyżki oliwy extra vergine	20
+1262	sól	845	sól	3
+1263	pieprz	846	pieprz	2
+1264	suszone oregano	847	1 łyżeczka suszonego oregano	4
+1265	przyprawa gyros	848	2 łyżeczki mieszanki przypraw np. gyros	12
+1266	jogurt grecki	849	1 łyżka śmietany	40
+1267	majonez	850	1 łyżka majonezu	40
+1268	musztarda miodowa	851	2 łyżeczki musztardy miodowej	12
+1269	przyprawa gyros	852	1/2 łyżeczki przyprawy np. gyros	3
+1270	jajko	853	2 jajka	110
+1271	chleb razowy	854	4 kromki pieczywa razowego	140
+1272	masło	855	masło	40
+1273	awokado	856	1 dojrzałe awokado	120
+1274	majonez	857	2 łyżeczki majonezu	30
+1275	rzeżucha	858	rzeżucha	40
+1276	sól	859	sól	3
+1277	pieprz	860	pieprz	2
+1278	cukinia	861	2 cukinie (o wadze ok. 300 g każda)	600
+1279	cebula	862	1 cebula	110
+1280	czosnek	863	2 ząbki czosnku	10
+1281	bułka tarta	864	4 łyżki bułki tartej	40
+1282	jajko	865	3 jajka	165
+1283	ser żółty	866	50 g tartego sera żółtego	50
+1284	parmezan	867	50 g tartego parmezanu	50
+1285	szczypiorek	868	1/2 pęczka szczypiorku	50
+1286	oliwa	869	1 łyżeczka oliwy extra vergine	10
+1287	sól	870	sól	3
+1288	pieprz	871	pieprz	2
+1289	gałka muszkatołowa	872	tarta gałka muszkatołowa	1
+1290	ryż	873	100 g ryżu (1 woreczek)	100
+1291	kukurydza	874	200 g kukurydzy	200
+1292	ananas	875	250 g ananasa	250
+1293	ogórek	876	100 g ogórka	100
+1294	sok z limonki	877	sok z 1/2 limonki	20
+1295	syrop klonowy	878	2 łyżki syropu klonowego	30
+1296	sól	879	szczypta soli	3
+1297	kolendra	880	1/2 szklanki listków kolendry	30
+1298	płatki owsiane	881	1 szklanka płatków owsianych błyskawicznych	100
+1299	jabłko	882	1 jabłko (obrane i pokrojone w kostkę)	180
+1300	jogurt naturalny	883	3 łyżki jogurtu naturalnego	60
+1301	jajko	884	2 jajka	110
+1302	miód	885	3 łyżki miodu	75
+1303	masło	886	1 łyżka masła	11
+1304	masło orzechowe	887	1 łyżka masła orzechowego	25
+1305	cynamon	888	1/2 łyżeczki cynamonu	3
+1306	soda oczyszczona	889	1/2 łyżeczki sody oczyszczonej	3
+1307	proszek do pieczenia	890	1/2 łyżeczki proszku do pieczenia	3
+1308	orzech włoski	891	garść orzechów włoskich	30
+1309	płatki owsiane	892	1 szklanka płatków owsianych (100 g)	100
+1310	mleko	893	1 i 3/4 szklanki mleka	410
+1311	kakao	894	2 łyżki gorzkiego (naturalnego) kakao	20
+1312	cukier trzcinowy	895	2 łyżki cukru trzcinowego	20
+1313	syrop klonowy	896	1 łyżka syropu klonowego	10
+1314	cynamon	897	szczypta cynamonu	2
+1315	masło orzechowe	898	2 łyżki masła orzechowego	50
+1316	czekolada gorzka	899	od 50 - 100 g czekolady gorzkiej lub lekko gorzkiej	75
+1317	malina	900	szklanka świeżych malin lub 1/2 szklanki mrożonych	120
+1318	płatki owsiane	901	1 szklanka płatków owsianych (100 g)	100
+1319	mleko	902	1 i 3/4 szklanki mleka	410
+1320	miód	903	2 łyżki miodu	50
+1321	rodzynki	904	2 łyżki rodzynek	30
+1322	cynamon	905	1/2 łyżeczki cynamonu	3
+1323	jabłko	906	1 jabłko	180
+1324	cukier kokosowy	907	1 łyżka cukru kokosowego	10
+1325	sok z cytryny	908	sok z cytryny	5
+1326	płatki owsiane	909	1 szklanka (110 g) płatków owsianych (górskich)	110
+1327	banan	910	1 banan	50
+1328	jajko	911	1 jajko	55
+1329	mleko	912	1/2 szklanki (125 ml) mleka	120
+1330	cukier wanilinowy	913	1 łyżka cukru wanilinowego	10
+1331	soda oczyszczona	914	1 łyżeczka sody oczyszczonej	6
+1332	masło orzechowe	915	1 łyżka masła orzechowego	25
+1333	syrop klonowy	916	2 łyżki miodu lub syropu klonowego	50
+1334	czekolada biała	917	50 g posiekanej białej czekolady	50
+1335	malina	918	pół szklanki malin	60
+1336	jagoda	919	pół szklanki jagód	60
+1337	nasiona chia	920	3 pełne łyżki nasion chia	24
+1338	mleko	921	250 ml mleka krowiego lub roślinnego*	230
+1339	cukier	922	2 łyżki cukru (lub do smaku)	20
+1340	mango	923	owoce: np. mango, maliny, borówki, truskawki	50
+1341	malina	924	50g malin	50
+1342	borówka	925	50g borówek	50
+1343	truskawka	926	50g truskawek	50
+1344	tortilla	927	2 tortille pszenne	130
+1345	jajko	928	5 jajek	275
+1346	awokado	929	2 awokado	240
+1347	sok z cytryny	930	2 łyżeczki soku z cytryny	6
+1348	czosnek	931	1/2 ząbka czosnku	3
+1349	majonez	932	1 łyżka majonezu	25
+1350	ser żółty	933	1/2 szklanki drobno startego sera żółtego (miękkiego)	40
+1351	oliwa	934	1 łyżeczka oliwy extra	5
+1352	rzeżucha	935	4 łyżki rzeżuchy	20
+1353	kasza jaglana	936	1/4 szklanki kaszy jaglanej	47
+1354	mleko	937	1 szklanka mleka	230
+1355	orzech pekan	938	garść orzechów pekan	30
+1356	syrop klonowy	939	2 łyżki syropu klonowego	50
+1357	masło	940	2 łyżki masła	50
+1358	jajko	941	3 jajka	165
+1359	mleko	942	1/2 szklanki mleka	115
+1360	mąka pszenna	943	1/2 szklanki mąki pszennej	104
+1361	cukier	944	1 łyżka cukru	10
+1362	cukier puder	945	cukier puder	10
+1363	truskawka	946	truskawki	80
+1364	bita śmietana	947	bita śmietana	30
+1365	kasza jaglana	948	1/2 szklanki kaszy jaglanej	95
+1366	mleko	949	2 szklanki mleka	460
+1367	malina	950	ok. 1/2 szklanki malin (świeżych lub mrożonych)	50
+1368	syrop malinowy	951	3 łyżki syropu/soku malinowego	30
+1369	makaron	42	100g makaronu	100
