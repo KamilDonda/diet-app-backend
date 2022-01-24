@@ -19,19 +19,19 @@ def get_db():
 def insert_or_replace_meal_request(params):
     query = ''' INSERT OR REPLACE INTO meal(id, name, description, category, classification)
         VALUES(?,?,?,?,?) '''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def insert_or_replace_ingredient_request(params):
     query = ''' INSERT OR REPLACE INTO ingredient(id, name, kcal, carbohydrates, fats, proteins, tags)
         VALUES(?,?,?,?,?,?,?) '''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def insert_or_replace_meal_ingredient_request(params):
     query = ''' INSERT OR REPLACE INTO meal_ingredient(id, ingredient_id, meal_id, description, amount)
         VALUES(?,?,?,?,?) '''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def update_meal_classification_request(params):
@@ -46,7 +46,7 @@ def select_all_from_table_request(table):
 
 def select_by_id_request(table, params):
     query = f''' SELECT * FROM {table} WHERE id = ?'''
-    return create_request(query, params)
+    return create_request2(query, params)
 
 
 def get_all_meal_nutriments_request(params):
@@ -97,7 +97,7 @@ def create_request2(query, params=''):
 
 def insert_meals(meals):
     for meal in meals:
-        params = (meal[0], meal[1], meal[2], meal[3], None)
+        params = (meal[0], meal[1], meal[2], meal[3], meal[4])
         insert_or_replace_meal_request(params)
 
 

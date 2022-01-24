@@ -6,27 +6,27 @@
 6	cielęcina	2	około 550 g chudej cielęciny	550
 7	jajko	2	2 średnie jajka	110
 8	masło klarowane	2	50 g masła klarowanego	50
-9	bułka tarta	2	4  czubate łyżki bułki tartej	60
+9	bułka tarta	2	4 czubate łyżki bułki tartej	60
 10	mąka pszenna	2	1 łyżka mąki pszennej	10
 11	sól	2	1/2 łyżeczki soli	3
 12	pieprz	2	1/3 łyżeczki pieprzu	2
 13	cytryna	2	mała cytryna	120
-14	ziemniak	3	2 kg surowych ziemniaków	2000
-15	ziemniak	3	1 kg ugotowanych ziemniaków	1000
-16	mielona łopatka wieprzowa	3	500 g mielonej łopatki wieprzowej	500
-17	cebula	3	2 średnie cebule	200
-18	mąka pszenna	3	2 łyżki mąki pszennej	20
-19	sól	3	1 łyżeczka soli	6
-20	majeranek	3	1 łyżeczka majeranku	6
+14	ziemniak	3	0,5 kg surowych ziemniaków	500
+15	ziemniak	3	250g ugotowanych ziemniaków	250
+16	mielona łopatka wieprzowa	3	125 g mielonej łopatki wieprzowej	125
+17	cebula	3	połowa cebuli	60
+18	mąka pszenna	3	½ łyżka mąki pszennej	5
+19	sól	3	1/2 łyżeczka soli	3
+20	majeranek	3	1/3 łyżeczka majeranku	2
 21	pieprz	3	1/2 łyżeczki pieprzu	3
-22	wołowina	4	1 kg wołowiny na gulasz np. łopatka lub karczek	1000
-23	papryka czerwona	4	1 spora czerwona papryka	270
-24	cebula	4	1 spora cebula zwykła	200
-25	marchew	4	1 średnia marchewka	100
-26	czosnek	4	4 ząbki czosnku	20
-27	mąka pszenna	4	3 łyżki mąki pszennej	30
-28	olej	4	4 łyżki oleju	40
-29	woda	4	2 szklanki wody	500
+22	wołowina	4	750g wołowiny na gulasz np. łopatka lub karczek	750
+23	papryka czerwona	4	1 czerwona papryka	220
+24	cebula	4	1 cebula zwykła	140
+25	marchew	4	1 średnia marchewka	80
+26	czosnek	4	3 ząbki czosnku	15
+27	mąka pszenna	4	2,5 łyżki mąki pszennej	25
+28	olej	4	3 łyżki oleju	30
+29	woda	4	400ml wody	400
 30	sól	4	1 łyżeczka soli	6
 31	papryka słodka	4	1 łyżeczka słodkiej papryki	6
 32	papryka ostra	4	1/2 łyżeczki ostrej papryki 	3
@@ -59,13 +59,13 @@
 59	sól	7	1 łyżeczka soli	6
 60	pieprz	7	1/2 łyżeczki pieprzu	3
 61	papryka ostra	7	1/2 łyżeczki ostrej papryki	3
-62	karkówka wieprzowa	8	1.5 kg karkówki wieprzowej	1500
-63	czosnek	8	6 ząbków czosnku	30
-64	majeranek	8	3 łyżeczki majeranku	18
-65	sól	8	2 łyżeczki soli	12
-66	pieprz	8	1 łyżeczka pieprzu	6
-67	kolendra	8	1 łyżeczka kolendry	6
-68	kminek	8	1/2 łyżeczki kminku	3
+62	karkówka wieprzowa	8	750g karkówki wieprzowej	750
+63	czosnek	8	3 ząbki czosnku	15
+64	majeranek	8	1,5 łyżeczki majeranku	9
+65	sól	8	1 łyżeczka soli	6
+66	pieprz	8	1/2 łyżeczki pieprzu	3
+67	kolendra	8	1/2 łyżeczki kolendry	3
+68	kminek	8	1/3 łyżeczki kminku	2
 69	makaron	9	300 g makaronu np. muszelki	300
 70	boczek surowy wedzony	9	100 g boczku surowego wędzonego	100
 71	jajko	9	4 średnie lub duże jajka	220
@@ -74,14 +74,14 @@
 74	sól	9	1/2 łyżeczki soli	3
 75	pieprz	9	1/2 łyżeczki pieprzu	3
 76	szczypiorek	9	garść szczypiorku	12
-77	ziemniak	10	1 kg ziemniaków	1000
-78	mąka pszenna	10	1 szklanka mąki pszennej typ 720	160
-79	skrobia ziemniaczana	10	2 łyżki skrobi ziemniaczanej	20
-80	jajko	10	1 średnie lub większe jajko	55
+77	ziemniak	10	600g ziemniaków	600
+78	mąka pszenna	10	2/3 szklanki mąki pszennej typ 720	100
+79	skrobia ziemniaczana	10	1 czubata łyżka skrobi ziemniaczanej	12
+80	jajko	10	1 średnie jajko	40
 81	sól	10	1/2 łyżeczki soli	3
-82	boczek surowy wedzony	10	300 g boczku surowego wędzonego	300
-83	cebula	10	2 średnie cebule	300
-84	olej	10	5 łyżek oleju	50
+82	boczek surowy wedzony	10	180g boczku surowego wędzonego	180
+83	cebula	10	1 duża cebula	180
+84	olej	10	3 łyżki oleju	30
 85	pierś z kurczaka	11	nieduża pierś z kurczaka	500
 86	mąka pszenna	11	4 łyżki mąki pszennej	40
 87	jajko	11	2 duże jajka	110
@@ -97,18 +97,18 @@
 97	kminek	11	1/3 łyżeczki kminku	2
 98	imbir	11	1/3 łyżeczki imbiru	2
 99	kolendra	11	1/3 łyżeczki kolendry	2
-100	ziemniak	12	1 kg ziemniaków	1000
-101	kiełbasa	12	opakowanie kiełbasy morlińskiej z szynki - 540 g	540
-102	cebula	12	2 średnie cebule	400
-103	ser żółty	12	50 g sera żółtego - w kostce lub w plasterkach	150
-104	śmietanka kremówka 30%	12	1/3 szklanki smietanki 30%	90
-105	jajko	12	2 średnie jajka	110
-106	olej	12	3 łyżki oleju	30
-107	sól	12	1 łyżeczka soli	6
-108	papryka słodka	12	1 łyżeczka słodkiej papryki	6
+100	ziemniak	12	500g ziemniaków	500
+101	kiełbasa	12	pół opakowania kiełbasy morlińskiej z szynki - 270 g	270
+102	cebula	12	1 średnia cebula	200
+103	ser żółty	12	50 g sera żółtego - w kostce lub w plasterkach	50
+104	śmietanka kremówka 30%	12	50ml śmietanki 30%	50
+105	jajko	12	1 jajko	55
+106	olej	12	1,5 łyżki oleju	15
+107	sól	12	1/2 łyżeczki soli	3
+108	papryka słodka	12	1/2 łyżeczki słodkiej papryki	3
 109	pieprz	12	1/2 łyżeczki pieprzu	3
-110	gałka muszkatołowa	12	szczypta gałki muszkatołowej	10
-111	pomidor koktajlowy	12	garść pomidorków koktajlowych	60
+110	gałka muszkatołowa	12	mała szczypta gałki muszkatołowej	5
+111	pomidor koktajlowy	12	mała garść pomidorków koktajlowych	40
 112	grahamka	13	2 bułki grahamki	130
 113	mielona wołowina	13	300 g mielonej wołowiny np. łopatki	300
 114	boczek surowy wedzony	13	4 plastry boczku surowego wedzonego	50
@@ -132,31 +132,31 @@
 132	papryka słodka	14	łyżeczka słodkiej papryki	6
 133	pieprz	14	1/3 łyżeczki pieprzu	2
 134	papryka czerwona	14	1 czerwona papryka	260
-135	wątróbka driobiowa	15	800 g wątróbki drobiowej - z indyka lub z kurczaka	800
+135	wątróbka drobiowa	15	800 g wątróbki drobiowej - z indyka lub z kurczaka	800
 136	cebula	15	3 średnie cebule	800
 137	mąka pszenna	15	2 łyżki mąki pszennej	20
 138	olej	15	6 łyżek oleju	60
 139	sól	15	łyżeczka soli	6
-140	karkówka wieprzowa	16	1 kg karkówki - około 9-10 kotletów	1000
-141	cebula	16	3 cebule	600
-142	czosnek	16	4 ząbki czosnku	20
-143	woda	16	1.5 szklanki wody 	375
-144	mąka pszenna	16	2 łyżki mąki pszennej	20
-145	olej	16	4 łyżki oleju	40
-146	sól	16	łyżeczka soli	6
-147	majeranek	16	łyżeczka majeranku	6
-148	papryka słodka	16	łyżeczka słodkiej papryki	6
+140	karkówka wieprzowa	16	500g karkówki	500
+141	cebula	16	2 średnie cebule	300
+142	czosnek	16	2 ząbki czosnku	10
+143	woda	16	1 szklanka wody 	250
+144	mąka pszenna	16	1 łyżka mąki pszennej	10
+145	olej	16	2 łyżki oleju	20
+146	sól	16	1/2 łyżeczki soli	3
+147	majeranek	16	1/2 łyżeczki majeranku	3
+148	papryka słodka	16	1/2 łyżeczki słodkiej papryki	3
 149	pieprz	16	1/2 łyżeczki pieprzu	3
 150	kolendra	16	1/3 łyżeczki kolendry	2
-151	ziele angielskie	16	3 ziarna ziela angielskiego	1.5
+151	ziele angielskie	16	2 ziarna ziela angielskiego	1
 152	liść laurowy	16	listek laurowy	0.2
-153	mielona łopatka wieprzowa	17	700 g mielonej łopatki wieprzowej	700
-154	kapusta biała	17	główka kapusty białej	4500
-155	bulion	17	1.5 szklanki bulionu	375
-156	cebula	17	1 średnia cebula	200
-157	olej	17	łyżka oleju	10
-158	bułka tarta	17	2 łyżki bułki tartej	20
-159	koncentrat pomidorowy	17	2 łyżki koncentratu pomidorowego	20
+153	mielona łopatka wieprzowa	17	500g mielonej łopatki wieprzowej	500
+154	kapusta biała	17	pół główki kapusty białej	2200
+155	bulion	17	1 szklanka bulionu	250
+156	cebula	17	pół średniej cebula	100
+157	olej	17	1/2 łyżki oleju	5
+158	bułka tarta	17	1 łyżka bułki tartej	10
+159	koncentrat pomidorowy	17	1 łyżka koncentratu pomidorowego	10
 160	sól	17	łyżeczka soli	6
 161	pieprz	17	łyżeczka pieprzu	6
 162	schab	18	500 g schabu środkowego	500
@@ -191,25 +191,25 @@
 191	pieprz	21	1/2 łyżeczki pieprzu	3
 192	bułka tarta	21	120 g bułki tartej	120
 193	masło klarowane	21	4 łyżki masła klarowanego	40
-194	wołowina	22	600 g mięsa mielonego - wołowina	600
-195	cebula	22	pół małej cebuli	80
-196	czosnek	22	4 ząbki czosnku	20
-197	imbir	22	kawałek świeżego imbiru (3cm)	12
+194	wołowina	22	300 g mięsa mielonego - wołowina	300
+195	cebula	22	ćwierć cebuli	50
+196	czosnek	22	2 ząbki czosnku	10
+197	imbir	22	kawałek świeżego imbiru (1cm)	5
 198	natka pietruszki	22	garść natki pietruszki	20
 199	olej	22	łyżka oleju	10
-200	kolendra	22	łyżeczka kolendry	6
+200	kolendra	22	łyżeczka kolendry	3
 201	sól	22	łyżeczka soli	6
 202	papryka słodka	22	łyżeczka słodkiej papryki	6
 203	pieprz	22	1/2 łyżeczki pieprzu	3
 204	papryka ostra	22	1/2 łyżeczki ostrej papryki	3
 205	cynamon	22	1/3 łyżeczki cynamonu	2
 206	kmin rzymski	22	1/3 łyżeczki kminu rzymskiego	2
-207	boczek surowy	23	1500 g surowego boczku bez skóry	1500
-208	czosnek	23	3 ząbki czosnku	15
-209	woda	23	5 łyżek wody	50
-210	sól	23	łyżeczka soli	6
-211	majeranek	23	łyżka majeranku	10
-212	liść laurowy	23	2 listki laurowe	0.4
+207	boczek surowy	23	600 g surowego boczku bez skóry	600
+208	czosnek	23	1 ząbek czosnku	5
+209	woda	23	2 łyżki wody	20
+210	sól	23	1/2 łyżeczki soli	3
+211	majeranek	23	1/2 łyżeczki majeranku	3
+212	liść laurowy	23	1 listek laurowy	0.2
 213	pieprz	23	1/2 łyżeczki pieprzu	3
 214	łopatka wieprzowa	24	500 g łopatki wieprzowej	500
 215	kajzerka	24	pół czerstwej kajzerki	25
@@ -222,48 +222,48 @@
 222	pieprz	24	1/2 łyżeczki pieprzu	3
 223	bułka tarta	24	2 łyżki bułki tartej	20
 224	olej	24	3 łyżki oleju	30
-225	wołowina	25	1 kg wołowiny	1000
-226	woda	25	2 szklanki wody	500
-227	cebula	25	2 średnie cebule	300
-228	olej	25	2 łyżki oleju	20
-229	czosnek	25	3 ząbki czosnku	15
-230	mąka pszenna	25	1 łyżka mąki pszennej	10
-231	liść laurowy	25	3 listki laurowe	0.6
-232	ziele angielskie	25	4 ziarna angielskie	2
-233	sól	25	łyżeczka soli	6
-234	pieprz	25	łyżeczka pieprzu	6
-235	łopatka wieprzowa	26	1 kg łopatki wieprzowej	1000
-236	papryka czerwona	26	2 średnie czerwone papryki	500
-237	marchew	26	2 duże marchewki	300
-238	cebula	26	3 średnie cebule	300
-239	czosnek	26	4 ząbki czosnku	20
-240	olej	26	7 łyżek oleju	70
-241	bulion	26	2 szklanki bulionu	500
-242	koncentrat pomidorowy	26	3 łyżki koncetratu pomidorowego	30
-243	papryka słodka	26	2 łyżki słodkiej papryki	20
+225	wołowina	25	500 g wołowiny	500
+226	woda	25	1 szklanka wody	250
+227	cebula	25	1 średnia cebula	150
+228	olej	25	1 łyżka oleju	10
+229	czosnek	25	2 ząbki czosnku	10
+230	mąka pszenna	25	1/2 łyżki mąki pszennej	5
+231	liść laurowy	25	2 listki laurowe	0.4
+232	ziele angielskie	25	2 ziarna angielskie	1
+233	sól	25	1/2 łyżeczki soli	3
+234	pieprz	25	1/2 łyżeczki pieprzu	3
+235	łopatka wieprzowa	26	500g łopatki wieprzowej	500
+236	papryka czerwona	26	1 średnia czerwona papryka	250
+237	marchew	26	1 duża marchewki	150
+238	cebula	26	1,5 średniej cebuli	150
+239	czosnek	26	2 ząbki czosnku	10
+240	olej	26	4 łyżki oleju	40
+241	bulion	26	1 szklanka bulionu	250
+242	koncentrat pomidorowy	26	1,5 łyżki koncetratu pomidorowego	15
+243	papryka słodka	26	1 łyżka słodkiej papryki	10
 244	sól	26	1/2 łyżeczki soli	3
 245	pieprz	26	1/2 łyżeczki pieprzu	3
-246	kurczak	27	mięso z kurczaka	500
-247	marchew	27	2 marchewki	180
-248	pietruszka	27	1 pietruszka	170
-249	bulion	27	2.5 szklanki bulionu	625
-250	groch	27	100 g mrożonego groszku	100
-251	mąka pszenna	27	2 łyżki mąki pszennej	20
-252	masło klarowane	27	2 łyżki masła klarowanego	20
+246	kurczak	27	350g mięsa z kurczaka	350
+247	marchew	27	1 marchewka	100
+248	pietruszka	27	1 mała pietruszka	140
+249	bulion	27	2 szklanki bulionu	500
+250	groch	27	75 g mrożonego groszku	75
+251	mąka pszenna	27	1 łyżka mąki pszennej	10
+252	masło klarowane	27	1 łyżka masła klarowanego	10
 253	sól	27	1 łyżka soli	10
 254	pieprz	27	1 łyżka pieprzu	10
-255	makaron spaghetti	28	500 g suchego makaronu spaghetti	500
-256	boczek surowy wedzony	28	300 g surowy boczek	300
-257	jajko	28	8 żółtek dużych jajek lub 5 żółtek i dwa całe jajka	440
-258	ser owczy	28	100 g sera owczego Pecorino Romano lub Parmigiano Reggiano	100
-259	pieprz	28	2 łyżki pieprzu	20
-260	schab	29	1 kg schabu środkowego lub od karku	1000
-261	śliwka suszona	29	do 150 g suszonych śliwek	150
-262	czosnek	29	3 ząbki czosnku	15
-263	olej	29	2 łyżki oleju	20
-264	woda	29	pół szklanki wody	125
-265	majeranek	29	łyżka majeranku	10
-266	sól	29	łyżeczka soli	6
+255	makaron spaghetti	28	300 g suchego makaronu spaghetti	300
+256	boczek surowy wedzony	28	200 g surowy boczek	200
+257	jajko	28	6 żółtek dużych jajek lub 4 żółtka i dwa całe jajka	420
+258	ser owczy	28	70 g sera owczego Pecorino Romano lub Parmigiano Reggiano	70
+259	pieprz	28	1,5 łyżki pieprzu	15
+260	schab	29	500g schabu środkowego lub od karku	500
+261	śliwka suszona	29	do 100 g suszonych śliwek	100
+262	czosnek	29	2 ząbki czosnku	10
+263	olej	29	1 łyżka oleju	10
+264	woda	29	80ml wody	80
+265	majeranek	29	1/2 łyżki majeranku	5
+266	sól	29	1/2 łyżeczki soli	3
 267	pieprz	29	1/2 łyżeczki pieprzu	3
 268	pieprz ziołowy	29	1/2 pieprzu ziołowego	3
 269	pierś z kurczaka	30	1 pierś z kurczaka (dwa filety)	650
@@ -276,19 +276,19 @@
 276	sól	30	łyżeczka soli	6
 277	pieprz	30	łyżka pieprzu	10
 278	chili	30	łyżka chili	10
-279	łopatka wieprzowa	31	600 g mielonej łopatki wieprzowej	600
-280	cebula	31	duża cebula	230
-281	pieczarka	31	5 pieczarek	240
-282	czosnek	31	3 ząbki czosnku	15
-283	olej	31	3 łyżki oleju	30
-284	papryka słodka	31	łyżeczka słodkiej papryki	6
+279	łopatka wieprzowa	31	300 g mielonej łopatki wieprzowej	300
+280	cebula	31	1 cebula	160
+281	pieczarka	31	2 duże pieczarki	120
+282	czosnek	31	2 ząbki czosnku	10
+283	olej	31	1,5 łyżki oleju	15
+284	papryka słodka	31	1/2 łyżeczki słodkiej papryki	3
 285	sól	31	1/2 łyżeczki soli	3
 286	chili	31	1/3 łyżeczki chili	2
 287	pieprz	31	1/3 łyżeczki pieprzu	2
-288	makaron	31	400 g suchego makaronu	400
-289	pomidor	31	5 pomidorów malinowyc	800
-290	ser żółty	31	400 g żółtego sera	400
-291	natka pietruszki	31	mały pęczek natki pietruszki	40
+288	makaron	31	200 g suchego makaronu	200
+289	pomidor	31	2 duże pomidory malinowe	400
+290	ser żółty	31	200 g żółtego sera	200
+291	natka pietruszki	31	połowa małego pęczka natki pietruszki	30
 292	schab	32	400 g schabu	400
 293	jajko	32	1 średnie jajko	55
 294	majonez	32	1 łyżka majonezu	10
@@ -299,39 +299,39 @@
 299	pieprz	32	1/3 łyżeczki pieprzu	2
 300	bułka tarta	32	4 łyżki bułki tartej	40
 301	olej	32	5 łyżek oleju	50
-302	schab	33	1.5 kg schabu środkowego bez kości	1500
-303	sól	33	2 łyżki soli	20
-304	majeranek	33	3 łyżki majeranku	30
-305	czosnek	33	6 ząbków czosnku	30
-306	pieprz ziołowy	33	1 łyżeczka pieprzu ziołowego	6
+302	schab	33	750g schabu środkowego bez kości	750
+303	sól	33	1 łyżka soli	10
+304	majeranek	33	2 łyżki majeranku	20
+305	czosnek	33	3 ząbki czosnku	15
+306	pieprz ziołowy	33	1/2 łyżeczki pieprzu ziołowego	3
 307	pieprz	33	1/2 łyżeczki pieprzu	3
-308	olej	33	2 łyżki oleju	20
-309	ziemniak	34	2 kg ziemniaków	2000
-310	cebula	34	5 średnich cebul	500
-311	boczek surowy	34	400 g boczku surowego wędzonego	400
-312	ser zółty	34	100 g żółtego sera	100
-313	ser cheddar	34	50 g sera cheddar	50
-314	śmietana 30%	34	150 g śmietanki 30 %	150
-315	jajko	34	2 duże jajka	110
-316	olej	34	3 łyżki oleju	30
-317	gałka muszkatołowa	34	łyżka gałki muszkatołowej	10
-318	sól	34	łyżka soli	10
-319	papryka słodka	34	łyżka słodkiej papryki	10
-320	pieprz	34	łyżeczka pieprzu	6
-321	boczek surowy	35	2 kg surowego boczku	2000
-322	majeranek	35	łyżka majeranku	10
-323	czosnek	35	4 ząbki czosnku	20
-324	śliwka suszona	35	6 suszonych śliwek	40
-325	gorczyca	35	1/2 łyżeczki gorczycy	3
-326	kolendra	35	1/2 łyżeczki kolendry	3
-327	papryka słodka	35	1/2 łyzeczki słodkiej papryki	3
+308	olej	33	1 łyżka oleju	10
+309	ziemniak	34	1 kg ziemniaków	1000
+310	cebula	34	2,5 średniej cebuli	250
+311	boczek surowy	34	200 g boczku surowego wędzonego	200
+312	ser żółty	34	50 g żółtego sera	50
+313	ser cheddar	34	25 g sera cheddar	25
+314	śmietana 30%	34	75 g śmietanki 30 %	75
+315	jajko	34	1 duże jajko	60
+316	olej	34	1,5 łyżki oleju	15
+317	gałka muszkatołowa	34	1/2 łyżki gałki muszkatołowej	5
+318	sól	34	1/2 łyżki soli	5
+319	papryka słodka	34	1/2 łyżki słodkiej papryki	5
+320	pieprz	34	1/2 łyżeczki pieprzu	3
+321	boczek surowy	35	600g surowego boczku	600
+322	majeranek	35	1/2 łyżki majeranku	5
+323	czosnek	35	2 ząbki czosnku	10
+324	śliwka suszona	35	2 małe suszone śliwki	12
+325	gorczyca	35	1/3 łyżeczki gorczycy	2
+326	kolendra	35	1/3 łyżeczki kolendry	2
+327	papryka słodka	35	1/3 łyzeczki słodkiej papryki	2
 328	kminek	35	1/3 łyżeczki kminku	2
 329	chili	35	1/3 łyżeczki chili	2
-330	kacza noga	36	4 kacze nogi/udka - 1 kg	1000
-331	Vegeta Natur	36	opakowanie Vegeta Natur	150
-332	ananas	36	4 plastry ananasa z puszki	120
-333	żurawina	36	duża garść żurawiny	100
-334	miód	36	łyżka miodu	10
+330	kacza noga	36	2 kacze nogi/udka - 0,5 kg	500
+331	Vegeta Natur	36	pół opakowania Vegeta Natur	70
+332	ananas	36	2 plastry ananasa z puszki	60
+333	żurawina	36	garść żurawiny	60
+334	miód	36	1/2 łyżki miodu	5
 335	pomidor	37	500 g świeżych pomidorów	500
 336	jajko	37	3 średnie lub duże jajka	160
 337	oliwa	37	2 łyżki oliwy	20
@@ -342,39 +342,39 @@
 342	gałka muszkatołowa	37	łyżeczka gałki muszkatołowej	6
 343	kminek	37	łyżeczka kminku	6
 344	kolendra i szczypior	37	świeża kolendra i szczypior	12
-345	twaróg tłusty	38	600 g twarogu tłustego	600
-346	śmietana 18%	38	200 g śmietany kwaśnej 18 %	200
-347	cebula	38	mała cebula 	60
+345	twaróg tłusty	38	300 g twarogu tłustego	300
+346	śmietana 18%	38	100 g śmietany kwaśnej 18%	100
+347	cebula	38	ćwierć małej cebula 	40
 348	sól	38	1 łyżeczka soli	6
 349	pieprz	38	1/3 łyżeczki pieprzu	2
 350	cukier	38	łyżeczka cukru	6
-351	ziemniak	39	trochę ponad 1 kg ziemniaków	1100
-352	mąka pszenna	39	1 szklanka mąki pszennej	250
+351	ziemniak	39	0,5 kg ziemniaków 	500
+352	mąka pszenna	39	pół szklanki mąki pszennej 	125
 353	jajko	39	2 jajka	100
 354	sól	39	1 łyżeczka soli	6
-355	marchew	40	1 kg marchewki	1000
-356	groch	40	puszka groszku	400
-357	masło	40	2 łyżki masła	20
-358	mąka pszenna	40	łyżka maki pszennej	10
-359	woda	40	szklanka wody	250
-360	sól	40	łyżeczka soli	6
-361	cukier	40	łyżeczka cukru	6
+355	marchew	40	0,5 kg marchewki	500
+356	groch	40	pół puszki groszku	200
+357	masło	40	1 łyżka masła	10
+358	mąka pszenna	40	pół łyżki maki pszennej	5
+359	woda	40	pół szklanki wody	125
+360	sól	40	1/2 łyżeczki soli	3
+361	cukier	40	1/2 łyżeczki cukru	3
 362	cukinia	41	2 średnie cukinie	680
 363	czosnek	41	3 ząbki czosnku	15
 364	oliwa	41	3 łyżki oliwy	30
-365	parmezan	41	40 g sera typu parmezan	40
-366	natka pietruszki	41	mała garść natki pietruszki	20
+365	parmezan	41	50 g sera typu parmezan	50
+366	natka pietruszki	41	garść natki pietruszki	40
 367	sól	41	1/2 łyżeczki soli	3
 368	pieprz	41	1/3 łyżeczki pieprzu	2
 369	bazylia	42	pęczek bazylii	60
 370	orzeszki piniowe	42	garść orzeszków piniowych	50
 371	parmezan	42	kawałek sera parmezan	50
-372	oliwa	42	1/3 szklanki oliwy	80
+372	oliwa	42	¼ szklanki oliwy	60
 373	czosnek	42	2 ząbki czosnku	10
 374	sól	42	1/2 łyżeczki soli	3
 375	pieprz	42	1/2 łyżeczki pieprzu	2
-376	ziemniak	43	1 kg ziemniaków	1000
-377	olej	43	1000 ml oleju	40
+376	ziemniak	43	0,5 kg ziemniaków	500
+377	olej	43	50 ml oleju	50
 378	sól	43	łyżeczka soli	6
 379	ziemniak	44	1 kg obranych ziemniaków	1000
 380	jajko	44	2 średnie lub małe jajka	110
@@ -385,14 +385,14 @@
 385	sól	44	łyżeczka soli	6
 386	pieprz	44	łyżeczka pieprzu	6
 387	olej	44	6 łyżek oleju	60
-388	mąka pszenna	45	500 g mąki pszennej	500
-389	woda	45	szklanka ciepłej wody	250
-390	olej	45	4 łyżki oleju	40
+388	mąka pszenna	45	300 g mąki pszennej	300
+389	woda	45	150ml wody	150
+390	olej	45	2 łyżki oleju	20
 391	sól	45	1/2 łyżeczki soli	3
-392	twaróg półtłusty	45	300 g twarogu półtłustego	300
-393	cebula	45	duża cebula	300
-394	ziemniak	45	500 g ugotowanych ziemniaków	500
-395	masło klarowane	45	2 łyżki masła klarowanego	20
+392	twaróg półtłusty	45	180 g twarogu półtłustego	180
+393	cebula	45	średnia cebula	180
+394	ziemniak	45	300 g ugotowanych ziemniaków	300
+395	masło klarowane	45	1 łyżka masła klarowanego	10
 396	sól	45	1/2 łyżeczki soli	3
 397	pieprz	45	1/2 łyżeczki pieprzu	3
 398	mąka pszenna	46	300 g mąki pszennej	300
@@ -469,13 +469,13 @@
 469	sól	55	1/2 łyżeczki soli	3
 470	pieprz	55	1/3 łyżeczki pieprzu	2
 471	oliwa	55	2 łyżki delikatnej oliwy	20
-472	łosoś	56	2 płaty z łososia ze skórą	550
-473	masło klarowane	56	2 łyżki masła klarowanego	20
+472	łosoś	56	1 płat z łososia ze skórą	240
+473	masło klarowane	56	1 łyżka masła klarowanego	10
 474	pieprz	56	łyżka pieprzu	10
 475	sól	56	łyżka soli	10
-476	śledź bałtycki	57	7 tuszek śledzi bałtyckich	500
-477	olej	57	5 łyżek oleju	50
-478	mąka pszenna	57	2 łyżki mąki pszennej	20
+476	śledź bałtycki	57	5 tuszek śledzi bałtyckich	400
+477	olej	57	3 łyżek oleju	30
+478	mąka pszenna	57	1,5 łyżki mąki pszennej	15
 479	sól	57	1/2 łyżeczki soli	3
 480	pieprz	57	1/2 łyżeczki pieprzu	3
 481	czosnek suszony	57	łyżeczka suszonego czosnku	6
@@ -552,22 +552,22 @@
 552	pieprz ziołowy	65	szczypta pieprzy ziołowego	0.25
 553	cząber	65	szczypta cząbru	1
 554	jajko	65	jajko	55
-555	mąka pszenna	66	50g mąki pszennej	50
-556	mąka ziemniaczana	66	15g mąki ziemniaczanej	15
-557	woda gazowana	66	50ml wody gazowanej	50
-558	jajko	66	jajko	55
-559	sól	66	sczypta soli	0.25
-560	proszek do pieczenia	66	łyżeczka proszku do pieczenia	6
-561	krewetka	66	3 krewetki z ogonkami	45
-562	krążki z kalmara	66	3 krążki z kalmara	30
-563	ośmiornica	66	3 małe ośmiornice	150
-564	cebula	66	20g cebuli	20
-565	cukinia	66	25g cukinii	25
-566	papryka czerwona	66	70g papryki czerwonej	70
-567	sos sojowy	66	25ml sosu sojowego	25
-568	limonka	66	25g limonki	25
+555	mąka pszenna	66	25g mąki pszennej	25
+556	mąka ziemniaczana	66	10g mąki ziemniaczanej	10
+557	woda gazowana	66	25ml wody gazowanej	50
+558	jajko	66	małe jajko	40
+559	sól	66	sczypta soli	0.2
+560	proszek do pieczenia	66	1/2 łyżeczki proszku do pieczenia	3
+561	krewetka	66	2 krewetki z ogonkami	30
+562	krążki z kalmara	66	2 krążki z kalmara	20
+563	ośmiornica	66	1 mała ośmiornica	50
+564	cebula	66	10g cebuli	10
+565	cukinia	66	15g cukinii	15
+566	papryka czerwona	66	40g papryki czerwonej	40
+567	sos sojowy	66	15ml sosu sojowego	15
+568	limonka	66	15g limonki	15
 569	chrzan	66	1g chrzanu	1
-570	olej	66	250ml oleju	250
+570	olej	66	125ml oleju	125
 571	filet z piersi kurczaka	67	150g filetu z piersi kurczaka	150
 572	czosnek	67	ząbek czosnku	7
 573	przecier pomidorowy	67	70ml przecieru pomidorowego	70
@@ -685,14 +685,14 @@
 685	cynamon	78	1/4 łyżeczki cynamonu	1.25
 686	olej	78	20ml oleju	20
 687	masło	78	25g masła do smażenia	25
-688	tofu	79	1/2 tofu	12.5
-689	olej	79	łyżeczka oleju	6
-690	pomidor koktajlowy	79	4 pomidory koktajlowe	45
-691	szpinak	79	15g szpinaku	15
-692	woda	79	15ml wody	15
-693	bazylia	79	garść bazylii	3
-694	przyprawa włoska	79	1/2 łyżeczki przyprawy włoskiej	3
-695	kurkuma	79	1/4 łyżeczki kurkumy	3
+688	tofu	79	1 tofu	25
+689	olej	79	2 łyżeczki oleju	12
+690	pomidor koktajlowy	79	8 pomidorów koktajlowych	80
+691	szpinak	79	30g szpinaku	30
+692	woda	79	30ml wody	30
+693	bazylia	79	1 łyżczeka bazylii	6
+694	przyprawa włoska	79	1 łyżeczka przyprawy włoskiej	6
+695	kurkuma	79	1/2 łyżeczki kurkumy	3
 696	kasza jaglana	80	1/4 szklanki kaszy jaglanej	65
 697	napój sojowy	80	szklanka napoju sojowego	250
 698	miód	80	łyżka miodu	25
@@ -739,7 +739,7 @@
 739	oliwa z oliwek	86	4 łyżki oliwy z oliwek	40
 740	ciabatta	87	ciabatta	80
 741	oliwa z oliwek	87	łyżka oliwy z oliwek	10
-742	majonez 	87	łyżka majonezu	10
+742	majonez	87	łyżka majonezu	10
 743	łosoś	87	60g łososia wędzonego	60
 744	awokado	87	awokado	150
 745	jajko	87	jajko	55
@@ -748,8 +748,8 @@
 748	kiełki rzodkiewki	87	łyżka kiełków rzodkiewki	8
 749	ziarna czarnuszki	87	1/4 łyżeczki zieren czarnuszki	3
 750	chleb tostowy	88	4 kromki chleba tostowego	100
-751	ser zółty	88	25g sera żółtego	25
-752	majonez 	88	łyżka majonezu	10
+751	ser żółty	88	25g sera żółtego	25
+752	majonez	88	łyżka majonezu	10
 753	szynka	88	50g szynki	50
 754	ziemniak	89	50g ziemniaków	50
 755	cebula	89	1/4 cebuli	23
@@ -848,8 +848,8 @@
 848	pomidor	99	pomidor	180
 849	jajko	99	jajko	55
 850	woda	99	łyżka wody	10
-851	ser zółty	99	plaster sera	30
-852	razowy chleb	100	kromka chleba razowego	35
+851	ser żółty	99	plaster sera	30
+852	chleb razowy	100	kromka chleba razowego	35
 853	jajko	100	2 jajka	110
 854	mleko	100	łyżka mleka	10
 855	oscypek	100	1/4 oscypka	8
@@ -953,52 +953,52 @@
 953	ser feta	111	125 g sera feta	125
 954	czarna oliwka	111	czarne oliwki	50
 955	bagietka	111	bagietka	140
-956	makaron Rigatoni	112	250 g makaronu (np. większego jak Rigatoni, Peccheri)	250
-957	pomidor	112	600 g pomidorów	600
+956	makaron Rigatoni	112	120 g makaronu (np. większego jak Rigatoni, Peccheri)	120
+957	pomidor	112	300 g pomidorów	300
 958	czosnek	112	1 ząbek czosnku	5
 959	bazylia	112	ok. pół szklanki listków bazylii	22
-960	mozzarella	112	1 kulka białej mozzarelli (np. burrata lub zwykła)	125
-961	sól morska	112	sól morska	3
+960	ser mozzarella	112	pół kulki białej mozzarelli (np. burrata lub zwykła)	65
+961	sól morska	112	1/3 łyżeczki soli morskiej	25
 962	pieprz	112	świeżo zmielony pieprz	2
-963	oliwa	112	4 łyżki oliwy extra vergine	40
-964	krewetka	113	350 g krewetek	350
-965	chorizo	113	150 g chorizo	150
-966	bulion drobiowy	113	750 ml bulionu drobiowego	750
-967	cebula	113	1 mała cebula	70
-968	papryka	113	300 g papryki (np. różnokolorowej)	300
-969	seler	113	3 łodygi selera naciowego	135
-970	czosnek	113	3 ząbki czosnku	15
-971	masło	113	3 łyżki masła	30
-972	mąka pszenna	113	3 łyżki mąki pszennej	30
-973	suszone oregano	113	1 łyżeczka suszonego oregano	4
-974	tymianek	113	1 łyżeczka tymianku	4
+963	oliwa	112	2 łyżki oliwy extra vergine	20
+964	krewetka	113	180 g krewetek	180
+965	chorizo	113	75 g chorizo	75
+966	bulion drobiowy	113	380 ml bulionu drobiowego	380
+967	cebula	113	pół małej cebuli	40
+968	papryka	113	150 g papryki (np. różnokolorowej)	150
+969	seler	113	1.5 łodygi selera naciowego	70
+970	czosnek	113	2 ząbki czosnku	10
+971	masło	113	2 łyżki masła	20
+972	mąka pszenna	113	1,5 łyżki mąki pszennej	15
+973	suszone oregano	113	1/2 łyżeczka suszonego oregano	3
+974	tymianek	113	1/2 łyżeczki tymianku	2
 975	sól	113	1/2 łyżeczki soli	3
 976	papryka wędzona	113	1/2 łyżeczki wędzonej papryki	3
 977	granulowany czosnek	113	1/2 łyżeczki granulowanego czosnku	3
 978	papryka ostra	113	1/4 łyżeczki ostrej papryki lub pieprzu cayenne	1
 979	pieprz	113	szczypta mielonego pieprzu	2
 980	pieprz biały	113	szczypta białego pieprzu	2
-981	sos Worcestershire	113	3 łyżki sosu Worcestershire	30
-982	sok z cytryny	113	2 łyżki soku z cytryny	20
+981	sos Worcestershire	113	2 łyżki sosu Worcestershire	20
+982	sok z cytryny	113	1 łyżka soku z cytryny	10
 983	szczypiorek	113	posiekany szczypiorek	20
 984	pietruszka	113	natka pietruszki	20
-985	ryż	113	200 g ryżu	200
-986	cebula czerwona	114	1 czerwona cebula	110
-987	batat	114	1 mały batat (300 g)	300
-988	papryka czerwona	114	1 czerwona papryka	200
-989	czosnek	114	3 ząbki czosnku	15
-990	korzeń imbiru	114	1,5 cm korzenia imbiru	10
-991	olej	114	2 łyżki oleju (np. kokosowego)	20
-992	kurkuma	114	1 łyżeczka kurkumy	6
-993	papryka słodka	114	1 łyżeczka słodkiej papryki	6
-994	kmin rzymski	114	1 łyżeczka kminu rzymskiego	6
+985	ryż	113	100 g ryżu	100
+986	cebula czerwona	114	pół czerwonej cebuli	60
+987	batat	114	pół małego batatu (150 g)	150
+988	papryka czerwona	114	pół czerwonej papryki	100
+989	czosnek	114	2 ząbki czosnku	10
+990	korzeń imbiru	114	1 cm korzenia imbiru	8
+991	olej	114	1 łyżka oleju (np. kokosowego)	10
+992	kurkuma	114	1/2 łyżeczki kurkumy	3
+993	papryka słodka	114	1/2 łyżeczki słodkiej papryki	3
+994	kmin rzymski	114	1/2 łyżeczki kminu rzymskiego	3
 995	przyprawa curry	114	1/2 łyżeczki przyprawy curry	3
-996	chili	114	szczypta chili	1
-997	soczewica	114	300 g (1 i 1/2 szklanki) czerwonej soczewicy	300
-998	bulion jarzynowy	114	750 ml bulionu jarzynowego	750
-999	mleko kokosowe	114	125 ml mleka kokosowego (lub śmietanki 18% do zup i sosów)	125
-1000	ryż	114	200 g ryżu	200
-1001	kolendra	114	świeża kolendra	20
+996	chili	114	mała szczypta chili	1
+997	soczewica	114	150 g czerwonej soczewicy	150
+998	bulion jarzynowy	114	380 ml bulionu jarzynowego	380
+999	mleko kokosowe	114	60 ml mleka kokosowego (lub śmietanki 18% do zup i sosów)	60
+1000	ryż	114	100 g ryżu	100
+1001	kolendra	114	pół świeżej kolendry	10
 1002	kasza jęczmienna pęczak	115	1/2 szklanki kaszy jęczmiennej pęczak	90
 1003	jarmuż	115	2 szklanki ciętych liści jarmużu	90
 1004	olej	115	2 łyżki oleju	20
@@ -1012,23 +1012,23 @@
 1012	kurkuma	115	1 łyżeczka kurkumy	6
 1013	papryka słodka	115	1 łyżeczka słodkiej papryki	6
 1014	kmin rzymski	115	1 łyżeczka kminu rzymskiego	6
-1015	suszone grzyby	116	40 g suszonych grzybów	40
-1016	boczek	116	200 g boczku	200
-1017	mięso gulaszowe wieprzowe	116	400 g mięsa gulaszowego wieprzowego	400
-1018	mięso gulaszowe wołowe	116	400 g mięsa gulaszowego wołowego	400
-1019	olej	116	3 łyżki oleju	30
-1020	bulion wołowy	116	1 litr bulionu wołowego	1000
-1021	kapusta biała	116	1 kg świeżej białej kapusty	1000
-1022	kiszona kapusta	116	500 g kiszonej kapusty (waga po odciśnięciu)	500
-1023	suszona śliwka	116	100 g suszonych śliwek	100
-1024	cebula	116	2 cebule	220
-1025	chorizo	116	250 g kiełbasy chorizo	250
-1026	koncentrat pomidorowy	116	1 łyżka koncentratu pomidorowego	10
-1027	liść laurowy	116	3 liście laurowe	18
+1015	suszone grzyby	116	10 g suszonych grzybów	10
+1016	boczek	116	50 g boczku	50
+1017	mięso gulaszowe wieprzowe	116	100 g mięsa gulaszowego wieprzowego	100
+1018	mięso gulaszowe wołowe	116	100 g mięsa gulaszowego wołowego	100
+1019	olej	116	1 łyżka oleju	10
+1020	bulion wołowy	116	szklanka bulionu wołowego	250
+1021	kapusta biała	116	250 g świeżej białej kapusty	250
+1022	kapusta kiszona	116	125 g kiszonej kapusty (waga po odciśnięciu)	125
+1023	suszona śliwka	116	25 g suszonych śliwek	25
+1024	cebula	116	pół cebuli	60
+1025	chorizo	116	70 g kiełbasy chorizo	70
+1026	koncentrat pomidorowy	116	1/2 łyżki koncentratu pomidorowego	5
+1027	liść laurowy	116	1 liść laurowy	6
 1028	ziele angielskie	116	kulki ziela angielskiego	5
-1029	jałowiec	116	kulki jałowca	5
+1029	jałowiec	116	2 kulki jałowca	4
 1030	kminek	116	1/2 łyżeczki kminku	3
-1031	papryka ostra	116	szczypta ostrej papryki	2
+1031	papryka ostra	116	mała szczypta ostrej papryki	2
 1032	batat	117	1 batat	300
 1033	jogurt naturalny	117	100 g jogurtu naturalnego	100
 1034	jajko	117	2 jajka	110
@@ -1136,18 +1136,18 @@
 1136	oregano	125	oregano	6
 1137	pomidor	125	1 większy pomidor	200
 1138	mozarella	125	125 g mini mozzarelli (kuleczki)	125
-1139	olej	126	2 łyżki oleju roślinnego	20
-1140	cebula	126	1 cebula	110
-1141	boczek parzony	126	150 g parzonego boczku	150
-1142	kiełbasa wiejska	126	400 g kiełbasy	400
-1143	bulion	126	500 ml bulionu	500
-1144	ziemniak	126	3 ziemniaki	270
-1145	majeranek	126	2 łyżeczki majeranku	8
-1146	papryka słodka	126	1 łyżeczka słodkiej papryki	6
+1139	olej	126	1 łyżka oleju roślinnego	10
+1140	cebula	126	pół cebuli	60
+1141	boczek parzony	126	70 g parzonego boczku	70
+1142	kiełbasa wiejska	126	200 g kiełbasy	200
+1143	bulion	126	250 ml bulionu	250
+1144	ziemniak	126	1,5 ziemniaka	140
+1145	majeranek	126	1 łyżeczka majeranku	6
+1146	papryka słodka	126	1/2 łyżeczki słodkiej papryki	3
 1147	pieprz cayenne	126	1/2 łyżeczki pieprzu cayenne	3
-1148	papryka czerwona	126	1 czerwona papryka	200
-1149	cukinia	126	1 cukinia (ok. 300 g)	300
-1150	passata	126	2/3 szklanki passaty	170
+1148	papryka czerwona	126	pół czerwonej papryki	100
+1149	cukinia	126	pół cukinii (ok. 150 g)	150
+1150	passata	126	1/3 szklanki passaty	80
 1151	boczek wędzony	127	125 g boczku wędzonego	125
 1152	sałata	127	8 liści sałaty	280
 1153	pomidor	127	2 pomidory	340
@@ -1162,16 +1162,16 @@
 1162	pomidor koktajlowy	128	250 g pomidorków koktajlowych (lub 2 pomidory)	250
 1163	cebula	128	ćwiartka cebuli (np. młodej)	27
 1164	oliwa	128	oliwa extra vergine	20
-1165	chorizo	129	200 g kiełbasy chorizo* (np. pikantnej)	200
-1166	oliwa	129	1 łyżka oliwy	10
-1167	cebula	129	1 cebula	110
-1168	czosnek	129	2 ząbki czosnku	10
-1169	papryka	129	1 papryka	200
-1170	cukinia	129	1 cukinia	300
-1171	bulion	129	2/3 szklanki bulionu	170
-1172	ciecierzyca	129	1 puszka ciecierzycy	400
-1173	oregano	129	1 łyżeczka oregano	4
-1174	passata	129	250 ml passaty	250
+1165	chorizo	129	100 g kiełbasy chorizo* (np. pikantnej)	100
+1166	oliwa	129	1/2 łyżki oliwy	5
+1167	cebula	129	pół cebuli	60
+1168	czosnek	129	1 ząbek czosnku	5
+1169	papryka	129	1/2 papryki	100
+1170	cukinia	129	1/2 cukinii	150
+1171	bulion	129	1/3 szklanki bulionu	80
+1172	ciecierzyca	129	pół puszki ciecierzycy	200
+1173	oregano	129	1/2 łyżeczki oregano	3
+1174	passata	129	125 ml passaty	125
 1175	ziemniak	130	1 duży ziemniak	160
 1176	batat	130	1 średni batat (słodki ziemniak)	300
 1177	papryka czerwona	130	1 papryka czerwona	200
@@ -1182,18 +1182,18 @@
 1182	oliwa	130	4 łyżki oliwy extra	40
 1183	pieprz	130	zmielony czarny pieprz z młynka	2
 1184	ser feta	130	ser feta	125
-1185	oliwa	131	2 łyżki oliwy	20
-1186	cebula	131	1 cebula	110
-1187	boczek parzony	131	150 g parzonego boczku	150
-1188	kiełbasa wiejska	131	300 g kiełbasy (np. wiejskiej)	300
-1189	bulion	131	500 ml bulionu	500
-1190	ziemniak	131	3 ziemniaki	270
-1191	majeranek	131	1 łyżka majeranku	8
-1192	papryka	131	1 łyżeczka papryki	6
-1193	pieprz	131	zmielony pieprz	2
-1194	papryka czerwona	131	1/2 czerwonej papryki	100
-1195	passata	131	1/2 szklanki passaty	120
-1196	chleb	131	2 kromki chleba	70
+1185	oliwa	131	1 łyżka oliwy	10
+1186	cebula	131	pół cebuli	60
+1187	boczek parzony	131	70 g parzonego boczku	70
+1188	kiełbasa wiejska	131	150 g kiełbasy (np. wiejskiej)	150
+1189	bulion	131	250 ml bulionu	250
+1190	ziemniak	131	2 ziemniaki	160
+1191	majeranek	131	1/2 łyżki majeranku	5
+1192	papryka	131	1/2 łyżeczki papryki	3
+1193	pieprz	131	mała szczypta zmielonego pieprzu	2
+1194	papryka czerwona	131	1/4 czerwonej papryki	50
+1195	passata	131	1/4 szklanki passaty	60
+1196	chleb	131	1 kromka chleba	40
 1197	chleb	132	kromka pieczywa	35
 1198	masło	132	masło	15
 1199	rukola	132	kilka listków rukoli	20
@@ -1207,7 +1207,7 @@
 1207	czosnek	133	2 ząbki czosnku	10
 1208	masło	133	2 łyżki masła	20
 1209	słodki sos chilli	133	2 łyżki słodkiego sosu chilli	20
-1210	sos worcestershire	133	2 łyżki sosu worcestershire	20
+1210	sos Worcestershire	133	2 łyżki sosu worcestershire	20
 1211	bulion	133	1/4 szklanki bulionu	30
 1212	sok z cytryny	133	2 łyżki soku z cytryny	20
 1213	cukier	133	1/2 łyżeczki cukru	3
@@ -1235,16 +1235,16 @@
 1235	limonka	135	1/4 limonki	25
 1236	sezam	135	2 łyżki lekko podprażonego sezamu	20
 1237	mięta	135	listki mięty do dekoracji	20
-1238	batat	136	500 g batatów	500
-1239	mielona kolendra	136	2 łyżeczki mielonej kolendry	20
-1240	kmin rzymski	136	2 łyżeczki kminu rzymskiego	20
-1241	papryka ostra	136	1 łyżeczka ostrej papryki	10
-1242	oliwa	136	4 łyżki oliwy z pierwszego tłoczenia	40
-1244	kolendra	136	1 "doniczka" kolendry	100
-1245	oliwa z pierwszego tłoczenia	136	4 łyżki oliwy z pierwszego tłoczenia	40
+1238	batat	136	250 g batatów	250
+1239	mielona kolendra	136	1 łyżeczka mielonej kolendry	6
+1240	kmin rzymski	136	1 łyżeczka kminu rzymskiego	6
+1241	papryka ostra	136	1 łyżeczka ostrej papryki	6
+1242	oliwa	136	2 łyżki oliwy z pierwszego tłoczenia	20
+1244	kolendra	136	"pół ""doniczki"" kolendry"	50
+1245	oliwa z pierwszego tłoczenia	136	2 łyżki oliwy z pierwszego tłoczenia	20
 1246	czosnek	136	1/2 ząbka czosnku	3
-1247	sok z cytryny	136	1 łyżka soku z cytryny	10
-1248	hummus	136	ok. 300 g hummusu do podania	300
+1247	sok z cytryny	136	pół łyżki soku z cytryny	5
+1248	hummus	136	ok. 150 g hummusu do podania	150
 1249	krewetka	137	500 g krewetek (obranych, oczyszczonych)	500
 1250	masło	137	60 g masła	60
 1251	czosnek	137	3 ząbki czosnku	15
@@ -1279,7 +1279,7 @@
 1280	czosnek	140	2 ząbki czosnku	10
 1281	bułka tarta	140	4 łyżki bułki tartej	40
 1282	jajko	140	3 jajka	165
-1283	ser zółty	140	50 g tartego sera żółtego	50
+1283	ser żółty	140	50 g tartego sera żółtego	50
 1284	parmezan	140	50 g tartego parmezanu	50
 1285	szczypiorek	140	1/2 pęczka szczypiorku	50
 1286	oliwa	140	1 łyżeczka oliwy extra vergine	10
@@ -1365,3 +1365,4 @@
 1366	mleko	150	2 szklanki mleka	460
 1367	malina	150	ok. 1/2 szklanki malin (świeżych lub mrożonych)	50
 1368	syrop malinowy	150	3 łyżki syropu/soku malinowego	30
+1369	makaron	42	100g makaronu	100

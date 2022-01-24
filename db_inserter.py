@@ -23,22 +23,25 @@ def main():
             meals_ingredients_arr[:, 1], ingredients)
 
         insert_meals(meals)
+        print('Inserted meals')
         insert_ingredients(ingredients)
+        print('Inserted ingredients')
         insert_meals_ingredients(meals_ingredients_arr)
+        print('Inserted meals_ingredients_arr')
 
-        all_meals = select_all_from_table_request('meal').fetchall()
-        print(all_meals)
+        # all_meals = select_all_from_table_request('meal').fetchall()
+        # print(all_meals)
 
-        all_ingredients = select_all_from_table_request(
-            'ingredient').fetchall()
-        print(all_ingredients)
+        # all_ingredients = select_all_from_table_request(
+        #     'ingredient').fetchall()
+        # print(all_ingredients)
 
-        all_meal_ingredients = select_all_from_table_request(
-            'meal_ingredient').fetchall()
-        print(all_meal_ingredients)
+        # all_meal_ingredients = select_all_from_table_request(
+        #     'meal_ingredient').fetchall()
+        # print(all_meal_ingredients)
 
-        meals_with_nutriments = get_all_meals_with_nutriments()
-        print(meals_with_nutriments)
+        # meals_with_nutriments = get_all_meals_with_nutriments()
+        # print(meals_with_nutriments)
 
 
 if __name__ == '__main__':
