@@ -45,10 +45,7 @@ def init_db():
 
 @app.route('/')
 def hello_world():
-    # docs = users_ref.stream()
-    # for doc in docs:
-    #     print(f'{doc.id} => {doc.to_dict()}')
-    return "Hello Wololo"
+    return "Hello World"
 
 
 @app.route(config.INSERT_MEAL)
@@ -74,134 +71,101 @@ def insert_meal():
 
 @app.route(config.MEALS)
 def get_meals():
-    meals = select_all_from_table_request('meal').fetchall()
+    try:
+        meals = select_all_from_table_request('meal').fetchall()
 
-    mealsJSON = []
-    for meal in meals:
-        id, name, desc, cat, classification = meal
-        mealsJSON.append(MealEntity(id, name, desc, cat).serialize())
+        mealsJSON = []
+        for meal in meals:
+            id, name, desc, cat, classification = meal
+            mealsJSON.append(MealEntity(id, name, desc, cat).serialize())
 
-    return jsonify(mealsJSON)
+        return jsonify(mealsJSON)
+    except:
+        return 'Exception'
 
 
 @app.route(config.MEALS + '<id>')
 def get_meal_by_id(id):
-    id, name, desc, cat, classification = select_by_id_request(
-        'meal', id).fetchone()
-    return MealEntity(id, name, desc, cat).serialize()
+    try:
+        id, name, desc, cat, classification = select_by_id_request(
+            'meal', id).fetchone()
+        return MealEntity(id, name, desc, cat).serialize()
+    except:
+        return 'Error', 400
 
 
 @app.route(config.INGREDIENTS)
 def get_ingredients():
-    ingredients = select_all_from_table_request('ingredient').fetchall()
-    ingredientsJSON = []
-    for ingredient in ingredients:
-        id, name, kcal, carbs, fats, prots, tags = ingredient
-        ingredientsJSON.append(IngredientEntity(
-            id, name, kcal, carbs, fats, prots, tags).serialize())
-    return jsonify(ingredientsJSON)
+    try:
+        ingredients = select_all_from_table_request('ingredient').fetchall()
+        ingredientsJSON = []
+        for ingredient in ingredients:
+            id, name, kcal, carbs, fats, prots, tags = ingredient
+            ingredientsJSON.append(IngredientEntity(
+                id, name, kcal, carbs, fats, prots, tags).serialize())
+        return jsonify(ingredientsJSON)
+    except:
+        return 'Exception'
 
 
 @app.route(config.INGREDIENTS + '<id>')
 def get_ingredient_by_id(id):
-    id, name, kcal, carbs, fats, prots, tags = select_by_id_request(
-        'ingredient', id).fetchone()
-    return IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize()
+    try:
+        id, name, kcal, carbs, fats, prots, tags = select_by_id_request(
+            'ingredient', id).fetchone()
+        return IngredientEntity(id, name, kcal, carbs, fats, prots, tags).serialize()
+    except:
+        return 'Exception'
 
 
 @app.route(config.MEALS_INGREDIENTS)
 def get_meals_ingredients():
-    meals_ingredients = select_all_from_table_request(
-        'meal_ingredient').fetchall()
-    meals_ingredientsJSON = []
-    for mi in meals_ingredients:
-        id, ing_id, meal_id, desc, amount = mi
-        meals_ingredientsJSON.append(MealIngredientEntity(
-            id, ing_id, meal_id, desc, amount).serialize())
-    return jsonify(meals_ingredientsJSON)
+    try:
+        meals_ingredients = select_all_from_table_request(
+            'meal_ingredient').fetchall()
+        meals_ingredientsJSON = []
+        for mi in meals_ingredients:
+            id, ing_id, meal_id, desc, amount = mi
+            meals_ingredientsJSON.append(MealIngredientEntity(
+                id, ing_id, meal_id, desc, amount).serialize())
+        return jsonify(meals_ingredientsJSON)
+    except:
+        return 'Exception'
 
 
 @app.route(config.MEALS_INGREDIENTS + '<id>')
 def get_meals_ingredients_by_id(id):
-    id, ing_id, meal_id, desc, amount = select_by_id_request(
-        'meal_ingredient', id).fetchone()
-    return MealIngredientEntity(id, ing_id, meal_id, desc, amount).serialize()
-
-
-# def foo():
-#     from random import randint
-#     id = 1
-#     meals = []
-#     for category in ("śniadanie", "obiad", "kolacja"):
-#         for _ in range(25):
-#             p = randint(10, 100)
-#             c = randint(10, 100)
-#             f = randint(10, 100)
-#             cal = 4 * (p + c) + 8 * f
-
-#             pref = []
-#             if randint(1, 3) == 1:
-#                 pref.append('mięso')
-#             if randint(1, 3) == 1:
-#                 pref.append('laktoza')
-#             if randint(1, 3) == 1:
-#                 pref.append('orzechy')
-
-#             result = 0
-#             if cal < 700:
-#                 result = -1
-#             if cal > 1100:
-#                 result = 1
-
-#             meal = {
-#                 'id': id,
-#                 'name': 'Meal' + str(id),
-#                 'proteins': p,
-#                 'carbohydrates': c,
-#                 'fat': f,
-#                 'cal': cal,
-#                 'category': category,
-#                 'preferences': pref,
-#                 'result': result
-#             }
-#             meals.append(meal)
-#             id += 1
-#     return meals
+    try:
+        id, ing_id, meal_id, desc, amount = select_by_id_request(
+            'meal_ingredient', id).fetchone()
+        return MealIngredientEntity(id, ing_id, meal_id, desc, amount).serialize()
+    except:
+        return 'Exception'
 
 
 @app.route(config.GENERATE_DIET)
 def generate_diet():
-    # from random import randint
-    # pref = []
-    # if randint(1, 3) == 1:
-    #     pref.append('mięso')
-    # if randint(1, 3) == 1:
-    #     pref.append('laktoza')
-    # if randint(1, 3) == 1:
-    #     pref.append('orzechy')
-    # input = calcInput(True, 22, 70, 175, 2, 1, pref)
-    # diet = DietGeneration(input, foo())
-    # return str(diet).replace("'", '"')
-    # try:
     uid = request.args.get('uid')
     if uid:
-        user = users_ref.document(uid).get().to_dict()
-        activity = user['activity']
-        age = user['age']
-        gender = user['gender']
-        goal = user['goal']
-        height = user['height']
-        weight = user['weight']
-        preferences = user['preferences']
-        input = calcInput(gender, age, weight, height,
-                          activity, goal, preferences)
-        meals = get_all_meals_with_nutriments_and_classification()
-        diet = DietGeneration(input, meals)
-        return jsonify(diet)
+        try:
+            user = users_ref.document(uid).get().to_dict()
+            activity = user['activity']
+            age = user['age']
+            gender = user['gender']
+            goal = user['goal']
+            height = user['height']
+            weight = user['weight']
+            preferences = user['preferences']
+        
+            input = calcInput(gender, age, weight, height,
+                  activity, goal, preferences)
+            meals = get_all_meals_with_nutriments_and_classification()
+            diet = DietGeneration(input, meals)
+            return jsonify(diet)
+        except:
+            return 'Error', 400
     else:
         return 'Error', 400
-    # except Exception as e:
-    #     return f"An Error Occured: {e}"
 
 
 if __name__ == '__main__':

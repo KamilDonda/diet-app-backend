@@ -1,6 +1,6 @@
 DATABASE_DB = 'src\\database\\database.db'
 DATABASE_SCHEMA = 'src\\database\\schema.sql'
-HOST = '0.0.0.0'
+HOST = '192.168.0.108'
 PORT = 5000
 
 # ENDPOINTS:
