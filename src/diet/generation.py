@@ -59,34 +59,4 @@ class DietGeneration():
 
         output = [e.get_ids() for e in generated_diet]
 
-        # output = [e.serialize() for e in generated_diet]
-
-        # kcal = 0
-        # proteins = 0
-        # carbohydrates = 0
-        # fats = 0
-        # for day in generated_diet:
-        #     kcal += day.total.kcal
-        #     proteins += day.total.proteins
-        #     carbohydrates += day.total.carbohydrates
-        #     fats += day.total.fats
-
-        # total = {
-        #     "kcal": kcal,
-        #     "proteins": proteins,
-        #     "carbohydrates": carbohydrates,
-        #     "fats": fats
-        # }
-
-        # user_i = {
-        #     "kcal": user_input[0] * 7,
-        #     "proteins": user_input[1] * 7,
-        #     "carbohydrates": user_input[3] * 7,
-        #     "fats": user_input[2] * 7
-        # }
-
-        # print(total)
-        # print(user_i)
-
-
         return output
